@@ -8,9 +8,9 @@ This project turns Jonathan Chang's public Markit event stream into a clean, sub
 - stable event identities for calendar update-in-place behavior
 - 3-day cancellation retention before deletion
 - root maintainer context at [CONTEXT.md](./CONTEXT.md)
-- public visual explainer HTML at `docs/visual-explainer.html`
+- private visual explainer HTML at `docs/visual-explainer.html`
 - architecture diagram at `docs/architecture.svg`
-- GitHub Pages deployment path from a private repository
+- GitHub Pages deployment path using a private source repo plus a small public artifact repo
 - optional Vercel handlers still included as a secondary hosting path
 
 Each calendar event includes the final event link both:
@@ -49,11 +49,12 @@ Local defaults:
 The production deployment path is GitHub-native with a split-repo setup:
 
 - source code in a private repo
-- generated state committed to `state/` in the private repo
-- generated public files built into `docs/` in the private repo
+- generated state restored from and persisted to the public artifact repo
+- generated public files built locally from the private source repo
 - GitHub Actions cron every 10 minutes
-- workflow mirrors only the public ICS artifact into a small public Pages repo
-- GitHub Pages serves the public ICS and documentation from that public repo
+- workflow mirrors the public ICS artifact and sync state into a small public Pages repo
+- GitHub Pages serves the public ICS from that public repo
+- HTML explainer, diagram, and maintainer context stay in the private source repo and are not publicly deployed
 
 Expected public feed path after Pages is enabled:
 

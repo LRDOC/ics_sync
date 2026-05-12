@@ -18,6 +18,8 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    env:
+      PUBLIC_SITE_REPO: LRDOC/jonathan-boston-calendar
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -33,6 +35,25 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Prepare public artifact checkout
+        env:
+          DEPLOY_REPO_PAT: ${{ secrets.DEPLOY_REPO_PAT }}
+        run: |
+          if [ -z "${DEPLOY_REPO_PAT}" ]; then
+            echo "DEPLOY_REPO_PAT is missing."
+            exit 1
+          fi
+          tmpdir="$(mktemp -d)"
+          git clone "https://x-access-token:${DEPLOY_REPO_PAT}@github.com/${PUBLIC_SITE_REPO}.git" "${tmpdir}"
+          echo "PUBLIC_REPO_DIR=${tmpdir}" >> "${GITHUB_ENV}"
+
+      - name: Restore prior sync state
+        run: |
+          mkdir -p state/state
+          if [ -f "${PUBLIC_REPO_DIR}/state/jonathan-boston.json" ]; then
+            cp "${PUBLIC_REPO_DIR}/state/jonathan-boston.json" state/state/jonathan-boston.json
+          fi
+
       - name: Run live sync
         env:
           SYNC_STATE_DIR: state
@@ -44,34 +65,16 @@ jobs:
           SYNC_STATE_DIR: state
         run: npm run build:site
 
-      - name: Commit generated state and docs
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs state package-lock.json
-          if git diff --cached --quiet; then
-            echo "No generated changes to commit."
-            exit 0
-          fi
-          git commit -m "chore: refresh generated calendar feed"
-          git pull --rebase origin main
-          git push
-
       - name: Mirror public artifacts to Pages repo
         env:
           DEPLOY_REPO_PAT: ${{ secrets.DEPLOY_REPO_PAT }}
-          PUBLIC_SITE_REPO: LRDOC/jonathan-boston-calendar
         run: |
-          if [ -z "${DEPLOY_REPO_PAT}" ]; then
-            echo "DEPLOY_REPO_PAT is missing."
-            exit 1
-          fi
-          tmpdir="$(mktemp -d)"
-          git clone "https://x-access-token:${DEPLOY_REPO_PAT}@github.com/${PUBLIC_SITE_REPO}.git" "${tmpdir}"
-          find "${tmpdir}" -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
-          cp docs/jonathan-boston.ics "${tmpdir}/jonathan-boston.ics"
-          cp docs/.nojekyll "${tmpdir}/.nojekyll"
-          cat > "${tmpdir}/README.md" <<'EOF'
+          find "${PUBLIC_REPO_DIR}" -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
+          cp docs/jonathan-boston.ics "${PUBLIC_REPO_DIR}/jonathan-boston.ics"
+          cp docs/.nojekyll "${PUBLIC_REPO_DIR}/.nojekyll"
+          mkdir -p "${PUBLIC_REPO_DIR}/state"
+          cp state/state/jonathan-boston.json "${PUBLIC_REPO_DIR}/state/jonathan-boston.json"
+          cat > "${PUBLIC_REPO_DIR}/README.md" <<'EOF'
           # Jonathan Boston Calendar
           
           Public ICS deployment artifact for the Jonathan Boston events feed.
@@ -80,7 +83,7 @@ jobs:
 
           `https://lrdoc.github.io/jonathan-boston-calendar/jonathan-boston.ics`
           EOF
-          cd "${tmpdir}"
+          cd "${PUBLIC_REPO_DIR}"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
