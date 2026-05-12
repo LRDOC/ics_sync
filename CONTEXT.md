@@ -35,16 +35,14 @@ This project continuously regenerates a public ICS feed for Jonathan Chang's Bos
 
 ## Deployment model
 
-- Source code lives in a private GitHub repository.
+- Source code lives in the `ics_sync` GitHub repository.
 - GitHub Actions runs every 10 minutes.
 - The action:
   - runs the sync
   - regenerates `docs/jonathan-boston.ics`
-  - rebuilds the Pages site
-  - commits updated state and docs back to `main`
-  - mirrors only the public artifacts into a separate public GitHub Pages repository
-- GitHub Pages serves the public repo, not the private code repo.
-- The public repo only needs the ICS artifact and a minimal README.
+  - rebuilds the Pages site assets
+  - publishes generated `.ics` files and state snapshots to the `gh-pages` branch
+- GitHub Pages serves the `gh-pages` branch from the same repository.
 
 ## Future source ideas
 
@@ -61,4 +59,4 @@ This project continuously regenerates a public ICS feed for Jonathan Chang's Bos
 - Google Calendar refresh timing is outside our control.
 - Boston filtering is geographic text matching over public event fields, not the exact private client UI state.
 - GitHub Actions cron timing is best effort and may drift by a few minutes.
-- The public deployment repo contains only the ICS artifact plus a minimal landing readme; source code, visual docs, and private workflow state remain in the private repo.
+- With the current GitHub Pages setup, repository privacy depends on the account plan that owns the repo.

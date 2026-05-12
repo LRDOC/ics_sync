@@ -1,6 +1,10 @@
-# Jonathan Boston ICS Sync
+# ics_sync
 
-This project turns Jonathan Chang's public Markit event stream into a clean, subscribable ICS feed for Boston-area upcoming events.
+This project regenerates subscribable ICS feeds from public event sources.
+
+Current supported feed:
+
+`https://lrdoc.github.io/ics_sync/jonathan-boston.ics`
 
 ## What ships
 

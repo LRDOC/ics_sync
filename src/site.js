@@ -463,7 +463,7 @@ export function renderVisualExplainer(state, config, options = {}) {
           <li>Stable event UIDs based on the Markit event id when available.</li>
           <li>Final event link included in the description and the ICS <code>URL</code> field.</li>
           <li>Missing future events flip to <code>CANCELLED</code> before deletion.</li>
-          <li>GitHub-hosted public subscribe URL, while code remains in a private repo.</li>
+          <li>GitHub-hosted public subscribe URL with stateful update and cancellation handling.</li>
         </ul>
       </article>
       <article class="panel">
@@ -490,8 +490,8 @@ export function renderArchitectureSvg() {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
   <rect width="1200" height="760" rx="32" fill="#F6F0E6"/>
   <rect x="48" y="48" width="1104" height="664" rx="28" fill="#FFF9F1" stroke="#D8C7B2"/>
-  <text x="80" y="108" fill="#181410" font-family="Georgia, serif" font-size="42" font-weight="700">Jonathan Boston ICS Sync</text>
-  <text x="80" y="142" fill="#5D564E" font-family="Arial, sans-serif" font-size="20">Private repo, public subscribe URL, cron-regenerated feed</text>
+  <text x="80" y="108" fill="#181410" font-family="Georgia, serif" font-size="42" font-weight="700">ICS Sync</text>
+  <text x="80" y="142" fill="#5D564E" font-family="Arial, sans-serif" font-size="20">GitHub-hosted subscribe URL, cron-regenerated feed</text>
 
   <rect x="80" y="200" width="190" height="126" rx="22" fill="#161616"/>
   <text x="104" y="238" fill="#F6F0E6" font-family="Arial, sans-serif" font-size="18" font-weight="700">Public Firestore</text>
