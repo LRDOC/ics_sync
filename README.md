@@ -1,7 +1,7 @@
 # ics_sync Pages
 
-Public GitHub Pages branch for the Jonathan Boston events feed.
+Public GitHub Pages branch for generated ICS feeds.
 
-Subscribe with:
+Feed URLs follow:
 
-`https://lrdoc.github.io/ics_sync/jonathan-boston.ics`
+`https://lrdoc.github.io/ics_sync/<feed-name>.ics`
