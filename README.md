@@ -52,7 +52,7 @@ The production deployment path is GitHub-native with a split-repo setup:
 - generated state committed to `state/` in the private repo
 - generated public files built into `docs/` in the private repo
 - GitHub Actions cron every 10 minutes
-- workflow mirrors only public artifacts into a small public Pages repo
+- workflow mirrors only the public ICS artifact into a small public Pages repo
 - GitHub Pages serves the public ICS and documentation from that public repo
 
 Expected public feed path after Pages is enabled:

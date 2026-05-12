@@ -44,6 +44,7 @@ This project continuously regenerates a public ICS feed for Jonathan Chang's Bos
   - commits updated state and docs back to `main`
   - mirrors only the public artifacts into a separate public GitHub Pages repository
 - GitHub Pages serves the public repo, not the private code repo.
+- The public repo only needs the ICS artifact and a minimal README.
 
 ## Future source ideas
 
@@ -60,4 +61,4 @@ This project continuously regenerates a public ICS feed for Jonathan Chang's Bos
 - Google Calendar refresh timing is outside our control.
 - Boston filtering is geographic text matching over public event fields, not the exact private client UI state.
 - GitHub Actions cron timing is best effort and may drift by a few minutes.
-- The public deployment repo contains generated artifacts only; source code and private workflow state remain in the private repo.
+- The public deployment repo contains only the ICS artifact plus a minimal landing readme; source code, visual docs, and private workflow state remain in the private repo.

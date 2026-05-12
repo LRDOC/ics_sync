@@ -63,11 +63,13 @@ jobs:
           fi
           tmpdir="$(mktemp -d)"
           git clone "https://x-access-token:${DEPLOY_REPO_PAT}@github.com/${PUBLIC_SITE_REPO}.git" "${tmpdir}"
-          rsync -a --delete --exclude='.git/' docs/ "${tmpdir}/"
+          find "${tmpdir}" -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
+          cp docs/jonathan-boston.ics "${tmpdir}/jonathan-boston.ics"
+          cp docs/.nojekyll "${tmpdir}/.nojekyll"
           cat > "${tmpdir}/README.md" <<'EOF'
           # Jonathan Boston Calendar
-
-          Public deployment artifacts for the Jonathan Boston ICS feed.
+          
+          Public ICS deployment artifact for the Jonathan Boston events feed.
 
           Subscribe with:
 
