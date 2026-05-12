@@ -10,7 +10,7 @@ This project turns Jonathan Chang's public Markit event stream into a clean, sub
 - root maintainer context at [CONTEXT.md](./CONTEXT.md)
 - private visual explainer HTML at `docs/visual-explainer.html`
 - architecture diagram at `docs/architecture.svg`
-- GitHub Pages deployment path using a private source repo plus a small public artifact repo
+- GitHub Pages deployment path from the same `ics_sync` repository
 - optional Vercel handlers still included as a secondary hosting path
 
 Each calendar event includes the final event link both:
@@ -46,19 +46,19 @@ Local defaults:
 
 ## Deployment model
 
-The production deployment path is GitHub-native with a split-repo setup:
+The production deployment path is GitHub-native and uses a single repository:
 
-- source code in a private repo
-- generated state restored from and persisted to the public artifact repo
-- generated public files built locally from the private source repo
+- source code in `main`
+- generated state restored from and persisted to `gh-pages`
+- generated public files built locally from the same repository
 - GitHub Actions cron every 10 minutes
-- workflow mirrors the public ICS artifact and sync state into a small public Pages repo
-- GitHub Pages serves the public ICS from that public repo
-- HTML explainer, diagram, and maintainer context stay in the private source repo and are not publicly deployed
+- workflow publishes only the public ICS artifact and sync state to the `gh-pages` branch
+- GitHub Pages serves the public ICS from that same repository
+- HTML explainer, diagram, and maintainer context stay on `main` and are not part of the Pages branch
 
 Expected public feed path after Pages is enabled:
 
-`https://<owner>.github.io/jonathan-boston-calendar/jonathan-boston.ics`
+`https://<owner>.github.io/ics_sync/jonathan-boston.ics`
 
 ## Optional Vercel path
 

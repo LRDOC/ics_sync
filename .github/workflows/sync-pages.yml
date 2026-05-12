@@ -18,12 +18,11 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    env:
-      PUBLIC_SITE_REPO: LRDOC/jonathan-boston-calendar
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
         with:
+          fetch-depth: 0
           persist-credentials: true
 
       - name: Set up Node
@@ -35,23 +34,23 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Prepare public artifact checkout
-        env:
-          DEPLOY_REPO_PAT: ${{ secrets.DEPLOY_REPO_PAT }}
+      - name: Prepare Pages branch checkout
         run: |
-          if [ -z "${DEPLOY_REPO_PAT}" ]; then
-            echo "DEPLOY_REPO_PAT is missing."
-            exit 1
-          fi
           tmpdir="$(mktemp -d)"
-          git clone "https://x-access-token:${DEPLOY_REPO_PAT}@github.com/${PUBLIC_SITE_REPO}.git" "${tmpdir}"
-          echo "PUBLIC_REPO_DIR=${tmpdir}" >> "${GITHUB_ENV}"
+          if git ls-remote --exit-code --heads origin gh-pages >/dev/null 2>&1; then
+            git fetch origin gh-pages
+            git worktree add -B gh-pages "${tmpdir}" origin/gh-pages
+          else
+            git worktree add -b gh-pages "${tmpdir}" HEAD
+            find "${tmpdir}" -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
+          fi
+          echo "PAGES_DIR=${tmpdir}" >> "${GITHUB_ENV}"
 
       - name: Restore prior sync state
         run: |
           mkdir -p state/state
-          if [ -f "${PUBLIC_REPO_DIR}/state/jonathan-boston.json" ]; then
-            cp "${PUBLIC_REPO_DIR}/state/jonathan-boston.json" state/state/jonathan-boston.json
+          if [ -f "${PAGES_DIR}/state/jonathan-boston.json" ]; then
+            cp "${PAGES_DIR}/state/jonathan-boston.json" state/state/jonathan-boston.json
           fi
 
       - name: Run live sync
@@ -61,35 +60,33 @@ jobs:
 
       - name: Build Pages artifacts
         env:
-          SITE_BASE_URL: https://${{ github.repository_owner }}.github.io/jonathan-boston-calendar
+          SITE_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
           SYNC_STATE_DIR: state
         run: npm run build:site
 
-      - name: Mirror public artifacts to Pages repo
-        env:
-          DEPLOY_REPO_PAT: ${{ secrets.DEPLOY_REPO_PAT }}
+      - name: Publish gh-pages artifacts
         run: |
-          find "${PUBLIC_REPO_DIR}" -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
-          cp docs/jonathan-boston.ics "${PUBLIC_REPO_DIR}/jonathan-boston.ics"
-          cp docs/.nojekyll "${PUBLIC_REPO_DIR}/.nojekyll"
-          mkdir -p "${PUBLIC_REPO_DIR}/state"
-          cp state/state/jonathan-boston.json "${PUBLIC_REPO_DIR}/state/jonathan-boston.json"
-          cat > "${PUBLIC_REPO_DIR}/README.md" <<'EOF'
-          # Jonathan Boston Calendar
+          find "${PAGES_DIR}" -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
+          cp docs/jonathan-boston.ics "${PAGES_DIR}/jonathan-boston.ics"
+          cp docs/.nojekyll "${PAGES_DIR}/.nojekyll"
+          mkdir -p "${PAGES_DIR}/state"
+          cp state/state/jonathan-boston.json "${PAGES_DIR}/state/jonathan-boston.json"
+          cat > "${PAGES_DIR}/README.md" <<'EOF'
+          # ics_sync Pages
           
-          Public ICS deployment artifact for the Jonathan Boston events feed.
+          Public GitHub Pages branch for the Jonathan Boston events feed.
 
           Subscribe with:
 
-          `https://lrdoc.github.io/jonathan-boston-calendar/jonathan-boston.ics`
+          `https://lrdoc.github.io/ics_sync/jonathan-boston.ics`
           EOF
-          cd "${PUBLIC_REPO_DIR}"
+          cd "${PAGES_DIR}"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
+          git add -A .
           if git diff --cached --quiet; then
-            echo "No public artifact changes to publish."
+            echo "No Pages artifact changes to publish."
             exit 0
           fi
-          git commit -m "chore: refresh public calendar site"
-          git push
+          git commit -m "chore: refresh Pages artifacts"
+          git push origin HEAD:gh-pages
