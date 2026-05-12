@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Visual Explainer</title>
+  <style>
+    :root {
+      --bg: #0f1114;
+      --panel: #171c21;
+      --panel-2: #1f262d;
+      --text: #f5efe6;
+      --muted: #b5aba0;
+      --accent: #f18a4b;
+      --accent-2: #69d2c0;
+      --line: rgba(255,255,255,0.12);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: var(--text);
+      font-family: "Avenir Next", "Segoe UI", system-ui, sans-serif;
+      background:
+        radial-gradient(circle at top right, rgba(241,138,75,0.16), transparent 28rem),
+        radial-gradient(circle at bottom left, rgba(105,210,192,0.12), transparent 24rem),
+        var(--bg);
+    }
+    .page {
+      max-width: 1140px;
+      margin: 0 auto;
+      padding: 28px 20px 72px;
+    }
+    h1 {
+      margin: 0 0 12px;
+      font-size: clamp(2.6rem, 6vw, 4.8rem);
+      letter-spacing: -0.05em;
+      line-height: 0.95;
+    }
+    .lede {
+      max-width: 50rem;
+      color: var(--muted);
+      line-height: 1.7;
+      font-size: 1.05rem;
+    }
+    .stack {
+      display: grid;
+      gap: 18px;
+      margin-top: 28px;
+    }
+    .panel {
+      border: 1px solid var(--line);
+      border-radius: 26px;
+      padding: 22px;
+      background: linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.02));
+    }
+    .pipeline {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 14px;
+      margin-top: 14px;
+    }
+    .step {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      padding: 18px;
+      position: relative;
+      min-height: 170px;
+    }
+    .step:after {
+      content: "→";
+      position: absolute;
+      right: -11px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--accent);
+      font-size: 1.5rem;
+    }
+    .step:last-child:after { display: none; }
+    .step strong {
+      display: block;
+      margin-bottom: 10px;
+      font-size: 1rem;
+      color: var(--accent);
+    }
+    .step p, li {
+      color: var(--muted);
+      line-height: 1.55;
+    }
+    .columns {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+    }
+    ul { margin: 0; padding-left: 1.1rem; }
+    .cta {
+      display: inline-block;
+      margin-top: 14px;
+      padding: 12px 16px;
+      border-radius: 999px;
+      text-decoration: none;
+      color: var(--bg);
+      background: var(--accent);
+      font-weight: 700;
+    }
+    code {
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      color: var(--accent-2);
+    }
+    @media (max-width: 960px) {
+      .pipeline, .columns { grid-template-columns: 1fr; }
+      .step:after { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <section>
+      <h1>From public event stream to subscription-grade calendar.</h1>
+      <p class="lede">
+        This project turns Jonathan’s public Markit event inventory into a durable calendar feed. It keeps event identities stable,
+        surfaces the final outbound event link on every item, and is designed so the same normalization pipeline can ingest more platforms later.
+      </p>
+      <a class="cta" href="https://example.com/jonathan-boston-ics-sync/jonathan-boston.ics">Open the live ICS feed</a>
+    </section>
+
+    <section class="panel stack">
+      <div>
+        <strong>Pipeline</strong>
+      </div>
+      <div class="pipeline">
+        <div class="step">
+          <strong>1. Resolve profile</strong>
+          <p>Query public Firestore for <code>username=jonathan</code> and recover the public Markit user id.</p>
+        </div>
+        <div class="step">
+          <strong>2. Fetch public events</strong>
+          <p>Call Markit’s public <code>creatorEvents</code> endpoint and retrieve Jonathan’s visible event inventory.</p>
+        </div>
+        <div class="step">
+          <strong>3. Filter and dedupe</strong>
+          <p>Keep only timed Boston-area events, drop products/posts, and collapse duplicates into one canonical event.</p>
+        </div>
+        <div class="step">
+          <strong>4. Persist state</strong>
+          <p>Carry forward stable UIDs, cancellations, and short-lived tombstones so subscriber calendars update cleanly.</p>
+        </div>
+        <div class="step">
+          <strong>5. Publish site + ICS</strong>
+          <p>Write <code>docs/jonathan-boston.ics</code>, publish it through GitHub Pages, and rebuild the human docs alongside it.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="columns" style="margin-top: 18px;">
+      <article class="panel">
+        <strong>What is guaranteed today</strong>
+        <ul>
+          <li>Stable event UIDs based on the Markit event id when available.</li>
+          <li>Final event link included in the description and the ICS <code>URL</code> field.</li>
+          <li>Missing future events flip to <code>CANCELLED</code> before deletion.</li>
+          <li>GitHub-hosted public subscribe URL, while code remains in a private repo.</li>
+        </ul>
+      </article>
+      <article class="panel">
+        <strong>Ideas to pull in later</strong>
+        <ul>
+          <li>Add more Markit public profiles as separate calendars or a combined city calendar.</li><li>Add Luma, Partiful, Eventbrite, and Posh adapters directly instead of depending on Markit as the aggregator.</li><li>Split output into themed feeds like AI, climate, robotics, fintech, or student founder events.</li><li>Generate Slack or email digests from the same normalized event pipeline.</li><li>Add a JSON feed and lightweight API alongside the ICS output.</li><li>Track source reliability and prefer richer adapters when duplicate events appear across platforms.</li>
+        </ul>
+      </article>
+    </section>
+
+    <section class="panel" style="margin-top: 18px;">
+      <strong>Current snapshot</strong>
+      <p class="lede">
+        The latest successful generation published <code>48</code> events and last refreshed at
+        <code>May 11, 2026, 11:50 PM</code>.
+      </p>
+    </section>
+  </main>
+</body>
+</html>

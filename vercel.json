@@ -1,0 +1,14 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/sync",
+      "schedule": "*/10 * * * *"
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/calendar/:token/jonathan-boston.ics",
+      "destination": "/api/calendar/:token"
+    }
+  ]
+}
