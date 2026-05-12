@@ -26,10 +26,39 @@ function formatUtc(value) {
   return new Date(value).toISOString().replace(/[-:]/g, "").replace(/\.\d{3}Z$/, "Z");
 }
 
+function formatDisplayTime(value, timezone) {
+  return new Intl.DateTimeFormat("en-US", {
+    dateStyle: "medium",
+    timeStyle: "short",
+    timeZone: timezone || "America/New_York"
+  }).format(new Date(value));
+}
+
 function renderDescription(event) {
   const lines = [];
   if (event.sourceUrl) {
     lines.push(`Event Link: ${event.sourceUrl}`);
+  }
+  if (event.sourceProfileUrl) {
+    lines.push(`Markit Profile: ${event.sourceProfileUrl}`);
+  }
+  if (event.startsAt) {
+    lines.push(`Start: ${formatDisplayTime(event.startsAt, event.timezone)}`);
+  }
+  if (event.endsAt) {
+    lines.push(`End: ${formatDisplayTime(event.endsAt, event.timezone)}`);
+  }
+  if (event.location) {
+    lines.push(`Location: ${event.location}`);
+  }
+  if (event.eventType) {
+    lines.push(`Event Type: ${event.eventType}`);
+  }
+  if (Array.isArray(event.categories) && event.categories.length > 0) {
+    lines.push(`Categories: ${event.categories.join(", ")}`);
+  }
+  if (event.sourceId) {
+    lines.push(`Markit Event ID: ${event.sourceId}`);
   }
   if (event.description) {
     lines.push("", event.description);

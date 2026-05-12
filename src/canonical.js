@@ -94,8 +94,13 @@ export function toCanonicalEvent(event, config, now = new Date()) {
   const endsAt = Number.isNaN(endCandidate) ? startsAt : new Date(endCandidate).toISOString();
   const sourceUrl = pickEventLink(event, config.profileUrl);
   const descriptionParts = [compactText(event.description), bodyToText(event.body)].filter(Boolean);
+  const categories = Array.isArray(event.categories)
+    ? event.categories.map(compactText).filter(Boolean)
+    : [];
 
   return {
+    categories,
+    eventType: compactText(event.eventType),
     endsAt,
     firstSeenAt: now.toISOString(),
     lastSeenAt: now.toISOString(),
@@ -103,6 +108,7 @@ export function toCanonicalEvent(event, config, now = new Date()) {
     missingSince: null,
     sourceId: event.id || "",
     sourcePlatform: "markit",
+    sourceProfileUrl: config.profileUrl,
     sourceUrl,
     startsAt,
     status: "CONFIRMED",

@@ -17,6 +17,7 @@ Each calendar event includes the final event link both:
 
 - at the top of the description
 - in the ICS `URL` field
+- plus start, end, location, source profile, source event ID, and any available category/type metadata in the calendar notes
 
 ## Architecture
 
@@ -59,6 +60,30 @@ The production deployment path is GitHub-native and uses a single repository:
 Expected public feed path after Pages is enabled:
 
 `https://<owner>.github.io/ics_sync/jonathan-boston.ics`
+
+## Multi-feed path
+
+This repo can support multiple feeds under the same Pages site. The intended URL shape is:
+
+`https://<owner>.github.io/ics_sync/<feed-name>.ics`
+
+Practical pattern for future iterations:
+
+- give each feed a stable `FEED_NAME`, for example `jonathan-boston`, `jonathan-nyc`, or `alice-sf`
+- keep each feed's state in `state/state/<feed-name>.json`
+- publish each feed as `docs/<feed-name>.ics`
+- let `gh-pages` carry all generated `.ics` files and state snapshots, not just one hardcoded feed
+
+What still needs to be added when you introduce another feed:
+
+- a second sync invocation with its own `FEED_NAME` and source config
+- a build step that emits that feed's `.ics` artifact before the Pages publish step runs
+
+With the current workflow, the Pages branch is already ready to host multiple files like:
+
+- `https://lrdoc.github.io/ics_sync/jonathan-boston.ics`
+- `https://lrdoc.github.io/ics_sync/jonathan-nyc.ics`
+- `https://lrdoc.github.io/ics_sync/alice-sf.ics`
 
 ## Optional Vercel path
 

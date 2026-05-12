@@ -49,8 +49,8 @@ jobs:
       - name: Restore prior sync state
         run: |
           mkdir -p state/state
-          if [ -f "${PAGES_DIR}/state/jonathan-boston.json" ]; then
-            cp "${PAGES_DIR}/state/jonathan-boston.json" state/state/jonathan-boston.json
+          if [ -d "${PAGES_DIR}/state" ]; then
+            cp -R "${PAGES_DIR}/state/." state/state/
           fi
 
       - name: Run live sync
@@ -67,18 +67,18 @@ jobs:
       - name: Publish gh-pages artifacts
         run: |
           find "${PAGES_DIR}" -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
-          cp docs/jonathan-boston.ics "${PAGES_DIR}/jonathan-boston.ics"
+          find docs -maxdepth 1 -type f -name '*.ics' -exec cp {} "${PAGES_DIR}/" \;
           cp docs/.nojekyll "${PAGES_DIR}/.nojekyll"
           mkdir -p "${PAGES_DIR}/state"
-          cp state/state/jonathan-boston.json "${PAGES_DIR}/state/jonathan-boston.json"
+          find state/state -maxdepth 1 -type f -name '*.json' -exec cp {} "${PAGES_DIR}/state/" \;
           cat > "${PAGES_DIR}/README.md" <<'EOF'
           # ics_sync Pages
           
-          Public GitHub Pages branch for the Jonathan Boston events feed.
+          Public GitHub Pages branch for generated ICS feeds.
 
-          Subscribe with:
+          Feed URLs follow:
 
-          `https://lrdoc.github.io/ics_sync/jonathan-boston.ics`
+          `https://lrdoc.github.io/ics_sync/<feed-name>.ics`
           EOF
           cd "${PAGES_DIR}"
           git config user.name "github-actions[bot]"
