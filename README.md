@@ -44,19 +44,20 @@ Local defaults:
 - transient local state goes to `.data/`
 - generated public artifacts go to `docs/`
 
-## GitHub Pages deployment
+## Deployment model
 
-The production deployment path is GitHub-native:
+The production deployment path is GitHub-native with a split-repo setup:
 
 - source code in a private repo
+- generated state committed to `state/` in the private repo
+- generated public files built into `docs/` in the private repo
 - GitHub Actions cron every 10 minutes
-- generated state committed to `state/`
-- generated public files committed to `docs/`
-- GitHub Pages serves the public ICS and documentation
+- workflow mirrors only public artifacts into a small public Pages repo
+- GitHub Pages serves the public ICS and documentation from that public repo
 
 Expected public feed path after Pages is enabled:
 
-`https://<owner>.github.io/<repo>/jonathan-boston.ics`
+`https://<owner>.github.io/jonathan-boston-calendar/jonathan-boston.ics`
 
 ## Optional Vercel path
 

@@ -36,7 +36,7 @@ jobs:
 
       - name: Build Pages artifacts
         env:
-          SITE_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+          SITE_BASE_URL: https://${{ github.repository_owner }}.github.io/jonathan-boston-calendar
           SYNC_STATE_DIR: state
         run: npm run build:site
 
@@ -50,4 +50,36 @@ jobs:
             exit 0
           fi
           git commit -m "chore: refresh generated calendar feed"
+          git push
+
+      - name: Mirror public artifacts to Pages repo
+        env:
+          DEPLOY_REPO_PAT: ${{ secrets.DEPLOY_REPO_PAT }}
+          PUBLIC_SITE_REPO: LRDOC/jonathan-boston-calendar
+        run: |
+          if [ -z "${DEPLOY_REPO_PAT}" ]; then
+            echo "DEPLOY_REPO_PAT is missing."
+            exit 1
+          fi
+          tmpdir="$(mktemp -d)"
+          git clone "https://x-access-token:${DEPLOY_REPO_PAT}@github.com/${PUBLIC_SITE_REPO}.git" "${tmpdir}"
+          rsync -a --delete --exclude='.git/' docs/ "${tmpdir}/"
+          cat > "${tmpdir}/README.md" <<'EOF'
+          # Jonathan Boston Calendar
+
+          Public deployment artifacts for the Jonathan Boston ICS feed.
+
+          Subscribe with:
+
+          `https://lrdoc.github.io/jonathan-boston-calendar/jonathan-boston.ics`
+          EOF
+          cd "${tmpdir}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          if git diff --cached --quiet; then
+            echo "No public artifact changes to publish."
+            exit 0
+          fi
+          git commit -m "chore: refresh public calendar site"
           git push
