@@ -1,5 +1,0 @@
-.env
-node_modules
-.data
-.vercel
-npm-debug.log*
