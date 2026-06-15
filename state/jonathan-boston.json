@@ -5,7 +5,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-06-15T23:00:00.000Z",
       "firstSeenAt": "2026-06-01T23:14:34.209Z",
-      "lastSeenAt": "2026-06-15T13:39:49.138Z",
+      "lastSeenAt": "2026-06-15T15:37:50.030Z",
       "location": "700 Technology Square 5th floor, Cambridge, MA 02139, USA",
       "missingSince": null,
       "sourceId": "EU-hZGgQ7",
@@ -17,7 +17,7 @@
       "summary": "Endless Frontier Labs @ MassBioHub",
       "timezone": "America/New_York",
       "uid": "markit:EU-hZGgQ7",
-      "updatedAt": "2026-06-15T13:39:49.138Z",
+      "updatedAt": "2026-06-15T15:37:50.030Z",
       "description": ""
     },
     {
@@ -25,7 +25,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-06-22T14:00:00.000Z",
       "firstSeenAt": "2026-06-08T19:20:01.621Z",
-      "lastSeenAt": "2026-06-15T13:39:49.138Z",
+      "lastSeenAt": "2026-06-15T15:37:50.030Z",
       "location": "Boston, MA, USA",
       "missingSince": null,
       "sourceId": "cNBxo5EFK",
@@ -37,7 +37,7 @@
       "summary": "Scaling AI Responsibly: AI Governance, Ownership and Organizational Change",
       "timezone": "America/New_York",
       "uid": "markit:cNBxo5EFK",
-      "updatedAt": "2026-06-15T13:39:49.138Z",
+      "updatedAt": "2026-06-15T15:37:50.030Z",
       "description": ""
     },
     {
@@ -45,7 +45,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-06-24T23:30:00.000Z",
       "firstSeenAt": "2026-06-15T03:45:01.363Z",
-      "lastSeenAt": "2026-06-15T13:39:49.138Z",
+      "lastSeenAt": "2026-06-15T15:37:50.030Z",
       "location": "131 Oliver St, Boston, MA 02110, USA",
       "missingSince": null,
       "sourceId": "gYJBcyWJT",
@@ -57,7 +57,7 @@
       "summary": "Boston Founder/Funder Meetup: Round 4",
       "timezone": "America/New_York",
       "uid": "markit:gYJBcyWJT",
-      "updatedAt": "2026-06-15T13:39:49.138Z",
+      "updatedAt": "2026-06-15T15:37:50.030Z",
       "description": ""
     },
     {
@@ -65,7 +65,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-06-24T23:30:00.000Z",
       "firstSeenAt": "2026-06-01T23:14:34.209Z",
-      "lastSeenAt": "2026-06-15T13:39:49.138Z",
+      "lastSeenAt": "2026-06-15T15:37:50.030Z",
       "location": "275 Newbury St floor 3, Boston, MA 02116, USA",
       "missingSince": null,
       "sourceId": "nohC5Uctk",
@@ -77,7 +77,7 @@
       "summary": "Glasswing x Xoogler Spring Rooftop Mixer",
       "timezone": "America/New_York",
       "uid": "markit:nohC5Uctk",
-      "updatedAt": "2026-06-15T13:39:49.138Z",
+      "updatedAt": "2026-06-15T15:37:50.030Z",
       "description": ""
     },
     {
@@ -85,7 +85,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-06-26T00:00:00.000Z",
       "firstSeenAt": "2026-06-08T19:20:01.621Z",
-      "lastSeenAt": "2026-06-15T13:39:49.138Z",
+      "lastSeenAt": "2026-06-15T15:37:50.030Z",
       "location": "450 Summer St, Boston, MA 02210, USA",
       "missingSince": null,
       "sourceId": "B3moS6_RG",
@@ -97,13 +97,13 @@
       "summary": "Game Night with Rubrik & WHOOP: AI Governance & Cyber Resilience",
       "timezone": "America/New_York",
       "uid": "markit:B3moS6_RG",
-      "updatedAt": "2026-06-15T13:39:49.138Z",
+      "updatedAt": "2026-06-15T15:37:50.030Z",
       "description": ""
     },
     {
       "endsAt": "2026-07-29T01:00:00.000Z",
       "firstSeenAt": "2026-05-12T03:50:34.298Z",
-      "lastSeenAt": "2026-06-15T13:39:49.138Z",
+      "lastSeenAt": "2026-06-15T15:37:50.030Z",
       "location": "383 Dorchester Ave, Boston, MA 02127, USA",
       "missingSince": null,
       "sourceId": "3Tp3Fq-Np",
@@ -114,7 +114,7 @@
       "summary": "Laracon After Party",
       "timezone": "America/New_York",
       "uid": "markit:3Tp3Fq-Np",
-      "updatedAt": "2026-06-15T13:39:49.138Z",
+      "updatedAt": "2026-06-15T15:37:50.030Z",
       "description": "",
       "categories": [],
       "eventType": "External Without Data",
@@ -123,7 +123,7 @@
     {
       "endsAt": "2026-10-29T21:00:00.000Z",
       "firstSeenAt": "2026-05-12T03:50:34.298Z",
-      "lastSeenAt": "2026-06-15T13:39:49.138Z",
+      "lastSeenAt": "2026-06-15T15:37:50.030Z",
       "location": "444 Somerville Ave, Somerville, MA 02143, USA",
       "missingSince": null,
       "sourceId": "-Q_wqV_e5",
@@ -134,7 +134,7 @@
       "summary": "Boston Climatetech Summit 2026",
       "timezone": "America/New_York",
       "uid": "markit:-Q_wqV_e5",
-      "updatedAt": "2026-06-15T13:39:49.138Z",
+      "updatedAt": "2026-06-15T15:37:50.030Z",
       "description": "",
       "categories": [],
       "eventType": "External Without Data",
@@ -142,7 +142,7 @@
     }
   ],
   "feedName": "jonathan-boston",
-  "generatedAt": "2026-06-15T13:39:49.138Z",
+  "generatedAt": "2026-06-15T15:37:50.030Z",
   "profile": {
     "fullName": "Jonathan Chang",
     "profileUrl": "https://markitai.com/u/jonathan",
