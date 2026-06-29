@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Jonathan Boston Upcoming Events
 BEGIN:VEVENT
 UID:markit:Giqqe2RD-
-DTSTAMP:20260629T162049Z
+DTSTAMP:20260629T172029Z
 DTSTART:20260630T123000Z
 DTEND:20260630T140000Z
 SUMMARY:Tackling the Goliath: How AI Is Reshaping Venture Capital
@@ -19,7 +19,7 @@ URL:https://luma.com/k8m3nc3g
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:cD47IQUsw
-DTSTAMP:20260629T162049Z
+DTSTAMP:20260629T172029Z
 DTSTART:20260702T210000Z
 DTEND:20260703T020000Z
 SUMMARY:The Mass AI Coalition Summer Startup Block Party: America's 250th i
@@ -32,11 +32,50 @@ DESCRIPTION:Event Link: https://luma.com/208o8zw8\nMarkit Profile: https://
 URL:https://luma.com/208o8zw8
 END:VEVENT
 BEGIN:VEVENT
+UID:markit:8ZaNO2OYX
+DTSTAMP:20260629T172029Z
+DTSTART:20260711T170000Z
+DTEND:20260711T220000Z
+SUMMARY:HOME FIELD: Ownership\, Sports & Technology
+LOCATION:33 Newtowne Ct\, Cambridge\, MA 02139\, USA
+DESCRIPTION:Event Link: https://luma.com/raycw6dn\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Jul 11\, 2026\, 1:00 PM\nEnd: Jul 11\, 2026
+ \, 6:00 PM\nLocation: 33 Newtowne Ct\, Cambridge\, MA 02139\, USA\nEvent Ty
+ pe: External Without Data\nMarkit Event ID: 8ZaNO2OYX
+URL:https://luma.com/raycw6dn
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:BAzGqHXEd
+DTSTAMP:20260629T172029Z
+DTSTART:20260711T220000Z
+DTEND:20260712T010000Z
+SUMMARY:From AI User to AI Builder - Base44 x AI Collective (Boston)
+LOCATION:114 Broadway\, Cambridge\, MA 02142\, USA
+DESCRIPTION:Event Link: https://luma.com/aic-bo-7-11\nMarkit Profile: https
+ ://markitai.com/u/jonathan\nStart: Jul 11\, 2026\, 6:00 PM\nEnd: Jul 11\, 2
+ 026\, 9:00 PM\nLocation: 114 Broadway\, Cambridge\, MA 02142\, USA\nEvent T
+ ype: External Without Data\nMarkit Event ID: BAzGqHXEd
+URL:https://luma.com/aic-bo-7-11
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:Uh0Uop04g
+DTSTAMP:20260629T172029Z
+DTSTART:20260713T220000Z
+DTEND:20260714T003000Z
+SUMMARY:The AI Runtime - Boston
+LOCATION:9W59+VX Cambridge\, MA\, USA
+DESCRIPTION:Event Link: https://luma.com/lou5ylpt\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Jul 13\, 2026\, 6:00 PM\nEnd: Jul 13\, 2026
+ \, 8:30 PM\nLocation: 9W59+VX Cambridge\, MA\, USA\nEvent Type: External Wi
+ thout Data\nMarkit Event ID: Uh0Uop04g
+URL:https://luma.com/lou5ylpt
+END:VEVENT
+BEGIN:VEVENT
 UID:markit:kjiXwELn-
-DTSTAMP:20260629T162049Z
+DTSTAMP:20260629T172029Z
 DTSTART:20260715T220000Z
 DTEND:20260716T000000Z
-SUMMARY:Building AI in Production with Box & the Massachusetts AI Coalition
+SUMMARY:Box AI: Building AI in Production at Flight Club
 LOCATION:60 Seaport Blvd Ste 215\, Boston\, MA 02210\, USA
 DESCRIPTION:Event Link: https://luma.com/boxaicoalition\nMarkit Profile: ht
  tps://markitai.com/u/jonathan\nStart: Jul 15\, 2026\, 6:00 PM\nEnd: Jul 15\
@@ -45,8 +84,47 @@ DESCRIPTION:Event Link: https://luma.com/boxaicoalition\nMarkit Profile: ht
 URL:https://luma.com/boxaicoalition
 END:VEVENT
 BEGIN:VEVENT
+UID:markit:HsXR7Hdn2
+DTSTAMP:20260629T172029Z
+DTSTART:20260716T130000Z
+DTEND:20260716T150000Z
+SUMMARY:Fidelity Women's Health Breakfast
+LOCATION:1 India St\, Boston\, MA 02109\, USA
+DESCRIPTION:Event Link: https://luma.com/9gt4sup6\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Jul 16\, 2026\, 9:00 AM\nEnd: Jul 16\, 2026
+ \, 11:00 AM\nLocation: 1 India St\, Boston\, MA 02109\, USA\nEvent Type: Ex
+ ternal Without Data\nMarkit Event ID: HsXR7Hdn2
+URL:https://luma.com/9gt4sup6
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:lv2SAxB7o
+DTSTAMP:20260629T172029Z
+DTSTART:20260716T220000Z
+DTEND:20260717T010000Z
+SUMMARY:64th Boston Hardware Meetup @ Nona Technologies
+LOCATION:76 Hampshire St\, Cambridge\, MA 02139\, USA
+DESCRIPTION:Event Link: https://luma.com/ka4thpjh\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Jul 16\, 2026\, 6:00 PM\nEnd: Jul 16\, 2026
+ \, 9:00 PM\nLocation: 76 Hampshire St\, Cambridge\, MA 02139\, USA\nEvent T
+ ype: External Without Data\nMarkit Event ID: lv2SAxB7o
+URL:https://luma.com/ka4thpjh
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:oza1rgBaL
+DTSTAMP:20260629T172029Z
+DTSTART:20260716T230000Z
+DTEND:20260717T010000Z
+SUMMARY:Founders Basketball Boston (July 2026)
+LOCATION:23 Evergreen St\, Jamaica Plain\, MA 02130\, USA
+DESCRIPTION:Event Link: https://luma.com/dqpbdr61\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Jul 16\, 2026\, 7:00 PM\nEnd: Jul 16\, 2026
+ \, 9:00 PM\nLocation: 23 Evergreen St\, Jamaica Plain\, MA 02130\, USA\nEve
+ nt Type: External Without Data\nMarkit Event ID: oza1rgBaL
+URL:https://luma.com/dqpbdr61
+END:VEVENT
+BEGIN:VEVENT
 UID:markit:2S1Z_nQZH
-DTSTAMP:20260629T162049Z
+DTSTAMP:20260629T172029Z
 DTSTART:20260720T223000Z
 DTEND:20260720T233000Z
 SUMMARY:Draftkings: How Leading Companies are Building AI-ready People\, Sk
@@ -60,7 +138,7 @@ URL:https://partiful.com/e/D0zBVaxpNOhKqQ0LhaAg
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:3Tp3Fq-Np
-DTSTAMP:20260629T162049Z
+DTSTAMP:20260629T172029Z
 DTSTART:20260728T220000Z
 DTEND:20260729T010000Z
 SUMMARY:Laracon After Party
@@ -73,7 +151,7 @@ URL:https://luma.com/x596untc
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:MkBZETqcF
-DTSTAMP:20260629T162049Z
+DTSTAMP:20260629T172029Z
 DTSTART:20260729T220000Z
 DTEND:20260730T010000Z
 SUMMARY:South X Southie 2026
@@ -85,8 +163,21 @@ DESCRIPTION:Event Link: https://luma.com/624cu2y8\nMarkit Profile: https://
 URL:https://luma.com/624cu2y8
 END:VEVENT
 BEGIN:VEVENT
+UID:markit:fAUfeBV_C
+DTSTAMP:20260629T172029Z
+DTSTART:20260827T220000Z
+DTEND:20260828T003000Z
+SUMMARY:Life Sciences AI on Tap - Boston Connect
+LOCATION:101 Main St\, Somerville\, MA 02143\, USA
+DESCRIPTION:Event Link: https://luma.com/LSoT-Ketryx\nMarkit Profile: https
+ ://markitai.com/u/jonathan\nStart: Aug 27\, 2026\, 6:00 PM\nEnd: Aug 27\, 2
+ 026\, 8:30 PM\nLocation: 101 Main St\, Somerville\, MA 02143\, USA\nEvent T
+ ype: External Without Data\nMarkit Event ID: fAUfeBV_C
+URL:https://luma.com/LSoT-Ketryx
+END:VEVENT
+BEGIN:VEVENT
 UID:markit:-Q_wqV_e5
-DTSTAMP:20260629T162049Z
+DTSTAMP:20260629T172029Z
 DTSTART:20261029T130000Z
 DTEND:20261029T210000Z
 SUMMARY:Boston Climatetech Summit 2026
