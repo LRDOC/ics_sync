@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Jonathan Boston Upcoming Events
 BEGIN:VEVENT
 UID:markit:8ZaNO2OYX
-DTSTAMP:20260706T194837Z
+DTSTAMP:20260706T203033Z
 DTSTART:20260711T170000Z
 DTEND:20260711T220000Z
 SUMMARY:HOME FIELD: Ownership\, Sports & Technology
@@ -19,7 +19,7 @@ URL:https://luma.com/raycw6dn
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:BAzGqHXEd
-DTSTAMP:20260706T194837Z
+DTSTAMP:20260706T203033Z
 DTSTART:20260711T220000Z
 DTEND:20260712T010000Z
 SUMMARY:From AI User to AI Builder - Base44 x AI Collective (Boston)
@@ -32,7 +32,7 @@ URL:https://luma.com/aic-bo-7-11
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:LT4It0qsCp
-DTSTAMP:20260706T194837Z
+DTSTAMP:20260706T203033Z
 DTSTART:20260712T190000Z
 DTEND:20260712T200000Z
 SUMMARY:Test Scanner Bug
@@ -44,8 +44,21 @@ DESCRIPTION:Event Link: https://markitai.com/u/jonathan/e/LT4It0qsCp\nMarki
 URL:https://markitai.com/u/jonathan/e/LT4It0qsCp
 END:VEVENT
 BEGIN:VEVENT
+UID:markit:uDiC7DgtW
+DTSTAMP:20260706T203033Z
+DTSTART:20260713T200000Z
+DTEND:20260713T220000Z
+SUMMARY:Sustainable Biotech Hubs
+LOCATION:1 Milestone St\, Boston\, MA 02134\, USA
+DESCRIPTION:Event Link: https://luma.com/a84z5o2n\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Jul 13\, 2026\, 4:00 PM\nEnd: Jul 13\, 2026
+ \, 6:00 PM\nLocation: 1 Milestone St\, Boston\, MA 02134\, USA\nEvent Type:
+  External Without Data\nMarkit Event ID: uDiC7DgtW
+URL:https://luma.com/a84z5o2n
+END:VEVENT
+BEGIN:VEVENT
 UID:markit:Uh0Uop04g
-DTSTAMP:20260706T194837Z
+DTSTAMP:20260706T203033Z
 DTSTART:20260713T220000Z
 DTEND:20260714T003000Z
 SUMMARY:The AI Runtime - Boston
@@ -58,7 +71,7 @@ URL:https://luma.com/lou5ylpt
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:eOqzNr4Dc
-DTSTAMP:20260706T194837Z
+DTSTAMP:20260706T203033Z
 DTSTART:20260714T210000Z
 DTEND:20260714T220000Z
 SUMMARY:Alumni Ventures and SVB July Fundraising Workshop
@@ -71,7 +84,7 @@ URL:https://events.svb.com/julyfundraisingworkshopwithsvb
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:kjiXwELn-
-DTSTAMP:20260706T194837Z
+DTSTAMP:20260706T203033Z
 DTSTART:20260715T220000Z
 DTEND:20260716T000000Z
 SUMMARY:Box AI: Building AI in Production at Flight Club
@@ -84,7 +97,7 @@ URL:https://luma.com/boxaicoalition
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:HsXR7Hdn2
-DTSTAMP:20260706T194837Z
+DTSTAMP:20260706T203033Z
 DTSTART:20260716T130000Z
 DTEND:20260716T150000Z
 SUMMARY:Fidelity Women's Health Breakfast
@@ -97,7 +110,7 @@ URL:https://luma.com/9gt4sup6
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:lv2SAxB7o
-DTSTAMP:20260706T194837Z
+DTSTAMP:20260706T203033Z
 DTSTART:20260716T220000Z
 DTEND:20260717T010000Z
 SUMMARY:64th Boston Hardware Meetup @ Nona Technologies
@@ -110,7 +123,7 @@ URL:https://luma.com/ka4thpjh
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:oza1rgBaL
-DTSTAMP:20260706T194837Z
+DTSTAMP:20260706T203033Z
 DTSTART:20260716T230000Z
 DTEND:20260717T010000Z
 SUMMARY:Founders Basketball Boston (July 2026)
@@ -122,8 +135,34 @@ DESCRIPTION:Event Link: https://luma.com/dqpbdr61\nMarkit Profile: https://
 URL:https://luma.com/dqpbdr61
 END:VEVENT
 BEGIN:VEVENT
+UID:markit:DK-XT-kpM
+DTSTAMP:20260706T203033Z
+DTSTART:20260717T200000Z
+DTEND:20260720T000000Z
+SUMMARY:The Space of All Possible Rhythms (And Rhymes) Salon @ MIT
+LOCATION:99 Memorial Dr\, Cambridge\, MA 02142\, USA
+DESCRIPTION:Event Link: https://luma.com/rapmit\nMarkit Profile: https://ma
+ rkitai.com/u/jonathan\nStart: Jul 17\, 2026\, 4:00 PM\nEnd: Jul 19\, 2026\,
+  8:00 PM\nLocation: 99 Memorial Dr\, Cambridge\, MA 02142\, USA\nEvent Type
+ : External Without Data\nMarkit Event ID: DK-XT-kpM
+URL:https://luma.com/rapmit
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:eRvqj3xE-
+DTSTAMP:20260706T203033Z
+DTSTART:20260720T213000Z
+DTEND:20260721T003000Z
+SUMMARY:Engineering Bacteria for Next-Gen Therapeutics
+LOCATION:420 Broadway\, Cambridge\, MA 02138\, USA
+DESCRIPTION:Event Link: https://luma.com/wo1j52es\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Jul 20\, 2026\, 5:30 PM\nEnd: Jul 20\, 2026
+ \, 8:30 PM\nLocation: 420 Broadway\, Cambridge\, MA 02138\, USA\nEvent Type
+ : External Without Data\nMarkit Event ID: eRvqj3xE-
+URL:https://luma.com/wo1j52es
+END:VEVENT
+BEGIN:VEVENT
 UID:markit:2S1Z_nQZH
-DTSTAMP:20260706T194837Z
+DTSTAMP:20260706T203033Z
 DTSTART:20260720T223000Z
 DTEND:20260720T233000Z
 SUMMARY:Draftkings: How Leading Companies are Building AI-ready People\, Sk
@@ -136,8 +175,60 @@ DESCRIPTION:Event Link: https://partiful.com/e/D0zBVaxpNOhKqQ0LhaAg\nMarkit
 URL:https://partiful.com/e/D0zBVaxpNOhKqQ0LhaAg
 END:VEVENT
 BEGIN:VEVENT
+UID:markit:uLgPBuYjd
+DTSTAMP:20260706T203033Z
+DTSTART:20260721T210000Z
+DTEND:20260721T223000Z
+SUMMARY:Careers in Tough Tech: A Fireside Chat for Interns and Co-Ops
+LOCATION:24 Newtowne Ct\, Cambridge\, MA 02139\, USA
+DESCRIPTION:Event Link: https://luma.com/qotnjbcr\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Jul 21\, 2026\, 5:00 PM\nEnd: Jul 21\, 2026
+ \, 6:30 PM\nLocation: 24 Newtowne Ct\, Cambridge\, MA 02139\, USA\nEvent Ty
+ pe: External Without Data\nMarkit Event ID: uLgPBuYjd
+URL:https://luma.com/qotnjbcr
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:0U4tZAQ5D
+DTSTAMP:20260706T203033Z
+DTSTART:20260722T213000Z
+DTEND:20260723T003000Z
+SUMMARY:Built // Different Dinner: Boston
+LOCATION:210 Berkeley St\, Boston\, MA 02116\, USA
+DESCRIPTION:Event Link: https://luma.com/built-different-july-dinner\nMarki
+ t Profile: https://markitai.com/u/jonathan\nStart: Jul 22\, 2026\, 5:30 PM\
+ nEnd: Jul 22\, 2026\, 8:30 PM\nLocation: 210 Berkeley St\, Boston\, MA 0211
+ 6\, USA\nEvent Type: External Without Data\nMarkit Event ID: 0U4tZAQ5D
+URL:https://luma.com/built-different-july-dinner
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:GJhL0fb0J
+DTSTAMP:20260706T203033Z
+DTSTART:20260722T213000Z
+DTEND:20260723T000000Z
+SUMMARY:Network Night 1
+LOCATION:Haymarket\, 136 Blackstone St\, Boston\, MA 02109\, USA
+DESCRIPTION:Event Link: https://luma.com/78oghg0u\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Jul 22\, 2026\, 5:30 PM\nEnd: Jul 22\, 2026
+ \, 8:00 PM\nLocation: Haymarket\, 136 Blackstone St\, Boston\, MA 02109\, U
+ SA\nEvent Type: External Without Data\nMarkit Event ID: GJhL0fb0J
+URL:https://luma.com/78oghg0u
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:ntboSGdVz
+DTSTAMP:20260706T203033Z
+DTSTART:20260722T213000Z
+DTEND:20260722T233000Z
+SUMMARY:Founder & Operator Night\, Co-Hosted by MGMT\, TNT & Ryan Smith
+LOCATION:2 Ave de Lafayette\, Boston\, MA 02111\, USA
+DESCRIPTION:Event Link: https://luma.com/p0l0ochl\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Jul 22\, 2026\, 5:30 PM\nEnd: Jul 22\, 2026
+ \, 7:30 PM\nLocation: 2 Ave de Lafayette\, Boston\, MA 02111\, USA\nEvent T
+ ype: External Without Data\nMarkit Event ID: ntboSGdVz
+URL:https://luma.com/p0l0ochl
+END:VEVENT
+BEGIN:VEVENT
 UID:markit:3Tp3Fq-Np
-DTSTAMP:20260706T194837Z
+DTSTAMP:20260706T203033Z
 DTSTART:20260728T220000Z
 DTEND:20260729T010000Z
 SUMMARY:Laracon After Party
@@ -150,7 +241,7 @@ URL:https://luma.com/x596untc
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:MkBZETqcF
-DTSTAMP:20260706T194837Z
+DTSTAMP:20260706T203033Z
 DTSTART:20260729T220000Z
 DTEND:20260730T010000Z
 SUMMARY:South X Southie 2026
@@ -162,8 +253,34 @@ DESCRIPTION:Event Link: https://luma.com/624cu2y8\nMarkit Profile: https://
 URL:https://luma.com/624cu2y8
 END:VEVENT
 BEGIN:VEVENT
+UID:markit:Y4CslGFDv
+DTSTAMP:20260706T203033Z
+DTSTART:20260729T220000Z
+DTEND:20260730T013000Z
+SUMMARY:Pitch Lift 100k Reality Gameshow: Round 4
+LOCATION:86 Bedford St\, Boston\, MA 02111\, USA
+DESCRIPTION:Event Link: https://luma.com/loh2dfa0\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Jul 29\, 2026\, 6:00 PM\nEnd: Jul 29\, 2026
+ \, 9:30 PM\nLocation: 86 Bedford St\, Boston\, MA 02111\, USA\nEvent Type: 
+ External Without Data\nMarkit Event ID: Y4CslGFDv
+URL:https://luma.com/loh2dfa0
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:HIGdSJMae
+DTSTAMP:20260706T203033Z
+DTSTART:20260803T220000Z
+DTEND:20260804T000000Z
+SUMMARY:Women Applying AI Live
+LOCATION:100 High St\, Boston\, MA 02110\, USA
+DESCRIPTION:Event Link: https://luma.com/xaz2h31y\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Aug 3\, 2026\, 6:00 PM\nEnd: Aug 3\, 2026\,
+  8:00 PM\nLocation: 100 High St\, Boston\, MA 02110\, USA\nEvent Type: Exte
+ rnal Without Data\nMarkit Event ID: HIGdSJMae
+URL:https://luma.com/xaz2h31y
+END:VEVENT
+BEGIN:VEVENT
 UID:markit:fAUfeBV_C
-DTSTAMP:20260706T194837Z
+DTSTAMP:20260706T203033Z
 DTSTART:20260827T220000Z
 DTEND:20260828T003000Z
 SUMMARY:Life Sciences AI on Tap - Boston Connect
@@ -176,7 +293,7 @@ URL:https://luma.com/LSoT-Ketryx
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:-Q_wqV_e5
-DTSTAMP:20260706T194837Z
+DTSTAMP:20260706T203033Z
 DTSTART:20261029T130000Z
 DTEND:20261029T210000Z
 SUMMARY:Boston Climatetech Summit 2026
