@@ -5,7 +5,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-07-28T00:00:00.000Z",
       "firstSeenAt": "2026-07-21T01:31:20.638Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "77 Massachusetts Ave, Cambridge, MA 02139, USA",
       "missingSince": null,
       "sourceId": "-jIhU3vum",
@@ -17,7 +17,7 @@
       "summary": "Deep Tech Startups in the Age of AI by Fifty Years",
       "timezone": "America/New_York",
       "uid": "markit:-jIhU3vum",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
@@ -25,7 +25,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-07-28T00:30:00.000Z",
       "firstSeenAt": "2026-07-16T14:48:11.661Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "1 Lincoln St, Boston, MA 02111, USA",
       "missingSince": null,
       "sourceId": "F3L2LShRV",
@@ -37,7 +37,7 @@
       "summary": "AI + Healthcare in Boston: Celebrating PathAI",
       "timezone": "America/New_York",
       "uid": "markit:F3L2LShRV",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
@@ -45,7 +45,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-07-28T00:30:00.000Z",
       "firstSeenAt": "2026-07-12T18:59:26.863Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "Gotlieb Archival Research Center, 771 Commonwealth Ave, Boston, MA 02215, USA",
       "missingSince": null,
       "sourceId": "lk95Zkigx",
@@ -57,13 +57,13 @@
       "summary": "LangChain Boston Meetup: Loop Engineering and Open Models",
       "timezone": "America/New_York",
       "uid": "markit:lk95Zkigx",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
       "endsAt": "2026-07-29T01:00:00.000Z",
       "firstSeenAt": "2026-05-12T03:50:34.298Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "383 Dorchester Ave, Boston, MA 02127, USA",
       "missingSince": null,
       "sourceId": "3Tp3Fq-Np",
@@ -74,7 +74,7 @@
       "summary": "Laracon After Party",
       "timezone": "America/New_York",
       "uid": "markit:3Tp3Fq-Np",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": "",
       "categories": [],
       "eventType": "External Without Data",
@@ -85,7 +85,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-07-29T15:00:00.000Z",
       "firstSeenAt": "2026-07-20T19:18:34.947Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "131 State St, Boston, MA 02109, USA",
       "missingSince": null,
       "sourceId": "VhtwSfNJO",
@@ -97,7 +97,7 @@
       "summary": "Sports, Entertainment, and Gaming Breakfast",
       "timezone": "America/New_York",
       "uid": "markit:VhtwSfNJO",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
@@ -105,7 +105,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-07-30T01:00:00.000Z",
       "firstSeenAt": "2026-06-16T19:56:17.373Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "411 Dorchester Ave, Boston, MA 02127, USA",
       "missingSince": null,
       "sourceId": "MkBZETqcF",
@@ -117,7 +117,7 @@
       "summary": "South X Southie 2026",
       "timezone": "America/New_York",
       "uid": "markit:MkBZETqcF",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
@@ -125,7 +125,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-07-30T01:30:00.000Z",
       "firstSeenAt": "2026-07-06T20:30:33.641Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "86 Bedford St, Boston, MA 02111, USA",
       "missingSince": null,
       "sourceId": "Y4CslGFDv",
@@ -137,7 +137,7 @@
       "summary": "Pitch Lift 100k Reality Gameshow: Round 4",
       "timezone": "America/New_York",
       "uid": "markit:Y4CslGFDv",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
@@ -145,7 +145,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-02T21:00:00.000Z",
       "firstSeenAt": "2026-07-21T01:31:20.638Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "2 Potter St, Cambridge, MA 02142, USA",
       "missingSince": null,
       "sourceId": "NCHgGpsbF",
@@ -157,7 +157,7 @@
       "summary": "Revolute Hackathon 2026",
       "timezone": "America/New_York",
       "uid": "markit:NCHgGpsbF",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
@@ -165,7 +165,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-04T00:00:00.000Z",
       "firstSeenAt": "2026-07-06T20:30:33.641Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "100 High St, Boston, MA 02110, USA",
       "missingSince": null,
       "sourceId": "HIGdSJMae",
@@ -177,7 +177,7 @@
       "summary": "Women Applying AI Live",
       "timezone": "America/New_York",
       "uid": "markit:HIGdSJMae",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
@@ -185,7 +185,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-04T17:30:00.000Z",
       "firstSeenAt": "2026-07-21T01:31:20.638Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "415 Main St, Cambridge, MA 02142, USA",
       "missingSince": null,
       "sourceId": "OX6SOYk2-",
@@ -197,7 +197,7 @@
       "summary": "AI Agents For Bio Researches",
       "timezone": "America/New_York",
       "uid": "markit:OX6SOYk2-",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
@@ -205,7 +205,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-05T13:00:00.000Z",
       "firstSeenAt": "2026-07-21T01:31:20.638Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "750 Main St, Cambridge, MA 02139, USA",
       "missingSince": null,
       "sourceId": "SYe4KvicB",
@@ -217,7 +217,7 @@
       "summary": "Morning Yoga at The Engine",
       "timezone": "America/New_York",
       "uid": "markit:SYe4KvicB",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
@@ -225,7 +225,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-06T00:30:00.000Z",
       "firstSeenAt": "2026-07-12T18:59:26.863Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "14, Cambridge Innovation Center, 101 Main St, Cambridge, MA 02142, USA",
       "missingSince": null,
       "sourceId": "4nzkYe9AS",
@@ -237,7 +237,7 @@
       "summary": "The AI Runtime - Boston",
       "timezone": "America/New_York",
       "uid": "markit:4nzkYe9AS",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
@@ -245,7 +245,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-06T23:30:00.000Z",
       "firstSeenAt": "2026-07-12T18:59:26.863Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "444 Somerville Ave, Somerville, MA 02143, USA",
       "missingSince": null,
       "sourceId": "GiWe_YejZ",
@@ -257,7 +257,7 @@
       "summary": "August EnergyBar: Recharge on the Roof",
       "timezone": "America/New_York",
       "uid": "markit:GiWe_YejZ",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
@@ -265,7 +265,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-10T23:30:00.000Z",
       "firstSeenAt": "2026-07-12T18:59:26.863Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "313 Congress St, Boston, MA 02210, USA",
       "missingSince": null,
       "sourceId": "IyIktgZn5",
@@ -277,7 +277,7 @@
       "summary": "Startup Boston Cofounder Matching: Meet Your Future Founding Team",
       "timezone": "America/New_York",
       "uid": "markit:IyIktgZn5",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
@@ -285,7 +285,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-13T01:00:00.000Z",
       "firstSeenAt": "2026-07-21T01:31:20.638Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "750 Main St, Cambridge, MA 02139, USA",
       "missingSince": null,
       "sourceId": "IzQ-GYdXi",
@@ -297,7 +297,7 @@
       "summary": "AI+X Meetup @ The Engine",
       "timezone": "America/New_York",
       "uid": "markit:IzQ-GYdXi",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
@@ -305,7 +305,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-15T00:00:00.000Z",
       "firstSeenAt": "2026-07-21T01:31:20.638Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "306 Northern Ave, Boston, MA 02210, USA",
       "missingSince": null,
       "sourceId": "nmCil4dcB",
@@ -317,7 +317,7 @@
       "summary": "RevGenius IRL: Boston Happy Hour",
       "timezone": "America/New_York",
       "uid": "markit:nmCil4dcB",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
@@ -325,7 +325,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-26T01:00:00.000Z",
       "firstSeenAt": "2026-07-14T17:43:23.279Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "Long Wharf (North) - Gate 5C, Boston, MA 02110, USA",
       "missingSince": null,
       "sourceId": "Fym4OUG9w",
@@ -337,7 +337,7 @@
       "summary": "Bottom Up Media Boston Creators Mixer",
       "timezone": "America/New_York",
       "uid": "markit:Fym4OUG9w",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
@@ -345,7 +345,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-28T00:00:00.000Z",
       "firstSeenAt": "2026-07-21T01:31:20.638Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "Two International Place, International Pl, Boston, MA 02110, USA",
       "missingSince": null,
       "sourceId": "UATo68LGk",
@@ -357,7 +357,7 @@
       "summary": "Agents & APIs Boston Developer Meetup",
       "timezone": "America/New_York",
       "uid": "markit:UATo68LGk",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
@@ -365,7 +365,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-28T00:30:00.000Z",
       "firstSeenAt": "2026-06-29T17:20:29.587Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "101 Main St, Somerville, MA 02143, USA",
       "missingSince": null,
       "sourceId": "fAUfeBV_C",
@@ -377,13 +377,13 @@
       "summary": "Life Sciences AI on Tap - Boston Connect",
       "timezone": "America/New_York",
       "uid": "markit:fAUfeBV_C",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": ""
     },
     {
       "endsAt": "2026-10-29T21:00:00.000Z",
       "firstSeenAt": "2026-05-12T03:50:34.298Z",
-      "lastSeenAt": "2026-07-26T10:58:43.742Z",
+      "lastSeenAt": "2026-07-26T11:32:07.011Z",
       "location": "444 Somerville Ave, Somerville, MA 02143, USA",
       "missingSince": null,
       "sourceId": "-Q_wqV_e5",
@@ -394,7 +394,7 @@
       "summary": "Boston Climatetech Summit 2026",
       "timezone": "America/New_York",
       "uid": "markit:-Q_wqV_e5",
-      "updatedAt": "2026-07-26T10:58:43.742Z",
+      "updatedAt": "2026-07-26T11:32:07.011Z",
       "description": "",
       "categories": [],
       "eventType": "External Without Data",
@@ -402,7 +402,7 @@
     }
   ],
   "feedName": "jonathan-boston",
-  "generatedAt": "2026-07-26T10:58:43.742Z",
+  "generatedAt": "2026-07-26T11:32:07.011Z",
   "profile": {
     "fullName": "Jonathan Chang",
     "profileUrl": "https://markitai.com/u/jonathan",
