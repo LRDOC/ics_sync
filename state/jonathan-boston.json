@@ -5,7 +5,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-19T00:00:00.000Z",
       "firstSeenAt": "2026-08-10T04:55:24.725Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "24 Newtowne Ct, Cambridge, MA 02139, USA",
       "missingSince": null,
       "sourceId": "GY9sYAOiE",
@@ -17,7 +17,7 @@
       "summary": "Agentic AI in the Wild - Callstack & Qodo Dev Community & Codex Community in Boston",
       "timezone": "America/New_York",
       "uid": "markit:GY9sYAOiE",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -25,7 +25,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-19T00:30:00.000Z",
       "firstSeenAt": "2026-07-31T01:31:15.148Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "700 Boylston St, Boston, MA 02116, USA",
       "missingSince": null,
       "sourceId": "C6gG4sDfD",
@@ -37,7 +37,7 @@
       "summary": "HubSpot Loop: Book Launch & Cocktail Party",
       "timezone": "America/New_York",
       "uid": "markit:C6gG4sDfD",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -45,7 +45,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-19T02:00:00.000Z",
       "firstSeenAt": "2026-08-04T02:28:51.870Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "120 Brookline Ave #2, Boston, MA 02215, USA",
       "missingSince": null,
       "sourceId": "N0Pno6SiC",
@@ -57,7 +57,7 @@
       "summary": "Boston Red Sox Suite Experience w/ Langchain & Tavily",
       "timezone": "America/New_York",
       "uid": "markit:N0Pno6SiC",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -65,7 +65,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-19T22:00:00.000Z",
       "firstSeenAt": "2026-08-13T20:43:21.637Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "500 Technology Square, Cambridge, MA 02139, USA",
       "missingSince": null,
       "sourceId": "newEf_e68",
@@ -77,7 +77,7 @@
       "summary": "Biotech founder & funder happy hour",
       "timezone": "America/New_York",
       "uid": "markit:newEf_e68",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -85,7 +85,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-20T00:30:00.000Z",
       "firstSeenAt": "2026-08-10T04:55:24.725Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "Boston, MA, USA",
       "missingSince": null,
       "sourceId": "yLXH1YBCz",
@@ -97,7 +97,7 @@
       "summary": "Founder Dinner Series [Rho x Mass AI]",
       "timezone": "America/New_York",
       "uid": "markit:yLXH1YBCz",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -105,7 +105,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-20T15:00:00.000Z",
       "firstSeenAt": "2026-08-17T17:48:31.393Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "100 High St, Boston, MA 02110, USA",
       "missingSince": null,
       "sourceId": "muWRq7eIC",
@@ -117,7 +117,7 @@
       "summary": "Female Founders & Funders Breakfast",
       "timezone": "America/New_York",
       "uid": "markit:muWRq7eIC",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -125,7 +125,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-21T01:00:00.000Z",
       "firstSeenAt": "2026-07-29T16:39:01.270Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "10 1/2 Appian Way, Cambridge, MA 02138, USA",
       "missingSince": null,
       "sourceId": "Cj8VRvJgI",
@@ -137,7 +137,7 @@
       "summary": "Suno Unplugged: Boston Rooftop Session",
       "timezone": "America/New_York",
       "uid": "markit:Cj8VRvJgI",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -145,7 +145,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-21T01:00:00.000Z",
       "firstSeenAt": "2026-07-28T00:47:28.230Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "4 Speare Pl, Boston, MA 02115, USA",
       "missingSince": null,
       "sourceId": "PjaSOSSHz",
@@ -157,7 +157,7 @@
       "summary": "Founders Basketball Boston (August 2026)",
       "timezone": "America/New_York",
       "uid": "markit:PjaSOSSHz",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -165,7 +165,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-22T20:00:00.000Z",
       "firstSeenAt": "2026-08-10T04:55:24.725Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "1 Broadway, Cambridge, MA 02142, USA",
       "missingSince": null,
       "sourceId": "zZz3DC6eH",
@@ -177,7 +177,7 @@
       "summary": "Google Developers Group Code and Coffee - Civic Solutions",
       "timezone": "America/New_York",
       "uid": "markit:zZz3DC6eH",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -185,7 +185,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-24T23:00:00.000Z",
       "firstSeenAt": "2026-08-18T00:31:00.329Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "38-50 Albany St, Cambridge, MA 02139, USA",
       "missingSince": null,
       "sourceId": "HaN3L0cb8",
@@ -197,7 +197,7 @@
       "summary": "AI+X Founders × Researchers @ MIT",
       "timezone": "America/New_York",
       "uid": "markit:HaN3L0cb8",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -205,7 +205,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-26T01:00:00.000Z",
       "firstSeenAt": "2026-07-14T17:43:23.279Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "Long Wharf (North) - Gate 5C, Boston, MA 02110, USA",
       "missingSince": null,
       "sourceId": "Fym4OUG9w",
@@ -217,7 +217,7 @@
       "summary": "Bottom Up Media Boston Creators Mixer",
       "timezone": "America/New_York",
       "uid": "markit:Fym4OUG9w",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -225,7 +225,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-26T01:00:00.000Z",
       "firstSeenAt": "2026-08-04T02:28:51.870Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "450 Massachusetts Ave, Cambridge, MA 02139, USA",
       "missingSince": null,
       "sourceId": "ZNV9Ozr_5",
@@ -237,7 +237,7 @@
       "summary": "BiotechTuesday — August 2026",
       "timezone": "America/New_York",
       "uid": "markit:ZNV9Ozr_5",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -245,7 +245,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-27T22:00:00.000Z",
       "firstSeenAt": "2026-08-18T00:31:00.329Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "4 Copley Pl, Boston, MA 02116, USA",
       "missingSince": null,
       "sourceId": "YBlv4Rmo2",
@@ -257,7 +257,7 @@
       "summary": "Machine Learning & AI Community Event at Wayfair",
       "timezone": "America/New_York",
       "uid": "markit:YBlv4Rmo2",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -265,7 +265,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-28T00:00:00.000Z",
       "firstSeenAt": "2026-07-21T01:31:20.638Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "Two International Place, International Pl, Boston, MA 02110, USA",
       "missingSince": null,
       "sourceId": "UATo68LGk",
@@ -277,7 +277,7 @@
       "summary": "Agents & APIs Boston Developer Meetup",
       "timezone": "America/New_York",
       "uid": "markit:UATo68LGk",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -285,7 +285,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-28T01:00:00.000Z",
       "firstSeenAt": "2026-08-10T04:55:24.725Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "60 Long Wharf, Boston, MA 02110, USA",
       "missingSince": null,
       "sourceId": "AksBP5i7y",
@@ -297,7 +297,7 @@
       "summary": "Agent builders night - Boston",
       "timezone": "America/New_York",
       "uid": "markit:AksBP5i7y",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -305,7 +305,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-28T00:30:00.000Z",
       "firstSeenAt": "2026-06-29T17:20:29.587Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "101 Main St, Somerville, MA 02143, USA",
       "missingSince": null,
       "sourceId": "fAUfeBV_C",
@@ -317,7 +317,7 @@
       "summary": "Life Sciences AI on Tap - Boston Connect",
       "timezone": "America/New_York",
       "uid": "markit:fAUfeBV_C",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -325,7 +325,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-08-31T23:00:00.000Z",
       "firstSeenAt": "2026-08-13T23:04:37.430Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "328 N Market St, Boston, MA 02109, USA",
       "missingSince": null,
       "sourceId": "FQfeFhYCE",
@@ -337,7 +337,7 @@
       "summary": "AI Researchers & Founders Happy Hour @ BASE-X",
       "timezone": "America/New_York",
       "uid": "markit:FQfeFhYCE",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -345,7 +345,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-09-01T01:00:00.000Z",
       "firstSeenAt": "2026-08-18T00:31:00.329Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "50 Thomson Pl, Boston, MA 02210, USA",
       "missingSince": null,
       "sourceId": "Qd-IGLFR4",
@@ -357,7 +357,7 @@
       "summary": "The Boston Data Party Trivia Night",
       "timezone": "America/New_York",
       "uid": "markit:Qd-IGLFR4",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -365,7 +365,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-09-02T00:30:00.000Z",
       "firstSeenAt": "2026-08-10T04:55:24.725Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "1 Memorial Dr, Cambridge, MA 02142, USA",
       "missingSince": null,
       "sourceId": "fa3jdg06w",
@@ -377,7 +377,7 @@
       "summary": "The AI Runtime - Boston",
       "timezone": "America/New_York",
       "uid": "markit:fa3jdg06w",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -385,7 +385,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-09-02T13:00:00.000Z",
       "firstSeenAt": "2026-08-05T14:35:26.849Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "5 Necco St, Boston, MA 02210, USA",
       "missingSince": null,
       "sourceId": "9vVJ2t39B",
@@ -397,7 +397,7 @@
       "summary": "Sweat Equity",
       "timezone": "America/New_York",
       "uid": "markit:9vVJ2t39B",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -405,7 +405,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-09-03T01:00:00.000Z",
       "firstSeenAt": "2026-08-17T17:59:33.508Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "180 Canal St, Boston, MA 02114, USA",
       "missingSince": null,
       "sourceId": "aKXJaq-s5",
@@ -417,7 +417,7 @@
       "summary": "All In: Founders Cards Night",
       "timezone": "America/New_York",
       "uid": "markit:aKXJaq-s5",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -425,7 +425,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-09-17T01:00:00.000Z",
       "firstSeenAt": "2026-08-18T20:04:09.414Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "58 Seaport Blvd #300, Boston, MA 02210, USA",
       "missingSince": null,
       "sourceId": "WM-w8xPQn",
@@ -437,7 +437,7 @@
       "summary": "Hubspot Media: On The Air: Podcast Launch & Press Party",
       "timezone": "America/New_York",
       "uid": "markit:WM-w8xPQn",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -445,7 +445,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-09-16T23:30:00.000Z",
       "firstSeenAt": "2026-08-17T17:59:33.508Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "1 International Pl, Boston, MA 02110, USA",
       "missingSince": null,
       "sourceId": "pwaEV_Cwh",
@@ -457,7 +457,7 @@
       "summary": "Boston Founder and Funder Round 5",
       "timezone": "America/New_York",
       "uid": "markit:pwaEV_Cwh",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -465,7 +465,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-09-17T14:30:00.000Z",
       "firstSeenAt": "2026-08-18T00:59:35.045Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "Boston Transit Alewife Station, 351 Rindge Ave, Cambridge, MA 02140, USA",
       "missingSince": null,
       "sourceId": "_zwzSj_Du",
@@ -477,7 +477,7 @@
       "summary": "FieldAI Coffee Talks: Physical AI for the Real World",
       "timezone": "America/New_York",
       "uid": "markit:_zwzSj_Du",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -485,7 +485,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-09-18T00:00:00.000Z",
       "firstSeenAt": "2026-08-18T20:04:09.414Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "319 A St, Boston, MA 02210, USA",
       "missingSince": null,
       "sourceId": "vuEDVFXIH",
@@ -497,7 +497,7 @@
       "summary": "Data in bloom: A happy hour for data-driven marketers",
       "timezone": "America/New_York",
       "uid": "markit:vuEDVFXIH",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -505,7 +505,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-09-18T00:00:00.000Z",
       "firstSeenAt": "2026-08-04T01:31:08.579Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "Boston, MA, USA",
       "missingSince": null,
       "sourceId": "A-Ujp7mho",
@@ -517,7 +517,7 @@
       "summary": "Angel Pledge Pitch Night",
       "timezone": "America/New_York",
       "uid": "markit:A-Ujp7mho",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -525,7 +525,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-09-19T23:00:00.000Z",
       "firstSeenAt": "2026-08-17T17:48:31.393Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "401-403 D St, Boston, MA 02210, USA",
       "missingSince": null,
       "sourceId": "EpqD8eGAU",
@@ -537,7 +537,7 @@
       "summary": "Mass Music & Arts Summit 2026",
       "timezone": "America/New_York",
       "uid": "markit:EpqD8eGAU",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -545,7 +545,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-09-24T23:00:00.000Z",
       "firstSeenAt": "2026-08-18T00:59:35.045Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "426 Washington St, Boston, MA 02108, USA",
       "missingSince": null,
       "sourceId": "g_OjaqmZ9",
@@ -557,7 +557,7 @@
       "summary": "BUILD617 Ribbon Cutting + Grand Opening",
       "timezone": "America/New_York",
       "uid": "markit:g_OjaqmZ9",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -565,7 +565,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-09-27T21:30:00.000Z",
       "firstSeenAt": "2026-08-18T00:59:35.045Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "793 Boylston St, Boston, MA 02116, USA",
       "missingSince": null,
       "sourceId": "5s0qzqVo1",
@@ -577,7 +577,7 @@
       "summary": "Test Flight: Glasswing Ventures AI Hackathon (300K In Compute!) - Sponsored by Microsoft Azure & AWS",
       "timezone": "America/New_York",
       "uid": "markit:5s0qzqVo1",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -585,7 +585,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-09-26T20:00:00.000Z",
       "firstSeenAt": "2026-07-28T00:47:28.230Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "88 Seaport Blvd, Boston, MA 02210, USA",
       "missingSince": null,
       "sourceId": "XjU506GhE",
@@ -597,7 +597,7 @@
       "summary": "RoboBoston: 9th Annual Robot Block Party !",
       "timezone": "America/New_York",
       "uid": "markit:XjU506GhE",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -605,7 +605,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-02T01:00:00.000Z",
       "firstSeenAt": "2026-08-04T01:31:08.579Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "One Kenmore Sq, Boston, MA 02215, USA",
       "missingSince": null,
       "sourceId": "U8nzdoCeS",
@@ -617,7 +617,7 @@
       "summary": "Mass AI Coalition: College Night",
       "timezone": "America/New_York",
       "uid": "markit:U8nzdoCeS",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -625,7 +625,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-06T21:00:00.000Z",
       "firstSeenAt": "2026-08-10T04:55:24.725Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "Boston, MA, USA",
       "missingSince": null,
       "sourceId": "jXlBD5gKac",
@@ -637,7 +637,7 @@
       "summary": "TEDx Boston: Unlocking Longevity",
       "timezone": "America/New_York",
       "uid": "markit:jXlBD5gKac",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -645,7 +645,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-23T00:00:00.000Z",
       "firstSeenAt": "2026-08-18T00:59:35.045Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "50 Terminal St, Charlestown, MA 02129, USA",
       "missingSince": null,
       "sourceId": "TsuMncn-o",
@@ -657,13 +657,13 @@
       "summary": "Party Mode: AI Coalition @ Reservoir HQ",
       "timezone": "America/New_York",
       "uid": "markit:TsuMncn-o",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
       "endsAt": "2026-10-29T21:00:00.000Z",
       "firstSeenAt": "2026-05-12T03:50:34.298Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "444 Somerville Ave, Somerville, MA 02143, USA",
       "missingSince": null,
       "sourceId": "-Q_wqV_e5",
@@ -674,7 +674,7 @@
       "summary": "Boston Climatetech Summit 2026",
       "timezone": "America/New_York",
       "uid": "markit:-Q_wqV_e5",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": "",
       "categories": [],
       "eventType": "External Without Data",
@@ -685,7 +685,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-30T22:00:00.000Z",
       "firstSeenAt": "2026-08-18T01:34:32.327Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "50 Memorial Dr, Cambridge, MA 02142, USA",
       "missingSince": null,
       "sourceId": "07LDTLQC3",
@@ -697,7 +697,7 @@
       "summary": "Minds in Motion: Physical AI Summit at MIT",
       "timezone": "America/New_York",
       "uid": "markit:07LDTLQC3",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     },
     {
@@ -705,7 +705,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-11-05T23:00:00.000Z",
       "firstSeenAt": "2026-08-18T00:59:35.045Z",
-      "lastSeenAt": "2026-08-19T12:16:24.847Z",
+      "lastSeenAt": "2026-08-19T12:31:43.717Z",
       "location": "Boston, MA, USA",
       "missingSince": null,
       "sourceId": "80dqpCr73",
@@ -717,12 +717,12 @@
       "summary": "Boston's Applied AI Talent Revolution",
       "timezone": "America/New_York",
       "uid": "markit:80dqpCr73",
-      "updatedAt": "2026-08-19T12:16:24.847Z",
+      "updatedAt": "2026-08-19T12:31:43.717Z",
       "description": ""
     }
   ],
   "feedName": "jonathan-boston",
-  "generatedAt": "2026-08-19T12:16:24.847Z",
+  "generatedAt": "2026-08-19T12:31:43.717Z",
   "profile": {
     "fullName": "Jonathan Chang",
     "profileUrl": "https://markitai.com/u/jonathan",
