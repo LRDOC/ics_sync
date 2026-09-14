@@ -53,6 +53,12 @@ jobs:
             cp -R "${PAGES_DIR}/state/." state/state/
           fi
 
+      - name: Diagnose TMDB popularity distribution
+        env:
+          MOVIE_LOOKAHEAD_DAYS: ${{ vars.MOVIE_LOOKAHEAD_DAYS }}
+          TMDB_READ_ACCESS_TOKEN: ${{ secrets.TMDB_READ_ACCESS_TOKEN }}
+        run: node scripts/diagnose-tmdb.js
+
       - name: Run movie release sync
         env:
           AMC_THEATRE_IDS: ${{ vars.AMC_THEATRE_IDS }}
