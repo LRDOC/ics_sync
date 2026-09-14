@@ -64,6 +64,23 @@ jobs:
           SYNC_STATE_DIR: state
         run: npm run build:site
 
+      - name: Run movie release sync
+        env:
+          AMC_THEATRE_IDS: ${{ vars.AMC_THEATRE_IDS }}
+          AMC_VENDOR_KEY: ${{ secrets.AMC_VENDOR_KEY }}
+          CALENDAR_NAME: Movie Release Dates
+          FEED_NAME: movie-releases
+          SYNC_STATE_DIR: state
+          TMDB_READ_ACCESS_TOKEN: ${{ secrets.TMDB_READ_ACCESS_TOKEN }}
+        run: npm run sync:movies
+
+      - name: Build movie release Pages artifact
+        env:
+          CALENDAR_NAME: Movie Release Dates
+          FEED_NAME: movie-releases
+          SYNC_STATE_DIR: state
+        run: npm run build:movies
+
       - name: Publish gh-pages artifacts
         run: |
           find "${PAGES_DIR}" -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +

@@ -7,8 +7,11 @@
     "node": ">=20"
   },
   "scripts": {
+    "build:movies": "node scripts/build-movie-ics.js",
     "build:site": "node scripts/build-site.js",
+    "resolve:amc-theatres": "node scripts/resolve-amc-theatres.js",
     "sync:local": "node scripts/run-sync.js",
+    "sync:movies": "node scripts/run-movie-sync.js",
     "test": "node --test"
   },
   "dependencies": {

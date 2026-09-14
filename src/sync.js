@@ -17,6 +17,21 @@ function retainMissingConfirmedEvent(event, nowMs, retentionMs) {
   return !Number.isNaN(endMs) && endMs < nowMs && endMs >= nowMs - retentionMs;
 }
 
+const PINNED_START_DURATION_MS = 30 * 60 * 1000;
+
+function applyPinnedStart(event) {
+  if (!event.pinStartToFirstSeen) {
+    return event;
+  }
+
+  const startsAt = event.firstSeenAt;
+  return {
+    ...event,
+    endsAt: new Date(Date.parse(startsAt) + PINNED_START_DURATION_MS).toISOString(),
+    startsAt
+  };
+}
+
 export function mergeState(previousState, observedEvents, config, now = new Date()) {
   const retentionMs = config.pastEventRetentionHours * 60 * 60 * 1000;
   const cancelRetentionMs = config.cancelRetentionDays * 24 * 60 * 60 * 1000;
@@ -26,15 +41,17 @@ export function mergeState(previousState, observedEvents, config, now = new Date
 
   for (const observedEvent of observedEvents) {
     const previous = previousByUid.get(observedEvent.uid);
-    nextEvents.push({
-      ...previous,
-      ...observedEvent,
-      firstSeenAt: previous?.firstSeenAt || observedEvent.firstSeenAt,
-      lastSeenAt: now.toISOString(),
-      missingSince: null,
-      status: "CONFIRMED",
-      updatedAt: now.toISOString()
-    });
+    nextEvents.push(
+      applyPinnedStart({
+        ...previous,
+        ...observedEvent,
+        firstSeenAt: previous?.firstSeenAt || observedEvent.firstSeenAt,
+        lastSeenAt: now.toISOString(),
+        missingSince: null,
+        status: "CONFIRMED",
+        updatedAt: now.toISOString()
+      })
+    );
     previousByUid.delete(observedEvent.uid);
   }
 

@@ -26,6 +26,10 @@ function formatUtc(value) {
   return new Date(value).toISOString().replace(/[-:]/g, "").replace(/\.\d{3}Z$/, "Z");
 }
 
+function formatUtcDate(value) {
+  return String(value).slice(0, 10).replace(/-/g, "");
+}
+
 function formatDisplayTime(value, timezone) {
   return new Intl.DateTimeFormat("en-US", {
     dateStyle: "medium",
@@ -81,8 +85,13 @@ export function renderIcs(state, config) {
     lines.push("BEGIN:VEVENT");
     lines.push(`UID:${escapeText(event.uid)}`);
     lines.push(`DTSTAMP:${formatUtc(event.updatedAt || state.generatedAt)}`);
-    lines.push(`DTSTART:${formatUtc(event.startsAt)}`);
-    lines.push(`DTEND:${formatUtc(event.endsAt || event.startsAt)}`);
+    if (event.allDay) {
+      lines.push(`DTSTART;VALUE=DATE:${formatUtcDate(event.startsAt)}`);
+      lines.push(`DTEND;VALUE=DATE:${formatUtcDate(event.endsAt || event.startsAt)}`);
+    } else {
+      lines.push(`DTSTART:${formatUtc(event.startsAt)}`);
+      lines.push(`DTEND:${formatUtc(event.endsAt || event.startsAt)}`);
+    }
     lines.push(`SUMMARY:${escapeText(event.summary)}`);
 
     if (event.location) {
@@ -93,7 +102,9 @@ export function renderIcs(state, config) {
       lines.push("STATUS:CANCELLED");
     }
 
-    const description = renderDescription(event);
+    const description = Array.isArray(event.descriptionLines)
+      ? event.descriptionLines.join("\n").trim()
+      : renderDescription(event);
     if (description) {
       lines.push(`DESCRIPTION:${escapeText(description)}`);
     }

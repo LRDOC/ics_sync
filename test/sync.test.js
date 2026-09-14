@@ -44,3 +44,27 @@ test("recently ended events are retained without cancellation", () => {
   assert.equal(merged.events.length, 1);
   assert.equal(merged.events[0].status, "CONFIRMED");
 });
+
+test("pinStartToFirstSeen events stay anchored to when they were first observed, not the latest sync time", () => {
+  const firstObserved = {
+    firstSeenAt: "2026-05-10T00:00:00.000Z",
+    pinStartToFirstSeen: true,
+    startsAt: "2026-05-10T00:00:00.000Z",
+    uid: "amc:onsale:1000:1"
+  };
+
+  const firstMerge = mergeState({ events: [] }, [firstObserved], config, new Date("2026-05-10T00:00:00.000Z"));
+  assert.equal(firstMerge.events[0].startsAt, "2026-05-10T00:00:00.000Z");
+  assert.equal(firstMerge.events[0].endsAt, "2026-05-10T00:30:00.000Z");
+
+  const secondObserved = {
+    firstSeenAt: "2026-05-11T09:00:00.000Z",
+    pinStartToFirstSeen: true,
+    startsAt: "2026-05-11T09:00:00.000Z",
+    uid: "amc:onsale:1000:1"
+  };
+
+  const secondMerge = mergeState(firstMerge, [secondObserved], config, new Date("2026-05-11T09:00:00.000Z"));
+  assert.equal(secondMerge.events[0].startsAt, "2026-05-10T00:00:00.000Z");
+  assert.equal(secondMerge.events[0].endsAt, "2026-05-10T00:30:00.000Z");
+});

@@ -2,9 +2,10 @@
 
 This project regenerates subscribable ICS feeds from public event sources.
 
-Current supported feed:
+Current supported feeds:
 
-`https://lrdoc.github.io/ics_sync/jonathan-boston.ics`
+- `https://lrdoc.github.io/ics_sync/jonathan-boston.ics`
+- `https://lrdoc.github.io/ics_sync/movie-releases.ics` — upcoming movie release dates (TMDB) plus "tickets on sale" alerts for AMC Boston Common and AMC Assembly Row (AMC)
 
 ## What ships
 
@@ -42,6 +43,11 @@ npm install
 npm test
 npm run sync:local
 npm run build:site
+
+# Movie release feed
+npm run sync:movies
+npm run build:movies
+npm run resolve:amc-theatres -- "AMC Boston Common 19" "AMC Assembly Row 12"
 ```
 
 Local defaults:
@@ -67,27 +73,19 @@ Expected public feed path after Pages is enabled:
 
 ## Multi-feed path
 
-This repo can support multiple feeds under the same Pages site. The intended URL shape is:
+This repo supports multiple feeds under the same Pages site. The URL shape is:
 
 `https://<owner>.github.io/ics_sync/<feed-name>.ics`
 
-Practical pattern for future iterations:
+Each feed is a separate sync invocation with its own `FEED_NAME`/`CALENDAR_NAME` and source config, keeps its state in `state/state/<feed-name>.json`, and publishes as `docs/<feed-name>.ics`. The GitHub Actions workflow runs one sync+build pass per feed, and the publish step already picks up every `docs/*.ics` and `state/state/*.json` file generically, so adding a feed only means adding its sync+build steps — `movie-releases` (below) is the first example of this.
 
-- give each feed a stable `FEED_NAME`, for example `jonathan-boston`, `jonathan-nyc`, or `alice-sf`
-- keep each feed's state in `state/state/<feed-name>.json`
-- publish each feed as `docs/<feed-name>.ics`
-- let `gh-pages` carry all generated `.ics` files and state snapshots, not just one hardcoded feed
+## Movie release feed
 
-What still needs to be added when you introduce another feed:
+`movie-releases.ics` combines two sources behind the same normalization pipeline as Markit:
 
-- a second sync invocation with its own `FEED_NAME` and source config
-- a build step that emits that feed's `.ics` artifact before the Pages publish step runs
-
-With the current workflow, the Pages branch is already ready to host multiple files like:
-
-- `https://lrdoc.github.io/ics_sync/jonathan-boston.ics`
-- `https://lrdoc.github.io/ics_sync/jonathan-nyc.ics`
-- `https://lrdoc.github.io/ics_sync/alice-sf.ics`
+- **TMDB** (`src/sources/tmdb.js`) — upcoming US theatrical releases within `MOVIE_LOOKAHEAD_DAYS`, rendered as all-day "in theatres" events with Movie/Runtime/Director/Genre/Rating/synopsis in the description.
+- **AMC** (`src/sources/amc.js`) — official catalog API (`developers.amctheatres.com`), tracking AMC Boston Common 19 and AMC Assembly Row 12. A movie's first-observed AMC showtime at one of those theatres fires a one-time "tickets on sale" alert (labeled "Thu preview" when the earliest showtime falls on a Thursday). Orchestration lives in `src/movieSync.js`, which persists a per-theatre "already alerted" baseline so a movie already on sale before the feed's first-ever run does **not** flood the calendar with a backlog of alerts, and so a stable on-sale movie never re-fires on later syncs.
+- The AMC endpoint paths are reconstructed from public third-party documentation (AMC's own developer portal blocks automated retrieval) — they're expected to work but haven't been exhaustively validated against every AMC API surface; watch the sync workflow logs after the first few real runs.
 
 ## Optional Vercel path
 
@@ -98,3 +96,4 @@ The repo also includes Vercel handlers in `api/` if you want to move the same sy
 - Google Calendar decides when it re-polls the feed after subscription.
 - Markit endpoint behavior is based on currently public Firestore and Cloud Function routes.
 - Boston filtering is done from public event fields, not from hidden client UI state.
+- Subscribers only ever read the generated `.ics`/JSON state, so the number of calendar subscribers has no effect on TMDB/AMC call volume — that volume is bounded solely by the cron cadence.

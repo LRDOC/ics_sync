@@ -1,6 +1,6 @@
 # Context
 
-This project continuously regenerates a public ICS feed for Jonathan Chang's Boston-area upcoming events from Markit.
+This project continuously regenerates public ICS feeds. It started with one feed for Jonathan Chang's Boston-area upcoming events from Markit, and now also publishes a second, independent feed for movie release dates and AMC ticket on-sale alerts.
 
 ## Why this exists
 
@@ -43,6 +43,17 @@ This project continuously regenerates a public ICS feed for Jonathan Chang's Bos
   - rebuilds the Pages site assets
   - publishes generated `.ics` files and state snapshots to the `gh-pages` branch
 - GitHub Pages serves the `gh-pages` branch from the same repository.
+
+## Movie release feed (`movie-releases`)
+
+- Profile resolution: none needed; both sources are queried directly.
+- Event fetch:
+  - TMDB `/discover/movie` + `/movie/{id}?append_to_response=credits,release_dates` for upcoming US theatrical releases (`src/sources/tmdb.js`)
+  - AMC `/v2/movies/views/coming-soon` + `/v2/movies/views/advance` for candidate titles, then `/v2/theatres/{id}/movies/{id}/earliest-showtime` per tracked theatre to detect the first on-sale showtime (`src/sources/amc.js`)
+- Orchestration: `src/movieSync.js` merges both sources' canonical events through the same `mergeState` used by the Markit feed.
+- Tracked AMC theatres: AMC Boston Common 19, AMC Assembly Row 12 (`AMC_THEATRE_IDS`).
+- On-sale alerts fire once per movie+theatre, anchored to the sync run that first observed them (`pinStartToFirstSeen`), and are suppressed entirely on the feed's very first-ever sync (cold-start baseline) so pre-existing on-sale movies don't flood the calendar.
+- AMC's developer portal blocks automated doc retrieval; the endpoint paths used here come from reconstructed public documentation and are unverified against every AMC API surface until confirmed by real production sync runs.
 
 ## Future source ideas
 
