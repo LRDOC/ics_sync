@@ -3,6 +3,7 @@ import assert from "node:assert/strict";
 import {
   extractDirectors,
   extractUsTheatricalRelease,
+  isRelevantSummary,
   toCanonicalReleaseEvent
 } from "../src/sources/tmdb.js";
 
@@ -83,6 +84,23 @@ test("toCanonicalReleaseEvent builds an all-day event pinned to the exact releas
   ]);
   assert.ok(event.descriptionLines.includes("Genre: Action, Sci-Fi"));
   assert.ok(event.descriptionLines.includes("Rating: PG-13"));
+});
+
+test("isRelevantSummary always keeps English-language listings", () => {
+  assert.equal(isRelevantSummary({ original_language: "en", popularity: 0, vote_count: 0 }), true);
+});
+
+test("isRelevantSummary keeps a low-popularity foreign classic on vote count alone", () => {
+  // e.g. a Princess Mononoke re-release: little current buzz, huge accumulated votes
+  assert.equal(isRelevantSummary({ original_language: "ja", popularity: 3, vote_count: 9000 }), true);
+});
+
+test("isRelevantSummary keeps a buzzy new foreign release on popularity alone", () => {
+  assert.equal(isRelevantSummary({ original_language: "ja", popularity: 50, vote_count: 2 }), true);
+});
+
+test("isRelevantSummary drops an obscure new foreign release with neither signal", () => {
+  assert.equal(isRelevantSummary({ original_language: "hi", popularity: 1, vote_count: 4 }), false);
 });
 
 test("toCanonicalReleaseEvent returns null when no US theatrical date is available", () => {

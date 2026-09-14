@@ -3,7 +3,15 @@ import { fetchJson } from "../httpClient.js";
 
 const DETAIL_FETCH_CONCURRENCY = 4;
 const MAX_DISCOVER_PAGES = 5;
-const MIN_POPULARITY = 5;
+const MIN_POPULARITY = 10;
+const MIN_CLASSIC_VOTE_COUNT = 500;
+
+export function isRelevantSummary(summary) {
+  if (summary.original_language === "en") {
+    return true;
+  }
+  return (summary.vote_count || 0) >= MIN_CLASSIC_VOTE_COUNT || (summary.popularity || 0) >= MIN_POPULARITY;
+}
 
 function toDateOnly(value) {
   return String(value || "").slice(0, 10);
@@ -33,8 +41,7 @@ export async function fetchUpcomingMovieSummaries(config, options = {}) {
   for (let page = 1; page <= MAX_DISCOVER_PAGES; page += 1) {
     const url = new URL(`${config.tmdbApiBaseUrl}/discover/movie`);
     url.searchParams.set("region", "US");
-    // Wide theatrical only; "2" (limited) buries results in festival one-offs.
-    url.searchParams.set("with_release_type", "3");
+    url.searchParams.set("with_release_type", "2|3");
     url.searchParams.set("sort_by", "popularity.desc");
     url.searchParams.set("primary_release_date.gte", startDate);
     url.searchParams.set("primary_release_date.lte", endDate);
@@ -48,7 +55,7 @@ export async function fetchUpcomingMovieSummaries(config, options = {}) {
     }
   }
 
-  return summaries.filter((summary) => (summary.popularity || 0) >= MIN_POPULARITY);
+  return summaries.filter(isRelevantSummary);
 }
 
 export async function fetchMovieDetails(config, movieId, options = {}) {
