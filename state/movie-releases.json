@@ -14,16 +14,16 @@
       "firstSeenAt": "2026-09-14T19:10:29.028Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1759618",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1759618",
       "startsAt": "2026-09-14T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Driftwood — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1759618",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -39,16 +39,16 @@
       "firstSeenAt": "2026-09-14T19:10:29.028Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1742914",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1742914",
       "startsAt": "2026-09-14T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "No Handouts — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1742914",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2034,16 +2034,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1318467",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.universalpicturesathome.com/movies/the-last-kiss-2026",
       "startsAt": "2026-09-15T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "The Last Kiss — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1318467",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2417,16 +2417,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1763052",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1763052",
       "startsAt": "2026-09-16T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Concerto Muerto — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1763052",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2442,16 +2442,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1747682",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://mediaspace.nfb.ca/epk/restaurant-kids/",
       "startsAt": "2026-09-16T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Restaurant Kids — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1747682",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2467,16 +2467,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1756819",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1756819",
       "startsAt": "2026-09-16T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Apartment 7 — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1756819",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2492,16 +2492,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1748664",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://seachangefilms.ca/work/captainnl",
       "startsAt": "2026-09-17T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Captain Newfoundland — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1748664",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2518,16 +2518,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1423191",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://residentevil.movie",
       "startsAt": "2026-09-18T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Resident Evil — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1423191",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2544,16 +2544,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1433583",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.vert-ent.com/library/the-weight",
       "startsAt": "2026-09-18T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "The Weight — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1433583",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2570,16 +2570,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1477104",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.sky.com/watch/shaun-the-sheep-the-beast-of-mossy-bottom",
       "startsAt": "2026-09-18T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Shaun the Sheep: The Beast of Mossy Bottom — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1477104",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2643,16 +2643,16 @@
       "firstSeenAt": "2026-09-14T19:26:57.810Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1762529",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://alecdouglasrrp.myportfolio.com/",
       "startsAt": "2026-09-19T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "The Unrehearsed — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1762529",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2668,16 +2668,16 @@
       "firstSeenAt": "2026-09-14T19:26:57.810Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1747577",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://termsandcons.com",
       "startsAt": "2026-09-21T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Terms & Conditions — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1747577",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2693,16 +2693,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1032863",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.amazon.com/dp/B0H4WZS7VX",
       "startsAt": "2026-09-23T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "The Love Hypothesis — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1032863",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2743,16 +2743,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1732420",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://powertrip.movie",
       "startsAt": "2026-09-24T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Power Trip — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1732420",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2769,16 +2769,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1465063",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.forgottenislandmovie.com",
       "startsAt": "2026-09-25T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Forgotten Island — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1465063",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2795,16 +2795,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1263337",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.heartofthebeastmovie.com/",
       "startsAt": "2026-09-25T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Heart of the Beast — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1263337",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2821,16 +2821,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1375441",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://a24films.com/films/primetime",
       "startsAt": "2026-09-25T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Primetime — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1375441",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2846,16 +2846,16 @@
       "firstSeenAt": "2026-09-14T19:26:57.810Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1492640",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.netflix.com/title/82010386",
       "startsAt": "2026-09-25T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "UNABOMBER — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1492640",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2920,16 +2920,16 @@
       "firstSeenAt": "2026-09-14T19:26:57.810Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1757445",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1757445",
       "startsAt": "2026-09-26T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "X-Communicado — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1757445",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2945,16 +2945,16 @@
       "firstSeenAt": "2026-09-14T19:26:57.810Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1744804",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1744804",
       "startsAt": "2026-09-27T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Partners — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1744804",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -2970,16 +2970,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1755291",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1755291",
       "startsAt": "2026-09-28T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "NAZA — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1755291",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3046,16 +3046,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1248832",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.diggermovie.com",
       "startsAt": "2026-10-02T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Digger — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1248832",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3072,16 +3072,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1283515",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.amazon.com/salp/verity?hhf=",
       "startsAt": "2026-10-02T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Verity — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1283515",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3098,16 +3098,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1244523",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1244523",
       "startsAt": "2026-10-02T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Beware Boiúna — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1244523",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3149,16 +3149,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1618090",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.sonyclassics.com/film/astatement",
       "startsAt": "2026-10-03T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "A Statement — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1618090",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3174,16 +3174,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1148365",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://tv.apple.com/movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d",
       "startsAt": "2026-10-08T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Matchbox the Movie — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1148365",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3200,16 +3200,16 @@
       "firstSeenAt": "2026-09-14T19:26:57.810Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1753405",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1753405",
       "startsAt": "2026-10-08T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Pentimento — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1753405",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3251,16 +3251,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1400837",
       "sourcePlatform": "tmdb",
       "sourceUrl": "http://www.universalpictures.com/movies/other-mommy/",
       "startsAt": "2026-10-09T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Other Mommy — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1400837",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3277,16 +3277,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1281331",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://thesocialreckoning.movie",
       "startsAt": "2026-10-09T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "The Social Reckoning — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1281331",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3327,16 +3327,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1760176",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1760176",
       "startsAt": "2026-10-14T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Fellas — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1760176",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3352,16 +3352,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1758599",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1758599",
       "startsAt": "2026-10-15T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Manual Wind — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1758599",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3377,16 +3377,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1765072",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://a24films.com/films/you-can-see-everything",
       "startsAt": "2026-10-16T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "You Can See Everything — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1765072",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3403,16 +3403,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1153576",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.streetfightermovie.com",
       "startsAt": "2026-10-16T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Street Fighter — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1153576",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3428,16 +3428,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1255833",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.20thcenturystudios.com/movies/whalefall",
       "startsAt": "2026-10-16T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Whalefall — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1255833",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3454,16 +3454,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1503762",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.focusfeaturesfilms.co.uk/films/sense-and-sensibility",
       "startsAt": "2026-10-16T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Sense and Sensibility — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1503762",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3506,16 +3506,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1483525",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.netflix.com/title/82106490",
       "startsAt": "2026-10-23T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Possible Love — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1483525",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3532,16 +3532,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "791523",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://wildwoodmovie.com",
       "startsAt": "2026-10-23T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Wildwood — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:791523",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3557,16 +3557,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1400940",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.clayfacemovie.com",
       "startsAt": "2026-10-23T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Clayface — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1400940",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3607,16 +3607,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1294189",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1294189",
       "startsAt": "2026-10-30T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "The Mongoose — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1294189",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3633,16 +3633,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1195803",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.blackbearpictures.com/film-and-tv/wicker",
       "startsAt": "2026-10-30T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Wicker — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1195803",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3658,16 +3658,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1381071",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://godzilla.com/pages/godzilla-minus-zero",
       "startsAt": "2026-11-06T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Godzilla Minus Zero — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1381071",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3684,16 +3684,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1562642",
       "sourcePlatform": "tmdb",
       "sourceUrl": "http://ghostsoldier.movie",
       "startsAt": "2026-11-06T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Ghost Soldier — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1562642",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3710,16 +3710,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "891621",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.searchlightpictures.com/wild-horse-nine",
       "startsAt": "2026-11-06T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Wild Horse Nine — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:891621",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3736,16 +3736,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1117898",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.catinthehatfilm.com",
       "startsAt": "2026-11-06T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "The Cat in the Hat — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1117898",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3762,16 +3762,16 @@
       "firstSeenAt": "2026-09-14T19:26:57.810Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1585239",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://a24films.com/films/club-kid",
       "startsAt": "2026-11-06T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Club Kid — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1585239",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3787,16 +3787,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1567605",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.ebenezermovie.com",
       "startsAt": "2026-11-13T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Ebenezer — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1567605",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3813,16 +3813,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1437511",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.amazon.com/salp/howtorobabank?hhf",
       "startsAt": "2026-11-13T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "How to Rob a Bank — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1437511",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3839,16 +3839,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1379486",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://bleeckerstreetmedia.com/victorian-psycho",
       "startsAt": "2026-11-13T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Victorian Psycho — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1379486",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3864,16 +3864,16 @@
       "firstSeenAt": "2026-09-14T19:26:57.810Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1755500",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1755500",
       "startsAt": "2026-11-13T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Five Figurines — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1755500",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3914,16 +3914,16 @@
       "firstSeenAt": "2026-09-14T19:26:57.810Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1523553",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1523553",
       "startsAt": "2026-11-19T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Dark Horse — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1523553",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3939,16 +3939,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1300968",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://hungergames.movie",
       "startsAt": "2026-11-20T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "The Hunger Games: Sunrise on the Reaping — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1300968",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3965,16 +3965,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1381273",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.neonrated.com/film/paper-tiger",
       "startsAt": "2026-11-20T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Paper Tiger — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1381273",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -3991,16 +3991,16 @@
       "firstSeenAt": "2026-09-14T19:26:57.810Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1286656",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.amazon.com/salp/iplayrocky?hhf",
       "startsAt": "2026-11-20T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "I Play Rocky — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1286656",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -4016,16 +4016,16 @@
       "firstSeenAt": "2026-09-14T19:26:57.810Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1599230",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.focusfeatures.com/elsinore",
       "startsAt": "2026-11-20T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Elsinore — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1599230",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -4066,16 +4066,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1538497",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://movies.disney.com/hexed",
       "startsAt": "2026-11-25T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Hexed — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1538497",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -4092,16 +4092,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1400336",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.universalpictures.com/movies/focker-in-law/",
       "startsAt": "2026-11-25T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Focker-in-Law — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1400336",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -4117,16 +4117,16 @@
       "firstSeenAt": "2026-09-14T19:26:57.810Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1457866",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.netflix.com/title/82054606",
       "startsAt": "2026-11-26T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1457866",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -4190,16 +4190,16 @@
       "firstSeenAt": "2026-09-14T19:26:57.810Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1755408",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1755408",
       "startsAt": "2026-12-02T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "No Choice — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1755408",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -4215,16 +4215,16 @@
       "firstSeenAt": "2026-09-14T19:26:57.810Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1596287",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1596287",
       "startsAt": "2026-12-10T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Frank & Louis — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1596287",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -4241,16 +4241,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1391239",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://a24films.com/films/the-debut",
       "startsAt": "2026-12-11T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "The Debut — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1391239",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -4267,16 +4267,16 @@
       "firstSeenAt": "2026-09-14T19:26:57.810Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1532610",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.netflix.com/title/83035739",
       "startsAt": "2026-12-11T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Ink — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1532610",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -4292,16 +4292,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1003596",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.marvel.com/movies/avengers-doomsday",
       "startsAt": "2026-12-18T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Avengers: Doomsday — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1003596",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -4318,16 +4318,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1170608",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.dunemovie.com",
       "startsAt": "2026-12-18T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Dune: Part Three — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1170608",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -4368,16 +4368,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1300926",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.angrybirds.movie",
       "startsAt": "2026-12-23T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "The Angry Birds Movie 3 — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1300926",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -4394,16 +4394,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1492198",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1492198",
       "startsAt": "2026-12-25T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Artificial — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1492198",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -4419,16 +4419,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1260649",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://jumanji.movie",
       "startsAt": "2026-12-25T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Jumanji: Open World — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1260649",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -4445,16 +4445,16 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1421903",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.focusfeatures.com/werwulf",
       "startsAt": "2026-12-25T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Werwulf — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1421903",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     },
     {
       "allDay": true,
@@ -4471,20 +4471,20 @@
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
       "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": null,
+      "missingSince": "2026-09-14T19:29:11.247Z",
       "sourceId": "1372443",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.mrirrelevant.film",
       "startsAt": "2026-12-25T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Mr. Irrelevant — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1372443",
-      "updatedAt": "2026-09-14T19:27:17.973Z"
+      "updatedAt": "2026-09-14T19:29:11.247Z"
     }
   ],
   "feedName": "movie-releases",
-  "generatedAt": "2026-09-14T19:27:17.973Z",
+  "generatedAt": "2026-09-14T19:29:11.247Z",
   "version": 1,
   "amcOnSaleBaseline": []
 }
