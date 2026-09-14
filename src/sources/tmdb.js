@@ -58,7 +58,7 @@ export async function fetchUpcomingMovieSummaries(config, options = {}) {
     }
   }
 
-  return summaries.filter(isRelevantSummary);
+  return summaries;
 }
 
 export async function fetchMovieDetails(config, movieId, options = {}) {
@@ -71,9 +71,12 @@ export async function fetchMovieDetails(config, movieId, options = {}) {
 export async function fetchUpcomingMovies(config, options = {}) {
   const fetchImpl = options.fetchImpl || fetch;
   const summaries = await fetchUpcomingMovieSummaries(config, options);
-  return mapWithConcurrency(summaries, DETAIL_FETCH_CONCURRENCY, (summary) =>
+  const movies = await mapWithConcurrency(summaries, DETAIL_FETCH_CONCURRENCY, (summary) =>
     fetchMovieDetails(config, summary.id, { fetchImpl })
   );
+  // origin_country isn't present on /discover/movie's lightweight results,
+  // only on the full movie object, so relevance is checked here.
+  return movies.filter(isRelevantSummary);
 }
 
 export function extractDirectors(movie) {
