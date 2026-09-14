@@ -1454,7 +1454,7 @@ URL:https://seachangefilms.ca/work/captainnl
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1423191
-DTSTAMP:20260914T193749Z
+DTSTAMP:20260914T194232Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Resident Evil — In Theatres
@@ -1545,7 +1545,7 @@ URL:https://termsandcons.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1032863
-DTSTAMP:20260914T193749Z
+DTSTAMP:20260914T194232Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:The Love Hypothesis — In Theatres
@@ -1583,7 +1583,7 @@ URL:https://powertrip.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1465063
-DTSTAMP:20260914T193749Z
+DTSTAMP:20260914T194232Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Forgotten Island — In Theatres
@@ -1599,7 +1599,7 @@ URL:https://www.forgottenislandmovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1263337
-DTSTAMP:20260914T193749Z
+DTSTAMP:20260914T194232Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Heart of the Beast — In Theatres
@@ -1612,7 +1612,7 @@ URL:https://www.heartofthebeastmovie.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1375441
-DTSTAMP:20260914T193749Z
+DTSTAMP:20260914T194232Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Primetime — In Theatres
@@ -1730,7 +1730,7 @@ URL:https://www.themoviedb.org/movie/1763332
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1248832
-DTSTAMP:20260914T193749Z
+DTSTAMP:20260914T194232Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Digger — In Theatres
@@ -1742,7 +1742,7 @@ URL:https://www.diggermovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1283515
-DTSTAMP:20260914T193749Z
+DTSTAMP:20260914T194232Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Verity — In Theatres
@@ -1837,7 +1837,7 @@ URL:https://www.themoviedb.org/movie/1759016
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400837
-DTSTAMP:20260914T193749Z
+DTSTAMP:20260914T194232Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Other Mommy — In Theatres
@@ -1889,11 +1889,10 @@ URL:https://www.themoviedb.org/movie/1760176
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1758599
-DTSTAMP:20260914T192911Z
+DTSTAMP:20260914T194232Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Manual Wind — In Theatres
-STATUS:CANCELLED
 DESCRIPTION:Movie: Manual Wind\nRuntime: Unknown\nDirector: Gustavo Obregón
  \nGenre: Drama\n\nThe directorial debut live-action narrative short film fr
  om filmmaker Gustavo Obregón\, better known as Gawx.
@@ -1901,7 +1900,7 @@ URL:https://www.themoviedb.org/movie/1758599
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1765072
-DTSTAMP:20260914T193749Z
+DTSTAMP:20260914T194232Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:You Can See Everything — In Theatres
@@ -1971,8 +1970,20 @@ DESCRIPTION:Movie: La bola negra\nRuntime: 155 min\nDirector: Javier Ambros
 URL:https://www.netflix.com/title/82964412
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1483525
+DTSTAMP:20260914T194232Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Possible Love — In Theatres
+DESCRIPTION:Movie: Possible Love\nRuntime: 165 min\nDirector: Lee Chang-don
+ g\nGenre: Drama\nRating: R\n\nA laid-off worker and his wife cross paths wi
+ th a documentary filmmaker and her spouse and confront their hidden desires
+ .
+URL:https://www.netflix.com/title/82106490
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:791523
-DTSTAMP:20260914T193749Z
+DTSTAMP:20260914T194232Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Wildwood — In Theatres
@@ -1983,19 +1994,6 @@ DESCRIPTION:Movie: Wildwood\nRuntime: 132 min\nDirector: Travis Knight\nGen
  st to rescue Prue’s abducted baby brother from a murder of crows led by a m
  ysterious woman named Alexandra.
 URL:https://wildwoodmovie.com
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb:1483525
-DTSTAMP:20260914T192911Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Possible Love — In Theatres
-STATUS:CANCELLED
-DESCRIPTION:Movie: Possible Love\nRuntime: 165 min\nDirector: Lee Chang-don
- g\nGenre: Drama\nRating: R\n\nA laid-off worker and his wife cross paths wi
- th a documentary filmmaker and her spouse and confront their hidden desires
- .
-URL:https://www.netflix.com/title/82106490
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400940
@@ -2030,7 +2028,7 @@ URL:https://www.themoviedb.org/movie/1757312
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1294189
-DTSTAMP:20260914T193749Z
+DTSTAMP:20260914T194232Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:The Mongoose — In Theatres
@@ -2058,8 +2056,22 @@ DESCRIPTION:Movie: Wicker\nRuntime: 105 min\nDirector: Eleanor Wilson\, Ale
 URL:https://www.blackbearpictures.com/film-and-tv/wicker
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1381071
+DTSTAMP:20260914T194232Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Godzilla Minus Zero — In Theatres
+DESCRIPTION:Movie: Godzilla Minus Zero\nRuntime: 135 min\nDirector: Takashi
+  Yamazaki\nGenre: Science Fiction\, Horror\, Action\n\nWar reduced Japan to
+  zero\, and Godzilla plunged it into minus. Two years have passed since the
+ n\, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life. Just as humanity managed to cling to a hard-
+ won peace\, a new threat strikes\, crushing hope in an instant.
+URL:https://godzilla.com/pages/godzilla-minus-zero
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1562642
-DTSTAMP:20260914T193749Z
+DTSTAMP:20260914T194232Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Ghost Soldier — In Theatres
@@ -2071,21 +2083,6 @@ DESCRIPTION:Movie: Ghost Soldier\nRuntime: Unknown\nDirector: William Euban
  farmers off their ranches\, the Green Beret veteran decides to employ his w
  eapon prototypes to assist his neighbors.
 URL:http://ghostsoldier.movie
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb:1381071
-DTSTAMP:20260914T192911Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Godzilla Minus Zero — In Theatres
-STATUS:CANCELLED
-DESCRIPTION:Movie: Godzilla Minus Zero\nRuntime: 135 min\nDirector: Takashi
-  Yamazaki\nGenre: Science Fiction\, Horror\, Action\n\nWar reduced Japan to
-  zero\, and Godzilla plunged it into minus. Two years have passed since the
- n\, and the country has faced agonizing struggles to achieve recovery and f
- inally reclaim its daily life. Just as humanity managed to cling to a hard-
- won peace\, a new threat strikes\, crushing hope in an instant.
-URL:https://godzilla.com/pages/godzilla-minus-zero
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:891621
@@ -2411,7 +2408,7 @@ URL:https://www.netflix.com/title/83035739
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1003596
-DTSTAMP:20260914T193749Z
+DTSTAMP:20260914T194232Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday — In Theatres
@@ -2423,7 +2420,7 @@ URL:https://www.marvel.com/movies/avengers-doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1170608
-DTSTAMP:20260914T193749Z
+DTSTAMP:20260914T194232Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three — In Theatres

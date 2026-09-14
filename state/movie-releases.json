@@ -2517,7 +2517,7 @@
       "endsAt": "2026-09-19T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-09-14T19:37:49.443Z",
+      "lastSeenAt": "2026-09-14T19:42:32.900Z",
       "missingSince": null,
       "sourceId": "1423191",
       "sourcePlatform": "tmdb",
@@ -2527,7 +2527,7 @@
       "summary": "Resident Evil — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1423191",
-      "updatedAt": "2026-09-14T19:37:49.443Z"
+      "updatedAt": "2026-09-14T19:42:32.900Z"
     },
     {
       "allDay": true,
@@ -2692,7 +2692,7 @@
       "endsAt": "2026-09-24T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-09-14T19:37:49.443Z",
+      "lastSeenAt": "2026-09-14T19:42:32.900Z",
       "missingSince": null,
       "sourceId": "1032863",
       "sourcePlatform": "tmdb",
@@ -2702,7 +2702,7 @@
       "summary": "The Love Hypothesis — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1032863",
-      "updatedAt": "2026-09-14T19:37:49.443Z"
+      "updatedAt": "2026-09-14T19:42:32.900Z"
     },
     {
       "allDay": true,
@@ -2768,7 +2768,7 @@
       "endsAt": "2026-09-26T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-09-14T19:37:49.443Z",
+      "lastSeenAt": "2026-09-14T19:42:32.900Z",
       "missingSince": null,
       "sourceId": "1465063",
       "sourcePlatform": "tmdb",
@@ -2778,7 +2778,7 @@
       "summary": "Forgotten Island — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1465063",
-      "updatedAt": "2026-09-14T19:37:49.443Z"
+      "updatedAt": "2026-09-14T19:42:32.900Z"
     },
     {
       "allDay": true,
@@ -2794,7 +2794,7 @@
       "endsAt": "2026-09-26T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-09-14T19:37:49.443Z",
+      "lastSeenAt": "2026-09-14T19:42:32.900Z",
       "missingSince": null,
       "sourceId": "1263337",
       "sourcePlatform": "tmdb",
@@ -2804,7 +2804,7 @@
       "summary": "Heart of the Beast — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1263337",
-      "updatedAt": "2026-09-14T19:37:49.443Z"
+      "updatedAt": "2026-09-14T19:42:32.900Z"
     },
     {
       "allDay": true,
@@ -2820,7 +2820,7 @@
       "endsAt": "2026-09-26T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-09-14T19:37:49.443Z",
+      "lastSeenAt": "2026-09-14T19:42:32.900Z",
       "missingSince": null,
       "sourceId": "1375441",
       "sourcePlatform": "tmdb",
@@ -2830,7 +2830,7 @@
       "summary": "Primetime — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1375441",
-      "updatedAt": "2026-09-14T19:37:49.443Z"
+      "updatedAt": "2026-09-14T19:42:32.900Z"
     },
     {
       "allDay": true,
@@ -3045,7 +3045,7 @@
       "endsAt": "2026-10-03T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-09-14T19:37:49.443Z",
+      "lastSeenAt": "2026-09-14T19:42:32.900Z",
       "missingSince": null,
       "sourceId": "1248832",
       "sourcePlatform": "tmdb",
@@ -3055,7 +3055,7 @@
       "summary": "Digger — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1248832",
-      "updatedAt": "2026-09-14T19:37:49.443Z"
+      "updatedAt": "2026-09-14T19:42:32.900Z"
     },
     {
       "allDay": true,
@@ -3071,7 +3071,7 @@
       "endsAt": "2026-10-03T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-09-14T19:37:49.443Z",
+      "lastSeenAt": "2026-09-14T19:42:32.900Z",
       "missingSince": null,
       "sourceId": "1283515",
       "sourcePlatform": "tmdb",
@@ -3081,7 +3081,7 @@
       "summary": "Verity — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1283515",
-      "updatedAt": "2026-09-14T19:37:49.443Z"
+      "updatedAt": "2026-09-14T19:42:32.900Z"
     },
     {
       "allDay": true,
@@ -3250,7 +3250,7 @@
       "endsAt": "2026-10-10T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-09-14T19:37:49.443Z",
+      "lastSeenAt": "2026-09-14T19:42:32.900Z",
       "missingSince": null,
       "sourceId": "1400837",
       "sourcePlatform": "tmdb",
@@ -3260,7 +3260,7 @@
       "summary": "Other Mommy — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1400837",
-      "updatedAt": "2026-09-14T19:37:49.443Z"
+      "updatedAt": "2026-09-14T19:42:32.900Z"
     },
     {
       "allDay": true,
@@ -3351,17 +3351,17 @@
       "endsAt": "2026-10-16T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": "2026-09-14T19:29:11.247Z",
+      "lastSeenAt": "2026-09-14T19:42:32.900Z",
+      "missingSince": null,
       "sourceId": "1758599",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1758599",
       "startsAt": "2026-10-15T00:00:00.000Z",
-      "status": "CANCELLED",
+      "status": "CONFIRMED",
       "summary": "Manual Wind — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1758599",
-      "updatedAt": "2026-09-14T19:29:11.247Z"
+      "updatedAt": "2026-09-14T19:42:32.900Z"
     },
     {
       "allDay": true,
@@ -3376,7 +3376,7 @@
       "endsAt": "2026-10-17T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-09-14T19:37:49.443Z",
+      "lastSeenAt": "2026-09-14T19:42:32.900Z",
       "missingSince": null,
       "sourceId": "1765072",
       "sourcePlatform": "tmdb",
@@ -3386,7 +3386,7 @@
       "summary": "You Can See Everything — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1765072",
-      "updatedAt": "2026-09-14T19:37:49.443Z"
+      "updatedAt": "2026-09-14T19:42:32.900Z"
     },
     {
       "allDay": true,
@@ -3494,32 +3494,6 @@
     {
       "allDay": true,
       "descriptionLines": [
-        "Movie: Wildwood",
-        "Runtime: 132 min",
-        "Director: Travis Knight",
-        "Genre: Animation, Adventure, Fantasy",
-        "Rating: PG-13",
-        "",
-        "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue’s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra."
-      ],
-      "endsAt": "2026-10-24T00:00:00.000Z",
-      "firstSeenAt": "2026-09-14T19:14:29.734Z",
-      "kind": "release",
-      "lastSeenAt": "2026-09-14T19:37:49.443Z",
-      "missingSince": null,
-      "sourceId": "791523",
-      "sourcePlatform": "tmdb",
-      "sourceUrl": "https://wildwoodmovie.com",
-      "startsAt": "2026-10-23T00:00:00.000Z",
-      "status": "CONFIRMED",
-      "summary": "Wildwood — In Theatres",
-      "timezone": "America/New_York",
-      "uid": "tmdb:791523",
-      "updatedAt": "2026-09-14T19:37:49.443Z"
-    },
-    {
-      "allDay": true,
-      "descriptionLines": [
         "Movie: Possible Love",
         "Runtime: 165 min",
         "Director: Lee Chang-dong",
@@ -3531,17 +3505,43 @@
       "endsAt": "2026-10-24T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": "2026-09-14T19:29:11.247Z",
+      "lastSeenAt": "2026-09-14T19:42:32.900Z",
+      "missingSince": null,
       "sourceId": "1483525",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.netflix.com/title/82106490",
       "startsAt": "2026-10-23T00:00:00.000Z",
-      "status": "CANCELLED",
+      "status": "CONFIRMED",
       "summary": "Possible Love — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1483525",
-      "updatedAt": "2026-09-14T19:29:11.247Z"
+      "updatedAt": "2026-09-14T19:42:32.900Z"
+    },
+    {
+      "allDay": true,
+      "descriptionLines": [
+        "Movie: Wildwood",
+        "Runtime: 132 min",
+        "Director: Travis Knight",
+        "Genre: Animation, Adventure, Fantasy",
+        "Rating: PG-13",
+        "",
+        "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue’s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra."
+      ],
+      "endsAt": "2026-10-24T00:00:00.000Z",
+      "firstSeenAt": "2026-09-14T19:14:29.734Z",
+      "kind": "release",
+      "lastSeenAt": "2026-09-14T19:42:32.900Z",
+      "missingSince": null,
+      "sourceId": "791523",
+      "sourcePlatform": "tmdb",
+      "sourceUrl": "https://wildwoodmovie.com",
+      "startsAt": "2026-10-23T00:00:00.000Z",
+      "status": "CONFIRMED",
+      "summary": "Wildwood — In Theatres",
+      "timezone": "America/New_York",
+      "uid": "tmdb:791523",
+      "updatedAt": "2026-09-14T19:42:32.900Z"
     },
     {
       "allDay": true,
@@ -3606,7 +3606,7 @@
       "endsAt": "2026-10-31T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-09-14T19:37:49.443Z",
+      "lastSeenAt": "2026-09-14T19:42:32.900Z",
       "missingSince": null,
       "sourceId": "1294189",
       "sourcePlatform": "tmdb",
@@ -3616,7 +3616,7 @@
       "summary": "The Mongoose — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1294189",
-      "updatedAt": "2026-09-14T19:37:49.443Z"
+      "updatedAt": "2026-09-14T19:42:32.900Z"
     },
     {
       "allDay": true,
@@ -3647,6 +3647,31 @@
     {
       "allDay": true,
       "descriptionLines": [
+        "Movie: Godzilla Minus Zero",
+        "Runtime: 135 min",
+        "Director: Takashi Yamazaki",
+        "Genre: Science Fiction, Horror, Action",
+        "",
+        "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant."
+      ],
+      "endsAt": "2026-11-07T00:00:00.000Z",
+      "firstSeenAt": "2026-09-14T19:14:29.734Z",
+      "kind": "release",
+      "lastSeenAt": "2026-09-14T19:42:32.900Z",
+      "missingSince": null,
+      "sourceId": "1381071",
+      "sourcePlatform": "tmdb",
+      "sourceUrl": "https://godzilla.com/pages/godzilla-minus-zero",
+      "startsAt": "2026-11-06T00:00:00.000Z",
+      "status": "CONFIRMED",
+      "summary": "Godzilla Minus Zero — In Theatres",
+      "timezone": "America/New_York",
+      "uid": "tmdb:1381071",
+      "updatedAt": "2026-09-14T19:42:32.900Z"
+    },
+    {
+      "allDay": true,
+      "descriptionLines": [
         "Movie: Ghost Soldier",
         "Runtime: Unknown",
         "Director: William Eubank",
@@ -3658,7 +3683,7 @@
       "endsAt": "2026-11-07T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-09-14T19:37:49.443Z",
+      "lastSeenAt": "2026-09-14T19:42:32.900Z",
       "missingSince": null,
       "sourceId": "1562642",
       "sourcePlatform": "tmdb",
@@ -3668,32 +3693,7 @@
       "summary": "Ghost Soldier — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1562642",
-      "updatedAt": "2026-09-14T19:37:49.443Z"
-    },
-    {
-      "allDay": true,
-      "descriptionLines": [
-        "Movie: Godzilla Minus Zero",
-        "Runtime: 135 min",
-        "Director: Takashi Yamazaki",
-        "Genre: Science Fiction, Horror, Action",
-        "",
-        "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant."
-      ],
-      "endsAt": "2026-11-07T00:00:00.000Z",
-      "firstSeenAt": "2026-09-14T19:14:29.734Z",
-      "kind": "release",
-      "lastSeenAt": "2026-09-14T19:27:17.973Z",
-      "missingSince": "2026-09-14T19:29:11.247Z",
-      "sourceId": "1381071",
-      "sourcePlatform": "tmdb",
-      "sourceUrl": "https://godzilla.com/pages/godzilla-minus-zero",
-      "startsAt": "2026-11-06T00:00:00.000Z",
-      "status": "CANCELLED",
-      "summary": "Godzilla Minus Zero — In Theatres",
-      "timezone": "America/New_York",
-      "uid": "tmdb:1381071",
-      "updatedAt": "2026-09-14T19:29:11.247Z"
+      "updatedAt": "2026-09-14T19:42:32.900Z"
     },
     {
       "allDay": true,
@@ -4291,7 +4291,7 @@
       "endsAt": "2026-12-19T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-09-14T19:37:49.443Z",
+      "lastSeenAt": "2026-09-14T19:42:32.900Z",
       "missingSince": null,
       "sourceId": "1003596",
       "sourcePlatform": "tmdb",
@@ -4301,7 +4301,7 @@
       "summary": "Avengers: Doomsday — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1003596",
-      "updatedAt": "2026-09-14T19:37:49.443Z"
+      "updatedAt": "2026-09-14T19:42:32.900Z"
     },
     {
       "allDay": true,
@@ -4317,7 +4317,7 @@
       "endsAt": "2026-12-19T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-09-14T19:37:49.443Z",
+      "lastSeenAt": "2026-09-14T19:42:32.900Z",
       "missingSince": null,
       "sourceId": "1170608",
       "sourcePlatform": "tmdb",
@@ -4327,7 +4327,7 @@
       "summary": "Dune: Part Three — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1170608",
-      "updatedAt": "2026-09-14T19:37:49.443Z"
+      "updatedAt": "2026-09-14T19:42:32.900Z"
     },
     {
       "allDay": true,
@@ -4484,7 +4484,7 @@
     }
   ],
   "feedName": "movie-releases",
-  "generatedAt": "2026-09-14T19:37:49.443Z",
+  "generatedAt": "2026-09-14T19:42:32.900Z",
   "version": 1,
   "amcOnSaleBaseline": []
 }
