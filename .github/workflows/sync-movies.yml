@@ -9,8 +9,8 @@ on:
     - cron: "15 */2 * * *"
 
 concurrency:
-  group: sync-movies-${{ github.ref }}
-  cancel-in-progress: true
+  group: sync-pages-${{ github.ref }}
+  cancel-in-progress: false
 
 permissions:
   contents: write
