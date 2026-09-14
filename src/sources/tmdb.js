@@ -3,6 +3,7 @@ import { fetchJson } from "../httpClient.js";
 
 const DETAIL_FETCH_CONCURRENCY = 4;
 const MAX_DISCOVER_PAGES = 5;
+const MIN_POPULARITY = 5;
 
 function toDateOnly(value) {
   return String(value || "").slice(0, 10);
@@ -32,8 +33,10 @@ export async function fetchUpcomingMovieSummaries(config, options = {}) {
   for (let page = 1; page <= MAX_DISCOVER_PAGES; page += 1) {
     const url = new URL(`${config.tmdbApiBaseUrl}/discover/movie`);
     url.searchParams.set("region", "US");
-    url.searchParams.set("with_release_type", "2|3");
-    url.searchParams.set("sort_by", "primary_release_date.asc");
+    // Wide theatrical releases only (type 3) — "2" (limited theatrical) also
+    // matches one-off festival/regional bookings that bury real releases.
+    url.searchParams.set("with_release_type", "3");
+    url.searchParams.set("sort_by", "popularity.desc");
     url.searchParams.set("primary_release_date.gte", startDate);
     url.searchParams.set("primary_release_date.lte", endDate);
     url.searchParams.set("page", String(page));
@@ -46,7 +49,10 @@ export async function fetchUpcomingMovieSummaries(config, options = {}) {
     }
   }
 
-  return summaries;
+  // Belt-and-suspenders floor: even a wide-release listing can include a
+  // near-zero-attention title. Popularity is TMDB's own trending signal and
+  // filters those out without needing a hand-maintained studio allowlist.
+  return summaries.filter((summary) => (summary.popularity || 0) >= MIN_POPULARITY);
 }
 
 export async function fetchMovieDetails(config, movieId, options = {}) {
