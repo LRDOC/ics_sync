@@ -1,0 +1,33 @@
+name: Resolve AMC Theatre IDs
+
+on:
+  workflow_dispatch:
+    inputs:
+      theatre-names:
+        description: Comma-separated AMC theatre names to search for
+        required: true
+        default: "AMC Boston Common 19,AMC Assembly Row 12"
+
+jobs:
+  resolve:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Resolve theatre ids
+        env:
+          AMC_VENDOR_KEY: ${{ secrets.AMC_VENDOR_KEY }}
+          THEATRE_NAMES: ${{ inputs.theatre-names }}
+        run: |
+          IFS=',' read -r -a names <<< "$THEATRE_NAMES"
+          node scripts/resolve-amc-theatres.js "${names[@]}"
