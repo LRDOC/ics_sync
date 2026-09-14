@@ -5,6 +5,30 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Movie Release Dates
 BEGIN:VEVENT
+UID:tmdb:1759618
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Driftwood — In Theatres
+DESCRIPTION:Movie: Driftwood\nRuntime: 11 min\nDirector: A.C. Birch\nGenre:
+  Drama\n\nThe peaceful Toronto Islands offer comfort to two best friends af
+ ter a distressing hookup\, in this moving exploration of trans visibility\,
+  identity\, and intimacy.
+URL:https://www.themoviedb.org/movie/1759618
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1742914
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:No Handouts — In Theatres
+DESCRIPTION:Movie: No Handouts\nRuntime: 18 min\nDirector: Lucas David Gonz
+ ález\nGenre: Science Fiction\, Drama\, Crime\n\nIn a hyper-capitalistic fut
+ ure\, rookie EMT Joanna Broz finds herself in a struggle between job securi
+ ty and an Innocent boy's life.
+URL:https://www.themoviedb.org/movie/1742914
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1770265
 DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
@@ -678,19 +702,6 @@ DESCRIPTION:Movie: Barbie in the Nutcracker\nRuntime: 45 min\nDirector: Rob
 URL:https://www.themoviedb.org/movie/1760311
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:1759618
-DTSTAMP:20260914T191429Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:Driftwood — In Theatres
-STATUS:CANCELLED
-DESCRIPTION:Movie: Driftwood\nRuntime: 11 min\nDirector: A.C. Birch\nGenre:
-  Drama\n\nThe peaceful Toronto Islands offer comfort to two best friends af
- ter a distressing hookup\, in this moving exploration of trans visibility\,
-  identity\, and intimacy.
-URL:https://www.themoviedb.org/movie/1759618
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb:1753029
 DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
@@ -833,19 +844,6 @@ DESCRIPTION:Movie: Neverman\nRuntime: 98 min\nDirector: Rodrigo Barriuso\nG
   home. As her lucidity wanes\, she must confront the challenges of her cond
  ition and fight for her identity once more.
 URL:https://www.themoviedb.org/movie/1743993
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb:1742914
-DTSTAMP:20260914T191429Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:No Handouts — In Theatres
-STATUS:CANCELLED
-DESCRIPTION:Movie: No Handouts\nRuntime: 18 min\nDirector: Lucas David Gonz
- ález\nGenre: Science Fiction\, Drama\, Crime\n\nIn a hyper-capitalistic fut
- ure\, rookie EMT Joanna Broz finds herself in a struggle between job securi
- ty and an Innocent boy's life.
-URL:https://www.themoviedb.org/movie/1742914
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1742442
@@ -1163,7 +1161,7 @@ URL:https://www.themoviedb.org/movie/865567
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1318467
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:The Last Kiss — In Theatres
@@ -1391,7 +1389,7 @@ URL:https://www.wrestle-universe.com/en/lives/bYoK8mESTxR3UY3nLEDvHx
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1763052
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Concerto Muerto — In Theatres
@@ -1402,7 +1400,7 @@ URL:https://www.themoviedb.org/movie/1763052
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1747682
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Restaurant Kids — In Theatres
@@ -1417,7 +1415,7 @@ URL:https://mediaspace.nfb.ca/epk/restaurant-kids/
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1756819
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Apartment 7 — In Theatres
@@ -1429,7 +1427,7 @@ URL:https://www.themoviedb.org/movie/1756819
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1748664
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Captain Newfoundland — In Theatres
@@ -1449,7 +1447,7 @@ URL:https://seachangefilms.ca/work/captainnl
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1423191
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Resident Evil — In Theatres
@@ -1461,7 +1459,7 @@ URL:https://residentevil.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1433583
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:The Weight — In Theatres
@@ -1474,7 +1472,7 @@ URL:https://www.vert-ent.com/library/the-weight
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1477104
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom — In Theatres
@@ -1488,20 +1486,22 @@ URL:https://www.sky.com/watch/shaun-the-sheep-the-beast-of-mossy-bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1649218
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Femení\, singular — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Femení\, singular\nRuntime: Unknown\nDirector: Xavi Pueb
  la\nGenre: Drama
 URL:https://www.themoviedb.org/movie/1649218
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1755880
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Piece — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Piece\nRuntime: 20 min\nDirector: Ryand Ugalde\nGenre: M
  usic\n\nA young soprano in the midst of his hormone replacement therapy mus
  t choose between preserving the voice that has long been part of who he is 
@@ -1509,8 +1509,32 @@ DESCRIPTION:Movie: Piece\nRuntime: 20 min\nDirector: Ryand Ugalde\nGenre: M
 URL:https://www.themoviedb.org/movie/1755880
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1762529
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:The Unrehearsed — In Theatres
+DESCRIPTION:Movie: The Unrehearsed\nRuntime: 15 min\nDirector: Alec Douglas
+ \nGenre: Horror\, Thriller\n\nAn actress prepping for a career defining aud
+ ition starts to spiral as performance\, identity\, and reality begin to blu
+ r.
+URL:https://alecdouglasrrp.myportfolio.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1747577
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Terms & Conditions — In Theatres
+DESCRIPTION:Movie: Terms & Conditions\nRuntime: 8 min\nDirector: Kev Dooley
+ \nGenre: Horror\, Comedy\n\nA douchey techbro gets more than he bargained f
+ or when the genderqueer demon he used AI to summon sloughs off his control 
+ and sows chaos instead.
+URL:https://termsandcons.com
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1032863
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:The Love Hypothesis — In Theatres
@@ -1523,10 +1547,11 @@ URL:https://www.amazon.com/dp/B0H4WZS7VX
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1746787
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Miss Intrams — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Miss Intrams\nRuntime: 19 min\nDirector: Henri Marie Bel
  imac\n\nA queer transmasc college student enters the campus Miss Intramural
  s pageant not to win\, but to understand: is this who she is? Or is this th
@@ -1535,7 +1560,7 @@ URL:https://www.themoviedb.org/movie/1746787
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1732420
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Power Trip — In Theatres
@@ -1546,7 +1571,7 @@ URL:https://powertrip.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1465063
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Forgotten Island — In Theatres
@@ -1562,7 +1587,7 @@ URL:https://www.forgottenislandmovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1263337
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Heart of the Beast — In Theatres
@@ -1575,7 +1600,7 @@ URL:https://www.heartofthebeastmovie.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1375441
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Primetime — In Theatres
@@ -1585,11 +1610,26 @@ DESCRIPTION:Movie: Primetime\nRuntime: 110 min\nDirector: Lance Oppenheim\n
 URL:https://a24films.com/films/primetime
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1492640
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:UNABOMBER — In Theatres
+DESCRIPTION:Movie: UNABOMBER\nRuntime: Unknown\nDirector: Janus Metz\nGenre
+ : Thriller\, Crime\, History\n\nFollow Ted Kaczynski's transformation from 
+ Harvard prodigy into the infamous Unabomber. Subjected to controversial psy
+ chological experiments by Professor Henry Murray\, Kaczynski's troubled pas
+ t resurfaces decades later when his manhunt\, led by FBI agent Joanne Mille
+ r\, brings to light the chilling consequences of ambition and isolation.
+URL:https://www.netflix.com/title/82010386
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1384514
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:The Vvaan — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: The Vvaan\nRuntime: Unknown\nDirector: Deepak Kumar Mish
  ra\nGenre: Action\, Adventure\, Thriller\nRating: NR\n\nA rational urban ma
  n defies his ancestral forbidden forest & awakens a divine goddess\, only t
@@ -1599,17 +1639,42 @@ URL:https://www.themoviedb.org/movie/1384514
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1538457
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Meesaya Murukku 2 — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Meesaya Murukku 2\nRuntime: Unknown\nDirector: HipHop Ta
  mizha Adhi\nGenre: Comedy\, Romance\, Drama
 URL:https://www.themoviedb.org/movie/1538457
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1757445
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:X-Communicado — In Theatres
+DESCRIPTION:Movie: X-Communicado\nRuntime: 90 min\nDirector: Brian King\nGe
+ nre: Science Fiction\, Action\, Adventure\n\nA mute emissary with a mysteri
+ ous past must transport a damaged soul to the netherworld before demons can
+  claim it as one of their own.
+URL:https://www.themoviedb.org/movie/1757445
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1744804
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Partners — In Theatres
+DESCRIPTION:Movie: Partners\nRuntime: 27 min\nDirector: Sophie Barnes\nGenr
+ e: Romance\, Drama\n\nEngaged couple Faye and Peter reunite with old friend
+ s one hot Southern night\; however\, when secrets are uncovered\, the statu
+ s quo of their "straight" relationship is thrown into question.
+URL:https://www.themoviedb.org/movie/1744804
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1755291
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:NAZA — In Theatres
@@ -1622,10 +1687,11 @@ URL:https://www.themoviedb.org/movie/1755291
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1556321
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Death Whisperer: Saming the Werebeast — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Death Whisperer: Saming the Werebeast\nRuntime: 111 min\
  nDirector: Narit Yuvaboon\, Thanadet Pradit\, Chalit Krileadmongkon\nGenre:
   Horror\, Thriller\, Action\n\nFollows the search for a missing military of
@@ -1635,10 +1701,11 @@ URL:https://www.themoviedb.org/movie/1556321
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1763332
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Orang Perang — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Orang Perang\nRuntime: Unknown\nDirector: Hashim Rejab\n
  Genre: Action\, Crime\, Drama\, History\, War\n\nThe struggles of the Senoi
   Praaq team\, a secret unit under the Royal Malaysian Police (PDRM) made up
@@ -1647,7 +1714,7 @@ URL:https://www.themoviedb.org/movie/1763332
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1248832
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Digger — In Theatres
@@ -1659,7 +1726,7 @@ URL:https://www.diggermovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1283515
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Verity — In Theatres
@@ -1672,7 +1739,7 @@ URL:https://www.amazon.com/salp/verity?hhf=
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1244523
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Beware Boiúna — In Theatres
@@ -1685,10 +1752,11 @@ URL:https://www.themoviedb.org/movie/1244523
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1269325
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Drishyam: The Conclusion — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Drishyam: The Conclusion\nRuntime: 170 min\nDirector: Ab
  hishek Pathak\nGenre: Thriller\, Drama\, Mystery\nRating: NR\n\nYears after
   outsmarting the police\, Vijay Salgaonkar's past resurfaces when a new evi
@@ -1698,7 +1766,7 @@ URL:https://www.themoviedb.org/movie/1269325
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1618090
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:A Statement — In Theatres
@@ -1712,7 +1780,7 @@ URL:https://www.sonyclassics.com/film/astatement
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1148365
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Matchbox the Movie — In Theatres
@@ -1723,11 +1791,24 @@ DESCRIPTION:Movie: Matchbox the Movie\nRuntime: 127 min\nDirector: Sam Harg
 URL:https://tv.apple.com/movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1753405
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Pentimento — In Theatres
+DESCRIPTION:Movie: Pentimento\nRuntime: 13 min\nDirector: Hunter Gause\nGen
+ re: Drama\nRating: NR\n\nOn an errand to the Hamptons\, an artist’s assista
+ nt makes an embarrassing mistake that pressures him to face his creative st
+ agnation.
+URL:https://www.themoviedb.org/movie/1753405
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1759016
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Prince — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Prince\nRuntime: 94 min\nDirector: Federico Borgia\nGenr
  e: Drama\, Comedy\n\nA devoted butler inherits his late employer's mansion 
  - but only until her cherished Afghan Greyhound dies. As he settles in with
@@ -1736,7 +1817,7 @@ URL:https://www.themoviedb.org/movie/1759016
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400837
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Other Mommy — In Theatres
@@ -1746,21 +1827,8 @@ DESCRIPTION:Movie: Other Mommy\nRuntime: 93 min\nDirector: Rob Savage\nGenr
 URL:http://www.universalpictures.com/movies/other-mommy/
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:718833
-DTSTAMP:20260914T192049Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Bokshi — In Theatres
-DESCRIPTION:Movie: Bokshi\nRuntime: 142 min\nDirector: Bhargav Saikia\nGenr
- e: Horror\, Drama\n\nAnahita\, traumatised by the brutal disappearance of h
- er mother\, finds comfort in Shalini\, her history teacher. On an unconvent
- ional school excursion to a mysterious prehistoric site\, she confronts her
-  terrifying destiny.
-URL:https://www.themoviedb.org/movie/718833
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb:1281331
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:The Social Reckoning — In Theatres
@@ -1772,8 +1840,22 @@ DESCRIPTION:Movie: The Social Reckoning\nRuntime: 112 min\nDirector: Aaron
 URL:https://thesocialreckoning.movie
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:718833
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Bokshi — In Theatres
+STATUS:CANCELLED
+DESCRIPTION:Movie: Bokshi\nRuntime: 142 min\nDirector: Bhargav Saikia\nGenr
+ e: Horror\, Drama\n\nAnahita\, traumatised by the brutal disappearance of h
+ er mother\, finds comfort in Shalini\, her history teacher. On an unconvent
+ ional school excursion to a mysterious prehistoric site\, she confronts her
+  terrifying destiny.
+URL:https://www.themoviedb.org/movie/718833
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1760176
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Fellas — In Theatres
@@ -1785,7 +1867,7 @@ URL:https://www.themoviedb.org/movie/1760176
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1758599
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Manual Wind — In Theatres
@@ -1796,7 +1878,7 @@ URL:https://www.themoviedb.org/movie/1758599
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1765072
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:You Can See Everything — In Theatres
@@ -1810,7 +1892,7 @@ URL:https://a24films.com/films/you-can-see-everything
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1153576
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Street Fighter — In Theatres
@@ -1825,7 +1907,7 @@ URL:https://www.streetfightermovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1255833
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Whalefall — In Theatres
@@ -1838,20 +1920,8 @@ DESCRIPTION:Movie: Whalefall\nRuntime: 98 min\nDirector: Brian Duffield\nGe
 URL:https://www.20thcenturystudios.com/movies/whalefall
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:1422041
-DTSTAMP:20260914T192049Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:La bola negra — In Theatres
-DESCRIPTION:Movie: La bola negra\nRuntime: 155 min\nDirector: Javier Ambros
- si\, Javier Calvo\nGenre: Drama\, War\nRating: R\n\nThe intertwined lives o
- f three men in three different eras\, three lives intimately linked by sexu
- ality and desire\, pain\, and legacy.
-URL:https://www.netflix.com/title/82964412
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb:1503762
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Sense and Sensibility — In Theatres
@@ -1862,8 +1932,21 @@ DESCRIPTION:Movie: Sense and Sensibility\nRuntime: 132 min\nDirector: Georg
 URL:https://www.focusfeaturesfilms.co.uk/films/sense-and-sensibility
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1422041
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:La bola negra — In Theatres
+STATUS:CANCELLED
+DESCRIPTION:Movie: La bola negra\nRuntime: 155 min\nDirector: Javier Ambros
+ si\, Javier Calvo\nGenre: Drama\, War\nRating: R\n\nThe intertwined lives o
+ f three men in three different eras\, three lives intimately linked by sexu
+ ality and desire\, pain\, and legacy.
+URL:https://www.netflix.com/title/82964412
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1483525
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Possible Love — In Theatres
@@ -1875,7 +1958,7 @@ URL:https://www.netflix.com/title/82106490
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:791523
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Wildwood — In Theatres
@@ -1889,7 +1972,7 @@ URL:https://wildwoodmovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400940
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Clayface — In Theatres
@@ -1905,10 +1988,11 @@ URL:https://www.clayfacemovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1757312
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:The Disenchantment — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: The Disenchantment\nRuntime: 16 min\nDirector: Marta Mar
  tín\nGenre: Drama\, Fantasy\n\nIn a remote village in the Pyrenees\, Inés d
  iscovers that the relocation of an ancient church is only the beginning of 
@@ -1918,7 +2002,7 @@ URL:https://www.themoviedb.org/movie/1757312
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1294189
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:The Mongoose — In Theatres
@@ -1931,7 +2015,7 @@ URL:https://www.themoviedb.org/movie/1294189
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1195803
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Wicker — In Theatres
@@ -1946,7 +2030,7 @@ URL:https://www.blackbearpictures.com/film-and-tv/wicker
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1381071
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Godzilla Minus Zero — In Theatres
@@ -1960,7 +2044,7 @@ URL:https://godzilla.com/pages/godzilla-minus-zero
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1562642
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Ghost Soldier — In Theatres
@@ -1975,7 +2059,7 @@ URL:http://ghostsoldier.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:891621
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Wild Horse Nine — In Theatres
@@ -1990,7 +2074,7 @@ URL:https://www.searchlightpictures.com/wild-horse-nine
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1117898
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:The Cat in the Hat — In Theatres
@@ -2003,8 +2087,20 @@ DESCRIPTION:Movie: The Cat in the Hat\nRuntime: 91 min\nDirector: Erica Riv
 URL:https://www.catinthehatfilm.com
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1585239
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Club Kid — In Theatres
+DESCRIPTION:Movie: Club Kid\nRuntime: 126 min\nDirector: Jordan Firstman\nG
+ enre: Comedy\, Drama\nRating: R\n\nA hard-partying New York City club promo
+ ter sees his whirlwind lifestyle upended by the arrival of the 10-year-old 
+ son he never knew he had.
+URL:https://a24films.com/films/club-kid
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1567605
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Ebenezer — In Theatres
@@ -2017,7 +2113,7 @@ URL:https://www.ebenezermovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1437511
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:How to Rob a Bank — In Theatres
@@ -2032,7 +2128,7 @@ URL:https://www.amazon.com/salp/howtorobabank?hhf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1379486
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Victorian Psycho — In Theatres
@@ -2044,11 +2140,24 @@ DESCRIPTION:Movie: Victorian Psycho\nRuntime: 102 min\nDirector: Zachary Wi
 URL:https://bleeckerstreetmedia.com/victorian-psycho
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1755500
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Five Figurines — In Theatres
+DESCRIPTION:Movie: Five Figurines\nRuntime: Unknown\nDirector: Akay Mason\n
+ Genre: Drama\, Mystery\n\nFive Figurines is a Nigerian feature film directe
+ d by Akay Mason that will be released in cinemas nationwide on November 13\
+ , 2026.
+URL:https://www.themoviedb.org/movie/1755500
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1590846
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:V. Shantaram — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: V. Shantaram\nRuntime: Unknown\nDirector: Abhijeet Deshp
  ande\nGenre: Drama\n\nChronicles Shantaram Rajaram Vankudre\, aka V. Shanta
  ram\, on his remarkable journey from the silent era through the advent of s
@@ -2057,8 +2166,20 @@ DESCRIPTION:Movie: V. Shantaram\nRuntime: Unknown\nDirector: Abhijeet Deshp
 URL:https://www.themoviedb.org/movie/1590846
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1523553
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Dark Horse — In Theatres
+DESCRIPTION:Movie: Dark Horse\nRuntime: 100 min\nDirector: Cyrus Nowrasteh\
+ nGenre: Drama\, Crime\n\nFollows Jair Messias Bolsonaro\, a man driven by h
+ is political career after disappointment with the direction of his country\
+ , in the journey to become the 38th president of Brazil.
+URL:https://www.themoviedb.org/movie/1523553
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1300968
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise on the Reaping — In Theatres
@@ -2071,7 +2192,7 @@ URL:https://hungergames.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1381273
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Paper Tiger — In Theatres
@@ -2083,11 +2204,40 @@ DESCRIPTION:Movie: Paper Tiger\nRuntime: 115 min\nDirector: James Gray\nGen
 URL:https://www.neonrated.com/film/paper-tiger
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1286656
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:I Play Rocky — In Theatres
+DESCRIPTION:Movie: I Play Rocky\nRuntime: 128 min\nDirector: Peter Farrelly
+ \nGenre: Drama\, History\nRating: PG-13\n\nThe electrifying true story abou
+ t an unknown actor with an unshakable belief that he wasn't just meant to w
+ rite Rocky—he was meant to be Rocky Balboa. Told "no" at every turn\, Sylve
+ ster Stallone bets everything on himself\, holding the line on playing the 
+ lead against seemingly impossible odds.
+URL:https://www.amazon.com/salp/iplayrocky?hhf
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1599230
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Elsinore — In Theatres
+DESCRIPTION:Movie: Elsinore\nRuntime: 104 min\nDirector: Simon Stone\nGenre
+ : Drama\n\nThe deeply emotional and inspirational true story of Ian Charles
+ on\, a gifted actor whose greatest challenge becomes his greatest triumph. 
+ Facing his own mortality with unflinching honesty\, wit\, and grace\, Charl
+ eson delivers a courageous performance that becomes a source of healing and
+  inspiration for those around him.
+URL:https://www.focusfeatures.com/elsinore
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:848700
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Minotaur — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Minotaur\nRuntime: 135 min\nDirector: Andrey Zvyagintsev
  \nGenre: Drama\, Crime\, Thriller\n\nWhen Gleb\, a successful company direc
  tor\, finds himself under siege from mounting corporate pressures\, an incr
@@ -2097,7 +2247,7 @@ URL:https://mk2films.com/en/film/minotaur
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1538497
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Hexed — In Theatres
@@ -2112,7 +2262,7 @@ URL:https://movies.disney.com/hexed
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400336
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Focker-in-Law — In Theatres
@@ -2123,28 +2273,70 @@ DESCRIPTION:Movie: Focker-in-Law\nRuntime: 105 min\nDirector: John Hamburg\
 URL:https://www.universalpictures.com/movies/focker-in-law/
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1457866
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH — In Theatres
+DESCRIPTION:Movie: THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH\nRuntime: Unkn
+ own\nDirector: David Fincher\nGenre: Drama\, Comedy\, Thriller\n\nEight yea
+ rs after the events of Once Upon a Time in... Hollywood\, Cliff Booth retur
+ ns to a changing Los Angeles. Now working as a fixer in the shadows of the 
+ Hollywood studio system\, Cliff finds himself entangled in a dangerous web 
+ of secrets\, crimes and betrayals that will test everything he knows about 
+ loyalty and survival.
+URL:https://www.netflix.com/title/82054606
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1763612
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Orang Sebelah — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Orang Sebelah\nRuntime: Unknown\nDirector: Chiska Dopper
  t\nGenre: Horror\n\nPlot under wraps
 URL:https://www.themoviedb.org/movie/1763612
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1599189
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:剑来院线剧场版 十三之争 — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: 剑来院线剧场版 十三之争\nRuntime: Unknown\nDirector: Unknown\nGenre
  : Animation\, Action\, Adventure
 URL:https://www.themoviedb.org/movie/1599189
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1755408
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:No Choice — In Theatres
+DESCRIPTION:Movie: No Choice\nRuntime: 10 min\nDirector: Sydney Lapp\nGenre
+ : Drama\n\nNo Choice is a short film about consequence\, desperation\, and 
+ the moments that push us beyond the point of turning back.
+URL:https://www.themoviedb.org/movie/1755408
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1596287
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Frank & Louis — In Theatres
+DESCRIPTION:Movie: Frank & Louis\nRuntime: 95 min\nDirector: Petra Biondina
+  Volpe\nGenre: Drama\n\nFrank\, serving a life sentence\, takes a prison jo
+ b caring for aging incarcerated men with Alzheimer’s and dementia. What beg
+ ins as a self-interested bid for parole becomes a profound\, transformative
+  bond with fellow prisoner Louis\, offering Frank a glimpse of redemption i
+ n an unforgiving place.
+URL:https://www.themoviedb.org/movie/1596287
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1391239
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:The Debut — In Theatres
@@ -2157,8 +2349,20 @@ DESCRIPTION:Movie: The Debut\nRuntime: 105 min\nDirector: Jesse Eisenberg\n
 URL:https://a24films.com/films/the-debut
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1532610
+DTSTAMP:20260914T192657Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Ink — In Theatres
+DESCRIPTION:Movie: Ink\nRuntime: 116 min\nDirector: Danny Boyle\nGenre: Dra
+ ma\, History\nRating: R\n\nA group of misfits and visionaries had an idea f
+ or a new kind of news - one that would give the people what they want\, and
+  would change the face of the world we live in today.
+URL:https://www.netflix.com/title/83035739
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1003596
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday — In Theatres
@@ -2170,7 +2374,7 @@ URL:https://www.marvel.com/movies/avengers-doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1170608
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three — In Theatres
@@ -2182,10 +2386,11 @@ URL:https://www.dunemovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1154730
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:La Gradiva — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: La Gradiva\nRuntime: 145 min\nDirector: Marine Atlan\nGe
  nre: Drama\n\nA small group of French high school students goes on a school
   trip to Pompeii to discover its ruins and the bodies petrified by Vesuvius
@@ -2197,7 +2402,7 @@ URL:https://www.themoviedb.org/movie/1154730
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1300926
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:The Angry Birds Movie 3 — In Theatres
@@ -2208,7 +2413,7 @@ URL:https://www.angrybirds.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1492198
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Artificial — In Theatres
@@ -2220,7 +2425,7 @@ URL:https://www.themoviedb.org/movie/1492198
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1260649
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Jumanji: Open World — In Theatres
@@ -2233,7 +2438,7 @@ URL:https://jumanji.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1421903
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Werwulf — In Theatres
@@ -2244,7 +2449,7 @@ URL:https://www.focusfeatures.com/werwulf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1372443
-DTSTAMP:20260914T192049Z
+DTSTAMP:20260914T192657Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Mr. Irrelevant — In Theatres
