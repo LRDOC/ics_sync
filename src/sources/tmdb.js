@@ -3,14 +3,13 @@ import { fetchJson } from "../httpClient.js";
 
 const DETAIL_FETCH_CONCURRENCY = 4;
 const MAX_DISCOVER_PAGES = 5;
-const MIN_POPULARITY = 10;
 const MIN_CLASSIC_VOTE_COUNT = 500;
 
 export function isRelevantSummary(summary) {
-  if (summary.original_language === "en") {
+  if ((summary.origin_country || []).includes("US")) {
     return true;
   }
-  return (summary.vote_count || 0) >= MIN_CLASSIC_VOTE_COUNT || (summary.popularity || 0) >= MIN_POPULARITY;
+  return (summary.vote_count || 0) >= MIN_CLASSIC_VOTE_COUNT;
 }
 
 function toDateOnly(value) {
