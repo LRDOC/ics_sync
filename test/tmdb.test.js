@@ -86,17 +86,21 @@ test("toCanonicalReleaseEvent builds an all-day event pinned to the exact releas
   assert.ok(event.descriptionLines.includes("Rating: PG-13"));
 });
 
-test("isRelevantSummary always keeps US-origin listings", () => {
-  assert.equal(isRelevantSummary({ origin_country: ["US"], vote_count: 0 }), true);
+test("isRelevantSummary keeps a popular US-origin release", () => {
+  assert.equal(isRelevantSummary({ origin_country: ["US"], popularity: 50, vote_count: 0 }), true);
+});
+
+test("isRelevantSummary drops a low-popularity US-origin indie release", () => {
+  assert.equal(isRelevantSummary({ origin_country: ["US"], popularity: 1, vote_count: 0 }), false);
 });
 
 test("isRelevantSummary keeps a non-US classic on accumulated vote count alone", () => {
   // e.g. a Princess Mononoke re-release: Japanese origin, huge accumulated votes
-  assert.equal(isRelevantSummary({ origin_country: ["JP"], vote_count: 9000 }), true);
+  assert.equal(isRelevantSummary({ origin_country: ["JP"], popularity: 3, vote_count: 9000 }), true);
 });
 
-test("isRelevantSummary drops an obscure non-US release with low vote count", () => {
-  assert.equal(isRelevantSummary({ origin_country: ["IN"], vote_count: 4 }), false);
+test("isRelevantSummary drops a non-US release with popularity but no vote history", () => {
+  assert.equal(isRelevantSummary({ origin_country: ["IN"], popularity: 20, vote_count: 4 }), false);
 });
 
 test("toCanonicalReleaseEvent returns null when no US theatrical date is available", () => {

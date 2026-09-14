@@ -28,12 +28,20 @@ Each calendar event includes the final event link both:
 
 ```mermaid
 flowchart LR
-    A[Public Firestore profile lookup] --> B[Markit creatorEvents API]
-    B --> C[Filter Boston timed events]
-    C --> D[Dedupe + stable UIDs]
-    D --> E[State merge + cancellations]
-    E --> F[ICS + Pages artifacts]
-    F --> G[Public subscribe URL]
+    subgraph Markit feed
+        A1[Public Firestore profile lookup] --> A2[Markit creatorEvents API]
+        A2 --> A3[Filter Boston timed events]
+        A3 --> A4[Dedupe + stable UIDs]
+    end
+    subgraph Movie feed
+        B1[TMDB discover + movie details] --> B3[Canonical release events]
+        B2[AMC coming-soon/advance + earliest-showtime] --> B4[Canonical on-sale alerts]
+    end
+    A4 --> C[State merge + cancellations]
+    B3 --> C
+    B4 --> C
+    C --> D[ICS + Pages artifacts]
+    D --> E[Public subscribe URLs]
 ```
 
 ## Local commands

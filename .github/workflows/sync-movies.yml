@@ -1,15 +1,15 @@
-name: Sync and Publish Pages
+name: Sync and Publish Movie Feed
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: "*/10 * * * *"
+    # Movie/AMC data changes far slower than Markit's live events, and AMC's
+    # rate limits are undocumented — sync this feed on its own, much lower
+    # cadence instead of piggybacking on the 10-minute Markit cron.
+    - cron: "15 */2 * * *"
 
 concurrency:
-  group: sync-pages-${{ github.ref }}
+  group: sync-movies-${{ github.ref }}
   cancel-in-progress: true
 
 permissions:
@@ -53,16 +53,22 @@ jobs:
             cp -R "${PAGES_DIR}/state/." state/state/
           fi
 
-      - name: Run live sync
+      - name: Run movie release sync
         env:
+          AMC_THEATRE_IDS: ${{ vars.AMC_THEATRE_IDS }}
+          AMC_VENDOR_KEY: ${{ secrets.AMC_VENDOR_KEY }}
+          CALENDAR_NAME: Movie Release Dates
+          FEED_NAME: movie-releases
           SYNC_STATE_DIR: state
-        run: npm run sync:local
+          TMDB_READ_ACCESS_TOKEN: ${{ secrets.TMDB_READ_ACCESS_TOKEN }}
+        run: npm run sync:movies
 
-      - name: Build Pages artifacts
+      - name: Build movie release Pages artifact
         env:
-          SITE_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+          CALENDAR_NAME: Movie Release Dates
+          FEED_NAME: movie-releases
           SYNC_STATE_DIR: state
-        run: npm run build:site
+        run: npm run build:movies
 
       - name: Publish gh-pages artifacts
         run: |
@@ -70,15 +76,6 @@ jobs:
           cp docs/.nojekyll "${PAGES_DIR}/.nojekyll"
           mkdir -p "${PAGES_DIR}/state"
           find state/state -maxdepth 1 -type f -name '*.json' -exec cp {} "${PAGES_DIR}/state/" \;
-          cat > "${PAGES_DIR}/README.md" <<'EOF'
-          # ics_sync Pages
-          
-          Public GitHub Pages branch for generated ICS feeds.
-
-          Feed URLs follow:
-
-          `https://lrdoc.github.io/ics_sync/<feed-name>.ics`
-          EOF
           cd "${PAGES_DIR}"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -87,5 +84,5 @@ jobs:
             echo "No Pages artifact changes to publish."
             exit 0
           fi
-          git commit -m "chore: refresh Pages artifacts"
+          git commit -m "chore: refresh movie feed artifacts"
           git push origin HEAD:gh-pages

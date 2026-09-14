@@ -51,16 +51,13 @@ export async function fetchOnSaleResult(config, previousState, now, logger, fetc
         continue;
       }
 
-      const onSaleAtTheatre = await fetchEarliestShowtimesForCandidates(config, theatreId, candidates, {
+      const uncheckedCandidates = candidates.filter((movie) => !baselineSet.has(`${theatreId}:${movie.id}`));
+      const onSaleAtTheatre = await fetchEarliestShowtimesForCandidates(config, theatreId, uncheckedCandidates, {
         fetchImpl
       });
 
       for (const { movie, showtime } of onSaleAtTheatre) {
         const key = `${theatreId}:${movie.id}`;
-        if (baselineSet.has(key)) {
-          continue;
-        }
-
         if (!isColdStart) {
           events.push(toCanonicalOnSaleEvent(movie, theatre, showtime, config, now));
         }
