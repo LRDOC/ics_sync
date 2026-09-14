@@ -33,8 +33,7 @@ export async function fetchUpcomingMovieSummaries(config, options = {}) {
   for (let page = 1; page <= MAX_DISCOVER_PAGES; page += 1) {
     const url = new URL(`${config.tmdbApiBaseUrl}/discover/movie`);
     url.searchParams.set("region", "US");
-    // Wide theatrical releases only (type 3) — "2" (limited theatrical) also
-    // matches one-off festival/regional bookings that bury real releases.
+    // Wide theatrical only; "2" (limited) buries results in festival one-offs.
     url.searchParams.set("with_release_type", "3");
     url.searchParams.set("sort_by", "popularity.desc");
     url.searchParams.set("primary_release_date.gte", startDate);
@@ -49,9 +48,6 @@ export async function fetchUpcomingMovieSummaries(config, options = {}) {
     }
   }
 
-  // Belt-and-suspenders floor: even a wide-release listing can include a
-  // near-zero-attention title. Popularity is TMDB's own trending signal and
-  // filters those out without needing a hand-maintained studio allowlist.
   return summaries.filter((summary) => (summary.popularity || 0) >= MIN_POPULARITY);
 }
 

@@ -24,11 +24,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Diagnose AMC auth
-        env:
-          AMC_VENDOR_KEY: ${{ secrets.AMC_VENDOR_KEY }}
-        run: node scripts/diagnose-amc.js
-
       - name: Resolve theatre ids
         env:
           AMC_VENDOR_KEY: ${{ secrets.AMC_VENDOR_KEY }}
