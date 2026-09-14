@@ -64,6 +64,8 @@ This project continuously regenerates public ICS feeds. It started with one feed
 - Posh organizer feeds
 - direct newsletter archive parsing
 - category-specific calendars like AI, fintech, climate, robotics
+- add IMDb + Rotten Tomatoes scores to movie event descriptions via OMDb API (free, 1000 req/day, keyed by TMDB's `imdb_id`, no scraping needed). Deliberately skipping Letterboxd's rating for this — no public API for it, only their request-only official API or scraping their public film pages, which is fragile and likely against their ToS. Decided not to build any of this for now.
+- personalized taste-based filtering from a Letterboxd watch/ratings history, replacing the global popularity heuristic (see "Movie feed known limitations" above) — not started
 
 ## Known tradeoffs
 
