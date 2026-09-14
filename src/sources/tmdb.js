@@ -4,7 +4,7 @@ import { fetchJson } from "../httpClient.js";
 const DETAIL_FETCH_CONCURRENCY = 4;
 const MAX_DISCOVER_PAGES = 15;
 const MIN_CLASSIC_VOTE_COUNT = 500;
-const MIN_POPULARITY = 10;
+const MIN_POPULARITY = 5;
 
 export function isRelevantSummary(summary) {
   if ((summary.vote_count || 0) >= MIN_CLASSIC_VOTE_COUNT) {
