@@ -58,6 +58,10 @@ jobs:
           AMC_THEATRE_IDS: ${{ vars.AMC_THEATRE_IDS }}
           AMC_VENDOR_KEY: ${{ secrets.AMC_VENDOR_KEY }}
           CALENDAR_NAME: Movie Release Dates
+          # Google Calendar doesn't hide STATUS:CANCELLED events in month view,
+          # so there's no benefit to the multi-day grace period the Markit
+          # feed uses — drop cancelled movies from the file almost immediately.
+          CANCELLED_RETENTION_DAYS: "0"
           FEED_NAME: movie-releases
           SYNC_STATE_DIR: state
           TMDB_READ_ACCESS_TOKEN: ${{ secrets.TMDB_READ_ACCESS_TOKEN }}
