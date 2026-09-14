@@ -10,7 +10,9 @@ export function isRelevantSummary(summary) {
   if ((summary.vote_count || 0) >= MIN_CLASSIC_VOTE_COUNT) {
     return true;
   }
-  return (summary.popularity || 0) >= MIN_POPULARITY;
+
+  const isUsOrigin = (summary.origin_country || []).includes("US");
+  return isUsOrigin && (summary.popularity || 0) >= MIN_POPULARITY;
 }
 
 function toDateOnly(value) {

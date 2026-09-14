@@ -86,17 +86,22 @@ test("toCanonicalReleaseEvent builds an all-day event pinned to the exact releas
   assert.ok(event.descriptionLines.includes("Rating: PG-13"));
 });
 
-test("isRelevantSummary keeps a popular release", () => {
-  assert.equal(isRelevantSummary({ popularity: 50, vote_count: 0 }), true);
+test("isRelevantSummary keeps a US-origin release even with modest pre-release buzz", () => {
+  // e.g. Street Fighter (9.97) / Hunger Games: Sunrise on the Reaping (8.93) pre-release
+  assert.equal(isRelevantSummary({ origin_country: ["US"], popularity: 9, vote_count: 0 }), true);
 });
 
-test("isRelevantSummary drops a low-popularity, low-vote-count release", () => {
-  assert.equal(isRelevantSummary({ popularity: 1, vote_count: 0 }), false);
+test("isRelevantSummary drops a non-US release with no vote history", () => {
+  assert.equal(isRelevantSummary({ origin_country: ["IN"], popularity: 9, vote_count: 0 }), false);
 });
 
-test("isRelevantSummary keeps a classic on accumulated vote count alone", () => {
-  // e.g. a Princess Mononoke re-release: little current buzz, huge accumulated votes
-  assert.equal(isRelevantSummary({ popularity: 3, vote_count: 9000 }), true);
+test("isRelevantSummary drops a US-origin release with negligible popularity", () => {
+  assert.equal(isRelevantSummary({ origin_country: ["US"], popularity: 1, vote_count: 0 }), false);
+});
+
+test("isRelevantSummary keeps a classic on accumulated vote count alone, regardless of origin", () => {
+  // e.g. a Princess Mononoke re-release: Japanese origin, little current buzz, huge accumulated votes
+  assert.equal(isRelevantSummary({ origin_country: ["JP"], popularity: 3, vote_count: 9000 }), true);
 });
 
 test("toCanonicalReleaseEvent returns null when no US theatrical date is available", () => {
