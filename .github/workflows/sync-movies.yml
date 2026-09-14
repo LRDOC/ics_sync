@@ -62,7 +62,9 @@ jobs:
           # so there's no benefit to the multi-day grace period the Markit
           # feed uses — drop cancelled movies from the file almost immediately.
           CANCELLED_RETENTION_DAYS: "0"
-          FEED_NAME: movie-releases
+          # Temporary rename to dodge Google Calendar's own server-side cache
+          # of the old URL. Revert to movie-releases once that's confirmed clear.
+          FEED_NAME: movie-releases-v2
           SYNC_STATE_DIR: state
           TMDB_READ_ACCESS_TOKEN: ${{ secrets.TMDB_READ_ACCESS_TOKEN }}
         run: npm run sync:movies
@@ -70,7 +72,7 @@ jobs:
       - name: Build movie release Pages artifact
         env:
           CALENDAR_NAME: Movie Release Dates
-          FEED_NAME: movie-releases
+          FEED_NAME: movie-releases-v2
           SYNC_STATE_DIR: state
         run: npm run build:movies
 
