@@ -70,7 +70,7 @@ The production deployment path is GitHub-native and uses a single repository:
 - source code in `main`
 - generated state restored from and persisted to `gh-pages`
 - generated public files built locally from the same repository
-- GitHub Actions cron every 10 minutes
+- GitHub Actions cron every 10 minutes for the Markit feed (`sync-pages.yml`); the movie feed runs on its own, much lower-frequency cron (`sync-movies.yml`, every 2 hours) since AMC/TMDB data changes far slower and AMC's rate limits are undocumented
 - workflow publishes only the public ICS artifact and sync state to the `gh-pages` branch
 - GitHub Pages serves the public ICS from that same repository
 - HTML explainer, diagram, and maintainer context stay on `main` and are not part of the Pages branch
@@ -91,9 +91,11 @@ Each feed is a separate sync invocation with its own `FEED_NAME`/`CALENDAR_NAME`
 
 `movie-releases.ics` combines two sources behind the same normalization pipeline as Markit:
 
-- **TMDB** (`src/sources/tmdb.js`) — upcoming US theatrical releases within `MOVIE_LOOKAHEAD_DAYS`, rendered as all-day "in theatres" events with Movie/Runtime/Director/Genre/Rating/synopsis in the description.
+- **TMDB** (`src/sources/tmdb.js`) — upcoming US theatrical releases within `MOVIE_LOOKAHEAD_DAYS`, filtered to US-origin movies with popularity ≥ 5 or ≥ 500 accumulated votes (catches both new franchise films and classic re-releases), rendered as all-day "in theatres" events with Movie/Runtime/Director/Genre/Rating/synopsis in the description.
 - **AMC** (`src/sources/amc.js`) — official catalog API (`developers.amctheatres.com`), tracking AMC Boston Common 19 and AMC Assembly Row 12. A movie's first-observed AMC showtime at one of those theatres fires a one-time "tickets on sale" alert (labeled "Thu preview" when the earliest showtime falls on a Thursday). Orchestration lives in `src/movieSync.js`, which persists a per-theatre "already alerted" baseline so a movie already on sale before the feed's first-ever run does **not** flood the calendar with a backlog of alerts, and so a stable on-sale movie never re-fires on later syncs.
 - AMC status: endpoints are confirmed live and correctly authenticated against (verified via real 403/400 responses, not 404s). The vendor key itself is pending AMC's weekly Thursday production deploy. Once active: run the `Resolve AMC Theatre IDs` workflow, set the two ids as the `AMC_THEATRE_IDS` repo variable, and alerts start on the next scheduled sync.
+
+See [CONTEXT.md](./CONTEXT.md#movie-feed-known-limitations) for the current known limitations of this feed (personalization, AMC activation, Google Calendar quirks).
 
 ## Optional Vercel path
 
