@@ -6,10 +6,11 @@ METHOD:PUBLISH
 X-WR-CALNAME:Movie Release Dates
 BEGIN:VEVENT
 UID:tmdb:1770265
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:اليوم الوطني السعودي — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: اليوم الوطني السعودي\nRuntime: 96 min\nDirector: زين الع
  ابدين\nGenre: Documentary\, History\n\nA film to celebrate the 96th Saudi N
  ational Day
@@ -17,20 +18,22 @@ URL:https://www.themoviedb.org/movie/1770265
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1770227
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:末日山宿 — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: 末日山宿\nRuntime: Unknown\nDirector: Unknown\nGenre: Thrill
  er\, Science Fiction
 URL:https://www.themoviedb.org/movie/1770227
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1770164
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Keep/Let Go — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Keep/Let Go\nRuntime: Unknown\nDirector: Daine del Mar\n
  \nShe has one night left. One apartment to empty. And one box she can't bri
  ng herself to open
@@ -38,10 +41,11 @@ URL:https://www.themoviedb.org/movie/1770164
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1770116
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Someone to Call My Lover — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Someone to Call My Lover\nRuntime: 11 min\nDirector: Har
  rison Lyda\nGenre: Comedy\, Romance\nRating: NR\n\nRick is lonely\, so he s
  tarts making phone calls to find someone.
@@ -49,10 +53,11 @@ URL:https://www.themoviedb.org/movie/1770116
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1770072
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Joana Marques: Culpada ou Indecente — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Joana Marques: Culpada ou Indecente\nRuntime: 76 min\nDi
  rector: Elza Cordeiro\, Juampi Cofré\n\nThis one-episode documentary revisi
  ts the legal and media battle between comedian Joana Marques and the duo An
@@ -65,40 +70,44 @@ URL:https://www.primevideo.com/detail/0LFT8ZS1P2L4911LQF8X9XF6B2?ref_=atv_s
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1769961
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Flores — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Flores\nRuntime: Unknown\nDirector: Maria Laura Fritz\nG
  enre: Drama
 URL:https://www.themoviedb.org/movie/1769961
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1769717
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:M.I.S.S.I.O.N. 歌劇な潜入捜査官 — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: M.I.S.S.I.O.N. 歌劇な潜入捜査官\nRuntime: Unknown\nDirector: Yos
  uke Goto\nGenre: Comedy
 URL:https://www.themoviedb.org/movie/1769717
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1769097
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Accueil du grand âge\, la méthode Montessori — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Accueil du grand âge\, la méthode Montessori\nRuntime: U
  nknown\nDirector: Sylvie Deleule
 URL:https://www.themoviedb.org/movie/1769097
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1768815
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Tudo é Tempo — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Tudo é Tempo\nRuntime: 85 min\nDirector: Marcos Guttmann
  \nGenre: Documentary\n\nThe film follows four voters from the same polling 
  station in Rio de Janeiro between 2002 and 2022. Over the course of 20 year
@@ -108,10 +117,11 @@ URL:https://www.themoviedb.org/movie/1768815
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1768517
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:The Helpers — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: The Helpers\nRuntime: 80 min\nDirector: Peter Wayne\nGen
  re: Documentary\n\nEmbedding directly within five active warzones\, this ur
  gent hybrid documentary blends raw frontline footage with stunning 2D anima
@@ -124,10 +134,11 @@ URL:https://www.themoviedb.org/movie/1768517
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1768486
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Mushroom Cloud: A Hibakusha Story — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Mushroom Cloud: A Hibakusha Story\nRuntime: 98 min\nDire
  ctor: James Medina\nGenre: Documentary\n\nThe documentary portrays the afte
  rmath of atomic bombings of Hiroshima and Nagasaki. Through the voices of H
@@ -147,10 +158,11 @@ URL:https://www.themoviedb.org/movie/1768486
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1768463
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Ganj\, The Treasures of Shah Jo Risalo — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Ganj\, The Treasures of Shah Jo Risalo\nRuntime: 75 min\
  nDirector: Shamim Junejo\nGenre: Documentary\n\nGANJ: The Treasures of Shah
   Jo Risalo explores the timeless wisdom of Shah Abdul Latif Bhittai a Sufi 
@@ -170,10 +182,11 @@ URL:https://www.themoviedb.org/movie/1768463
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1768283
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Son of The Steppe — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Son of The Steppe\nRuntime: 100 min\nDirector: Tao Hu\nG
  enre: Drama\n\nIn the 1970s\, Tyn Bator left Hohhot for the remote steppes 
  of Inner Mongolia. He revived a failing milk powder factory and received a 
@@ -187,10 +200,11 @@ URL:https://www.themoviedb.org/movie/1768283
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1768262
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Mysteries of Lake Brosno — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Mysteries of Lake Brosno\nRuntime: 105 min\nDirector: Se
  rgey Ohotin\nGenre: Drama\, Romance\, Fantasy\n\nAfter her mother's death\,
   Masha and her father\, a priest\, move to Lake Brosno\, shrouded in the le
@@ -203,10 +217,11 @@ URL:https://www.themoviedb.org/movie/1768262
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1768257
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:On Horseback — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: On Horseback\nRuntime: 80 min\nDirector: Murat Saraçoğlu
  \nGenre: Drama\n\nEarly one morning\, Mehmet Ali and his son Yakup set out 
  on foot through the countryside. Although Yakup doesn't quite know where th
@@ -219,10 +234,11 @@ URL:https://www.themoviedb.org/movie/1768257
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1768251
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Actress — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Actress\nRuntime: 7 min\nDirector: Nazarov Sherzod\nGenr
  e: Drama\n\nA theater actress who masterfully performs roles on stage recei
  ves an offer to play the leading role in real life.
@@ -230,10 +246,11 @@ URL:https://www.themoviedb.org/movie/1768251
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1768249
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Cherry Street — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Cherry Street\nRuntime: 18 min\nDirector: Kanykei Orozoe
  va\nGenre: Drama\n\nTwelve-year-old Anara finds herself under the watchful 
  eye of her elderly physical education teacher. Her friends find out and dec
@@ -242,10 +259,11 @@ URL:https://www.themoviedb.org/movie/1768249
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1768244
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Chasing The White Rabbit — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Chasing The White Rabbit\nRuntime: 23 min\nDirector: Kad
  er\nGenre: Drama\n\nOn the eve of an important casting\, actor Mark goes ou
  t for a smoke and encounters the White Rabbit. He embarks on a surreal jour
@@ -254,10 +272,11 @@ URL:https://www.themoviedb.org/movie/1768244
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1768242
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Zoolushka — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Zoolushka\nRuntime: 9 min\nDirector: Kira Goldshtain\nGe
  nre: Drama\n\nA pet store clerk and a customer argue over the return of fis
  h\, confronting themes of responsibility\, pain\, and loneliness\, leading 
@@ -266,10 +285,11 @@ URL:https://www.themoviedb.org/movie/1768242
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1768241
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Pockets — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Pockets\nRuntime: 3 min\nDirector: Ilona Vedrashko\nGenr
  e: Drama\n\nJune 21\, 1941. Chisinau\, Moldavian SSR. At a military airfiel
  d\, Captain Afanasy Karmanov speaks with a technician who asks if war will 
@@ -282,10 +302,11 @@ URL:https://www.themoviedb.org/movie/1768241
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1768238
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Cassette — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Cassette\nRuntime: 3 min\nDirector: Alexandra Sukhova\nG
  enre: Drama\n\nA mother who has lost her son retreats from reality and begi
  ns to hide in her own memories\, where the boundaries between past and pres
@@ -294,10 +315,11 @@ URL:https://www.themoviedb.org/movie/1768238
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1768155
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:The Feastless Soul — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: The Feastless Soul\nRuntime: 8 min\nDirector: Nathaniel 
  Taslim\nGenre: Comedy\n\nJeremy\, a spirit with no clear identity\, struggl
  es to secure his portion on the day of the spirits' banquet.
@@ -305,10 +327,11 @@ URL:https://minikino.org/begadang10tahun/
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1767985
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Coma — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Coma\nRuntime: 15 min\nDirector: Marina Smirnova\nGenre:
   Comedy\n\nAfter learning that her daughter had frozen her eggs\, her mothe
  r decided to urgently find a father for her "grandchildren" – and no obstac
@@ -317,10 +340,11 @@ URL:https://www.themoviedb.org/movie/1767985
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1767856
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:UNDERGIRL — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: UNDERGIRL\nRuntime: 54 min\nDirector: Katsuhide Morimoto
  \n\nUNDERGIRL is a new feature film created by Jun Takahashi and his label 
  UNDERCOVER PRODUCTION\, expanding on the brand's 2011 "UNDERMAN" fictional 
@@ -331,10 +355,11 @@ URL:https://www.themoviedb.org/movie/1767856
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1767544
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Compote — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Compote\nRuntime: 19 min\nDirector: Nikita Yuranov\nGenr
  e: Drama\n\nEvery year\, five friends disappear for one night to perform a 
  mysterious ritual—no place for outsiders. But this time\, the secret can't 
@@ -343,10 +368,11 @@ URL:https://www.themoviedb.org/movie/1767544
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1767534
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:My Grandmother Puts On Lipstick — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: My Grandmother Puts On Lipstick\nRuntime: 21 min\nDirect
  or: Ulyana Grafova\nGenre: Drama\n\nShe sees spies in every passerby\, and 
  a dangerous drug dealer in her neighbor. He's burying his only friend. She 
@@ -359,10 +385,11 @@ URL:https://www.themoviedb.org/movie/1767534
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1767527
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Obsession — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Obsession\nRuntime: 9 min\nDirector: Oleg Nikulshin\, Ni
  kita Nikulshin\nGenre: Drama\n\nAfter his onstage fall\, the father continu
  es to focus on rehearsals and raises his daughter through discipline and pa
@@ -374,10 +401,11 @@ URL:https://www.themoviedb.org/movie/1767527
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1767520
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Shards — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Shards\nRuntime: 30 min\nDirector: Arsen Aristakesyan\nG
  enre: Drama\n\nPavel works as a music teacher in a small provincial town. T
  he death of his younger brother in a war zone dramatically changes his life
@@ -387,10 +415,11 @@ URL:https://www.themoviedb.org/movie/1767520
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1767513
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:The First Space Rocket — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: The First Space Rocket\nRuntime: 20 min\nDirector: Valer
  ia Semenchukova\nGenre: Drama\n\nOn the day of the funeral\, while relative
  s argue over the failed wake and a wedding thunders beyond the neighbor's f
@@ -400,10 +429,11 @@ URL:https://www.themoviedb.org/movie/1767513
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1767362
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Tomorrow Protocol — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Tomorrow Protocol\nRuntime: 141 min\nDirector: Seth Doma
  nski\, Jonah Krugman Howard\nGenre: Animation\, Action\n\nA nuclear strike 
  on Mars leads to a war-torn America with a rogue dictator and a synthetic k
@@ -412,20 +442,22 @@ URL:https://www.themoviedb.org/movie/1767362
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1767216
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Extra-mourningg — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Extra-mourningg\nRuntime: 113 min\nDirector: Saehun\nGen
  re: Documentary
 URL:https://www.themoviedb.org/movie/1767216
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1766953
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Pitch — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Pitch\nRuntime: 10 min\nDirector: Oskar Tolkachev\nGenre
  : Drama\n\nFifty-year-old director Andrei pitches his dream story to the ge
  neral director of the ITD television channel. Gennady Arkadyevich quickly t
@@ -438,10 +470,11 @@ URL:https://www.themoviedb.org/movie/1766953
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1766918
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Plie — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Plie\nRuntime: 16 min\nDirector: Olga Klyueva\nGenre: Dr
  ama\n\nA young veteran\, along with his mother and younger sister\, is tryi
  ng to build a new life in a new apartment\, but the trauma they experienced
@@ -453,10 +486,11 @@ URL:https://www.themoviedb.org/movie/1766918
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1766908
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:The Last Parting — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: The Last Parting\nRuntime: 17 min\nDirector: Zhao Bin\nG
  enre: Drama\n\n"We spend our entire lives apart\, like the stars Shen and S
  hang." Orion and Antares rise and set separately\, providing the film's cen
@@ -469,10 +503,11 @@ URL:https://www.themoviedb.org/movie/1766908
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1766898
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Little Calf — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Little Calf\nRuntime: 14 min\nDirector: Alena Styrikovic
  h\nGenre: Drama\n\nFrom a young age\, Katya helped her parents care for the
   cattle. One day\, a cow began to speak to her in a human voice\, and a fri
@@ -482,10 +517,11 @@ URL:https://www.themoviedb.org/movie/1766898
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1766895
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Shadows of Childhood — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Shadows of Childhood\nRuntime: 3 min\nDirector: Vladisla
  v Marachkovsky\nGenre: Drama\n\nA story about childhood trauma\, memory\, a
  nd the ability to break the cycle of violence. A child performs a shadow pl
@@ -499,20 +535,22 @@ URL:https://www.themoviedb.org/movie/1766895
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1766307
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Légitime Défense - L'affaire de la route toxique — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Légitime Défense - L'affaire de la route toxique\nRuntim
  e: Unknown\nDirector: Manon de Couët\nGenre: Documentary
 URL:https://www.themoviedb.org/movie/1766307
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1766172
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Notebook — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Notebook\nRuntime: 12 min\nDirector: Alena Bikkulova\nGe
  nre: Drama\n\nA family biopic. Set in the post-war years. In the Siberian h
  interland. Frontline soldier Fyodor Fyodorovich brings home a trophy notebo
@@ -524,10 +562,11 @@ URL:https://www.themoviedb.org/movie/1766172
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1766167
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Sale — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Sale\nRuntime: 15 min\nDirector: Marcos Purroy\nGenre: D
  rama\n\nDriven by her grandmother's illness and a lack of funds\, 17-year-o
  ld student Rosa is forced to abandon her school uniform for a dark path dic
@@ -538,10 +577,11 @@ URL:https://www.themoviedb.org/movie/1766167
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1766158
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Silent Lightnings — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Silent Lightnings\nRuntime: 16 min\nDirector: Oleg Butko
  vsky\nGenre: Drama\n\nIn a world where everyone is forced to listen to news
   and ads\, a broadcaster breaks the broadcast with white noise. For the fir
@@ -550,10 +590,11 @@ URL:https://www.themoviedb.org/movie/1766158
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1766149
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Ася выходит из зоны комфорта — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Ася выходит из зоны комфорта\nRuntime: Unknown\nDirector
  : Tasya Lapshina\n\nAn agoraphobic young accountant is trying to choose bet
  ween the perfect guy in her apartment or the imperfect guy next door\, the 
@@ -562,41 +603,45 @@ URL:https://www.themoviedb.org/movie/1766149
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1765334
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Dones de ràdio — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Dones de ràdio\nRuntime: Unknown\nDirector: Sergi Belbel
  \nGenre: TV Movie\, Drama\, Comedy
 URL:https://www.themoviedb.org/movie/1765334
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1764762
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:La Classe\, les plus grands sketchs — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: La Classe\, les plus grands sketchs\nRuntime: Unknown\nD
  irector: Georges Barrier\, Daniel Langer\nGenre: Comedy\, Family
 URL:https://www.themoviedb.org/movie/1764762
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1764757
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Château Gaillard : le pari fou de Richard Coeur de Lion — In Theatr
  es
+STATUS:CANCELLED
 DESCRIPTION:Movie: Château Gaillard : le pari fou de Richard Coeur de Lion\
  nRuntime: Unknown\nDirector: Raphaël Rouyer\nGenre: Documentary\, History
 URL:https://www.themoviedb.org/movie/1764757
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1764604
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Lying In Wait — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Lying In Wait\nRuntime: 47 min\nDirector: Isaac Carneato
   Mattos\n\nTwo detectives searching for a woman who was described as despai
  red\, but they don't believe it\, since it all happened in a weird city.
@@ -604,10 +649,11 @@ URL:https://www.themoviedb.org/movie/1764604
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1763205
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Keinaan\, mee takas Somaliaan — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Keinaan\, mee takas Somaliaan\nRuntime: 67 min\nDirector
  : Timo Korpi\, Abdirahman Keinaan\nGenre: Documentary\n\nKeinaan does what 
  some Finns have long wished he would: he goes back to where he came from\, 
@@ -617,10 +663,11 @@ URL:https://www.themoviedb.org/movie/1763205
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1760311
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Barbie in the Nutcracker — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Barbie in the Nutcracker\nRuntime: 45 min\nDirector: Rob
   David\, Teale Sperling\nGenre: Animation\, Family\n\nThis 45-minute reimag
  ining brings modern animation and fresh storytelling to the classic tale. I
@@ -632,10 +679,11 @@ URL:https://www.themoviedb.org/movie/1760311
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1759618
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Driftwood — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Driftwood\nRuntime: 11 min\nDirector: A.C. Birch\nGenre:
   Drama\n\nThe peaceful Toronto Islands offer comfort to two best friends af
  ter a distressing hookup\, in this moving exploration of trans visibility\,
@@ -644,30 +692,33 @@ URL:https://www.themoviedb.org/movie/1759618
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1753029
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:The Araon Log — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: The Araon Log\nRuntime: Unknown\nDirector: Kang Hyun-seo
  n\nGenre: Documentary
 URL:https://www.themoviedb.org/movie/1753029
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1753024
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Going Home — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Going Home\nRuntime: 21 min\nDirector: Kamal Aljafari\nG
  enre: Documentary
 URL:https://www.themoviedb.org/movie/1753024
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1750329
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Re/Pair — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Re/Pair\nRuntime: 101 min\nDirector: Unknown\nGenre: Doc
  umentary\n\nProminent Black and Jewish figures engage in conversations abou
  t rifts in their historic alliance\, partly centered on but not limited to 
@@ -676,10 +727,11 @@ URL:https://www.themoviedb.org/movie/1750329
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1747445
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Sanki Birden İkimiz — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Sanki Birden İkimiz\nRuntime: 12 min\nDirector: Yiğit Sa
  rı\nGenre: Action\, Adventure\n\nAta and Damla\, two university seniors on 
  their final exam day\, have to make it from one side of Istanbul to the oth
@@ -690,10 +742,11 @@ URL:https://www.themoviedb.org/movie/1747445
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1745960
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Till The Milk Runs Dry — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Till The Milk Runs Dry\nRuntime: 12 min\nDirector: Kalai
  nithan Kalaichelvan\nGenre: Music\n\nA young Bharatanatyam dancer at a pres
  tigious academy faces mounting pressure to end an unexpected pregnancy or r
@@ -702,10 +755,11 @@ URL:https://www.themoviedb.org/movie/1745960
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1744889
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Kick On — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Kick On\nRuntime: 91 min\nDirector: Nick Kozakis\nGenre:
   Horror\, Action\, Thriller\n\nWhen a night of partying leads four friends 
  to kick on\, at the extravagant drug-fueled lair of a mobster's reckless so
@@ -715,10 +769,11 @@ URL:https://www.themoviedb.org/movie/1744889
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1744708
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Like Magic — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Like Magic\nRuntime: 75 min\nDirector: Melissa Saavedra 
  Gil\nGenre: Documentary\n\nBlending archival footage\, personal testimony a
  nd a decades-long search for answers\, Melissa Saavedra Gil transforms a ch
@@ -729,10 +784,11 @@ URL:https://www.themoviedb.org/movie/1744708
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1744368
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Bloodline — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Bloodline\nRuntime: 19 min\nDirector: Fala Chen\nGenre: 
  Drama\, History\, Horror\n\nSet against the systemic oppression of Chinese 
  American communities\, this elegant\, spine-chilling drama follows two sibl
@@ -741,10 +797,11 @@ URL:https://www.themoviedb.org/movie/1744368
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1744317
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:The Spectacular Death of Prisca — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: The Spectacular Death of Prisca\nRuntime: 23 min\nDirect
  or: Kaelo Iyizoba\nGenre: Comedy\, Drama\n\nOn her daughter’s wedding day\,
   a mother finds herself catapulted into a fever-dream quest to rescue her d
@@ -753,10 +810,11 @@ URL:https://www.themoviedb.org/movie/1744317
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1743994
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Sunburn — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Sunburn\nRuntime: 82 min\nDirector: Serville Poblete\nGe
  nre: Comedy\n\nWhen a citywide blackout knocks out the power on one of the 
  hottest days on record\, a group of neighborhood kids set out in search of 
@@ -765,10 +823,11 @@ URL:https://www.themoviedb.org/movie/1743994
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1743993
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Neverman — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Neverman\nRuntime: 98 min\nDirector: Rodrigo Barriuso\nG
  enre: Drama\n\nA transgender woman with Alzheimer's moves into a retirement
   home. As her lucidity wanes\, she must confront the challenges of her cond
@@ -777,10 +836,11 @@ URL:https://www.themoviedb.org/movie/1743993
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1742914
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:No Handouts — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: No Handouts\nRuntime: 18 min\nDirector: Lucas David Gonz
  ález\nGenre: Science Fiction\, Drama\, Crime\n\nIn a hyper-capitalistic fut
  ure\, rookie EMT Joanna Broz finds herself in a struggle between job securi
@@ -789,10 +849,11 @@ URL:https://www.themoviedb.org/movie/1742914
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1742442
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Steel: The Blood Of Us — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Steel: The Blood Of Us\nRuntime: 47 min\nDirector: Joe C
  ornick\nGenre: Documentary\n\nSteel: The Blood of Us is a cinematic love le
  tter to the end of the industrial revolution\, capturing the community of P
@@ -804,10 +865,11 @@ URL:https://www.steelthebloodofus.co.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1739673
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Buddies — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Buddies\nRuntime: 11 min\nDirector: Fraser Wolfe\n\nOver
   a weekend of skiing\, 14-year-old Aiden navigates the boundaries of his fr
  iendship with Lucas.
@@ -815,11 +877,12 @@ URL:https://www.themoviedb.org/movie/1739673
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1737849
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Zjili: A Story of Sisterhood and The Burdens of Excess — In Theatre
  s
+STATUS:CANCELLED
 DESCRIPTION:Movie: Zjili: A Story of Sisterhood and The Burdens of Excess\n
  Runtime: 119 min\nDirector: Christine Boateng\, Hajara Musah Chambas\nGenre
  : Drama\n\nThe story draws from the experiences of several kayayei\, who ca
@@ -829,10 +892,11 @@ URL:https://www.themoviedb.org/movie/1737849
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1737831
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Strong Son — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Strong Son\nRuntime: 88 min\nDirector: Ian Bawa\nGenre: 
  Drama\, Comedy\n\nA former South Asian bodybuilder moves back in with his a
  ging father to become his primary caregiver\, forcing him to balance the ph
@@ -842,10 +906,11 @@ URL:https://www.themoviedb.org/movie/1737831
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1730056
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:2:LOVE — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: 2:LOVE\nRuntime: 11 min\nDirector: Ronni Shalev\nGenre: 
  Animation\, Romance\n\nA major tennis tournament is about to begin\, and th
  e tension is palpable. On the court\, two ball girls crouch on either side 
@@ -860,20 +925,22 @@ URL:https://www.themoviedb.org/movie/1730056
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1719970
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Hadas pasan por mi casa — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Hadas pasan por mi casa\nRuntime: Unknown\nDirector: Lun
  a Hernández\nGenre: Drama\, Family
 URL:https://www.themoviedb.org/movie/1719970
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1707841
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Glass Saints — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Glass Saints\nRuntime: 15 min\nDirector: Enrique Parra\n
  Genre: Comedy\, Drama\n\nA group of young men ranging from the ages of 18 t
  o 24 live their bizarre eccentric lives in a world that doesn't understand 
@@ -882,10 +949,11 @@ URL:https://www.themoviedb.org/movie/1707841
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1703823
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Almost Pink — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Almost Pink\nRuntime: 15 min\nDirector: Justine Prince\n
  Genre: Drama\, Thriller\n\nAfter basketball practice\, a 15-year-old girl m
  eets a stranger for a transaction that goes almost as planned. Confronted w
@@ -895,10 +963,11 @@ URL:https://www.themoviedb.org/movie/1703823
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1703361
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Madeon: There Is No Band — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Madeon: There Is No Band\nRuntime: Unknown\nDirector: Ju
  lius Woods\nGenre: Music\, Documentary\n\nAhead of a landmark performance a
  t Red Rocks\, we followed Madeon behind the scenes as he prepared to unveil
@@ -910,10 +979,11 @@ URL:https://www.youtube.com/watch?v=kqXLZ196dEg
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1688799
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Darlene Love: I Know Where I've Been — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Darlene Love: I Know Where I've Been\nRuntime: 115 min\n
  Director: Barry Avrich\nGenre: Documentary\, Music\n\nA documentary on Darl
  ene Love\, the singer and Rock & Roll Hall of Fame inductee known for “He’s
@@ -923,10 +993,11 @@ URL:https://www.themoviedb.org/movie/1688799
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1671625
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Peligro Inminente — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Peligro Inminente\nRuntime: 14 min\nDirector: Chucho Mor
  ales\nGenre: Action\n\nWhen a ruthless terrorist threatens to detonate expl
  osives across Mexico's most strategic military bases\, a daring secret agen
@@ -937,10 +1008,11 @@ URL:https://www.themoviedb.org/movie/1671625
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1671257
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Voices — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Voices\nRuntime: 99 min\nDirector: Deantè Gray\nGenre: D
  rama\, Music\n\nWhen a rising soul duo overdose just hours before their big
   break\, a desperate bellhop and his closest friends seize the chance of a 
@@ -949,10 +1021,11 @@ URL:https://www.themoviedb.org/movie/1671257
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1667870
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Your Silent Face — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Your Silent Face\nRuntime: 20 min\nDirector: Kyriakos Ka
  koullis\nGenre: Drama\, Thriller\n\nA man in a seemingly stable relationshi
  p hides a private world of fantasy that slowly takes over his life. When a 
@@ -962,10 +1035,11 @@ URL:https://www.themoviedb.org/movie/1667870
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1648489
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Future Tense — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Future Tense\nRuntime: 96 min\nDirector: Jenna Cato Bass
  \nGenre: Science Fiction\, Thriller\, Romance\n\nIn a dystopian future\, a 
  young couple clashes during their time-traveling vacation.
@@ -973,10 +1047,11 @@ URL:https://www.themoviedb.org/movie/1648489
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1644878
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Lizzie — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Lizzie\nRuntime: 9 min\nDirector: Sam Dalton\nGenre: Dra
  ma\n\nA young woman\, Eliza\, returns to her hometown for summer break\, an
  d must confront a fragment of her past.
@@ -984,10 +1059,11 @@ URL:https://www.themoviedb.org/movie/1644878
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1575904
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:God Bless You\, Mr. Kopu — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: God Bless You\, Mr. Kopu\nRuntime: 102 min\nDirector: Al
  ex Liu\nGenre: Comedy\, Thriller\n\nA struggling Tongan immigrant is taken 
  under the wing of a charismatic American salesman. What begins as a dream j
@@ -997,10 +1073,11 @@ URL:https://www.themoviedb.org/movie/1575904
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1514333
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Wild Wild East — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Wild Wild East\nRuntime: 105 min\nDirector: Jan Holoubek
  \nGenre: War\, Thriller\, Crime\n\nIn occupied Poland 1943\, German officia
  l Martin Wolff is sent to a remote village to investigate the disappearance
@@ -1013,10 +1090,11 @@ URL:https://www.themoviedb.org/movie/1514333
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1504211
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Love Is the Monster — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Love Is the Monster\nRuntime: 93 min\nDirector: Neto Vil
  lalobos\nGenre: Thriller\n\nIn a dystopian world marked by inequality and e
  veryday violence\, a grandmother is determined to make the most of the time
@@ -1027,10 +1105,11 @@ URL:https://www.themoviedb.org/movie/1504211
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1490068
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Seventeen — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Seventeen\nRuntime: 88 min\nDirector: Justin Ducharme\nG
  enre: Drama\n\nSet over the course of seventeen hours\, the lives of three 
  young\, queer\, Indigenous sex workers intersect through chance\, relation\
@@ -1039,10 +1118,11 @@ URL:https://www.themoviedb.org/movie/1490068
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1463013
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Where The Table Was... — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Where The Table Was...\nRuntime: 16 min\nDirector: Pavel
   Sedov\nGenre: Drama\n\nSoviet Union. 1950s. Winter. An escaped prisoner fi
  nds a house in the woods where food magically appears every night.
@@ -1050,10 +1130,11 @@ URL:https://www.themoviedb.org/movie/1463013
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1363313
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Letter — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Letter\nRuntime: 71 min\nDirector: Amur Amerkhanov\nGenr
  e: Drama\n\nA young surgeon accompanies a group of communists from the Chec
  hen-Ingush Autonomous Soviet Socialist Republic secretly carrying a letter 
@@ -1063,10 +1144,11 @@ URL:https://www.themoviedb.org/movie/1363313
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:865567
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Where the River Begins — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Where the River Begins\nRuntime: 102 min\nDirector: Juan
   Andrés Arango Garcia\nGenre: Drama\n\nYajaira\, a young but strong Embera 
  woman\, lives with her daughter Maria in a violent Bogotá neighborhood. Hau
@@ -1080,11 +1162,27 @@ DESCRIPTION:Movie: Where the River Begins\nRuntime: 102 min\nDirector: Juan
 URL:https://www.themoviedb.org/movie/865567
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1318467
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:The Last Kiss — In Theatres
+DESCRIPTION:Movie: The Last Kiss\nRuntime: 97 min\nDirector: Yoko Okumura\n
+ Genre: Horror\, Mystery\, Thriller\n\nLaurel always imagined her first kiss
+  would be a fairy tale. Instead\, that fantasy turns frightening when she's
+  cursed with an ability to see the death of anyone she kisses. After a visi
+ on reveals her crush is doomed to die in a strange murder spree targeting h
+ er closest friends\, she races to unmask the killer before the mystery beco
+ mes a massacre.
+URL:https://www.universalpicturesathome.com/movies/the-last-kiss-2026
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1768877
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:The Iron Door — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: The Iron Door\nRuntime: 90 min\nDirector: Unknown\nGenre
  : Horror\, Thriller\n\nInspired by true events in the 1920s Yucca Valley\, 
  a miner named Johnny Lang seals his cannibal son behind an iron door. Gener
@@ -1095,10 +1193,11 @@ URL:https://www.themoviedb.org/movie/1768877
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1768432
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Chernobyl-2: Life After — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Chernobyl-2: Life After\nRuntime: 67 min\nDirector: Olga
   Antimony\nGenre: Documentary\n\nThirty years ago\, a little girl watched h
  er parents’ wedding\, remembering the lilies in her mother’s hands. Today\,
@@ -1117,30 +1216,33 @@ URL:https://www.themoviedb.org/movie/1768432
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1767951
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:El cas de l'avi pistoler — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: El cas de l'avi pistoler\nRuntime: Unknown\nDirector: Gu
  illem Sánchez\, Oriol Gispert\nGenre: Documentary\, Crime
 URL:https://www.themoviedb.org/movie/1767951
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1766477
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Locker Room - Zwischen Sieg und Morgen — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Locker Room - Zwischen Sieg und Morgen\nRuntime: Unknown
  \nDirector: Caroline Gloor\nGenre: Documentary
 URL:https://www.themoviedb.org/movie/1766477
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1765739
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Swallows\, I'm Giving You The Green Light! — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Swallows\, I'm Giving You The Green Light!\nRuntime: Unk
  nown\nDirector: Diana Anikieieva\n\nElina and Sasha are a disabled couple b
  uilding a home together and a relationship based on equality. Elina has liv
@@ -1151,40 +1253,44 @@ URL:https://www.themoviedb.org/movie/1765739
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1765396
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Pacific Spirit — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Pacific Spirit\nRuntime: 15 min\nDirector: Antoine Bourg
  es
 URL:https://www.themoviedb.org/movie/1765396
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1765392
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Call Me Tim — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Call Me Tim\nRuntime: Unknown\nDirector: Shamier Anderso
  n
 URL:https://www.themoviedb.org/movie/1765392
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1765359
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Franjo — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Franjo\nRuntime: Unknown\nDirector: Unknown\nGenre: Come
  dy
 URL:https://www.themoviedb.org/movie/1765359
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1765345
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Des feux extrêmes en France : sommes-nous prêts ? — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Des feux extrêmes en France : sommes-nous prêts ?\nRunti
  me: Unknown\nDirector: Bruno Bucher\, Mathieu Duboscq\nGenre: Documentary\,
   Family
@@ -1192,20 +1298,22 @@ URL:https://www.themoviedb.org/movie/1765345
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1765337
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Sauvons nos Forêts — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Sauvons nos Forêts\nRuntime: Unknown\nDirector: Unknown\
  nGenre: Documentary\, Family
 URL:https://www.themoviedb.org/movie/1765337
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1764165
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:The Time of Cats — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: The Time of Cats\nRuntime: 26 min\nDirector: Polina Doro
  feeva\nGenre: Documentary\n\nValentina knows all too well what it means to 
  be responsible for those we have tamed. She runs the Time of Cats shelter w
@@ -1222,10 +1330,11 @@ URL:https://www.themoviedb.org/movie/1764165
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1763985
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:The Mansi From The Village of Lopaevo — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: The Mansi From The Village of Lopaevo\nRuntime: 39 min\n
  Director: Natalya Savras\nGenre: Documentary\n\nVasily Viktorovich from the
   village of Lopaevo can trace his family lineage back 13 generations. Every
@@ -1239,10 +1348,11 @@ URL:https://www.themoviedb.org/movie/1763985
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1763976
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Darkhan — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Darkhan\nRuntime: 38 min\nDirector: Vladimir Ponomarev\,
   Alexey Lagerev\, Daniil Balushkin\nGenre: Documentary\n\nIn the mountains 
  of the Eastern Sayan range\, in the south-west of the Republic of Buryatia\
@@ -1257,10 +1367,11 @@ URL:https://www.themoviedb.org/movie/1763976
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1763790
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:prague\, with and without my grandmother — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: prague\, with and without my grandmother\nRuntime: 3 min
  \nDirector: Eric Schuman\nGenre: Documentary\n\nI was eleven\, and instead 
  of filming my grandmother\, I filmed the spires of Prague.
@@ -1268,13 +1379,879 @@ URL:https://www.ericschuman.com/directing-2#/new-page-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1763711
-DTSTAMP:20260914T191127Z
+DTSTAMP:20260914T191429Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Hyper Misao Produce ~HYPE!4~ — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Hyper Misao Produce ~HYPE!4~\nRuntime: Unknown\nDirector
  : Hyper Misao\nGenre: Comedy\, Fantasy\, Music\, Drama\, Science Fiction\n\
  nHyper Misao is back at it again!
 URL:https://www.wrestle-universe.com/en/lives/bYoK8mESTxR3UY3nLEDvHx
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1763052
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Concerto Muerto — In Theatres
+DESCRIPTION:Movie: Concerto Muerto\nRuntime: 6 min\nDirector: Jack McLaughl
+ in\, Joey Greenberg\nGenre: Fantasy\, Music\n\nA pianist learns what it's l
+ ike to really be INSIDE his piano...
+URL:https://www.themoviedb.org/movie/1763052
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1747682
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Restaurant Kids — In Theatres
+DESCRIPTION:Movie: Restaurant Kids\nRuntime: 12 min\nDirector: Sylvia Mok\n
+ Genre: Documentary\n\nRaised between dining rooms and take–out counters\, t
+ he children of Halifax’s Chinese restaurateurs share stories of family\, ha
+ rd work and identity. Through intimate conversations and personal memories\
+ , Restaurant Kids celebrates a tight-knit community whose businesses became
+  gathering places\, livelihoods and second homes for a generation growing u
+ p between cultures.
+URL:https://mediaspace.nfb.ca/epk/restaurant-kids/
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1756819
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Apartment 7 — In Theatres
+DESCRIPTION:Movie: Apartment 7\nRuntime: 9 min\nDirector: Cole Swanson\nGen
+ re: Romance\, Comedy\, Drama\, Music\n\nWhen a young woman moves into a Bro
+ oklyn apartment\, chaos ensues when she unexpectedly falls for her building
+ 's superintendent.
+URL:https://www.themoviedb.org/movie/1756819
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1748664
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Captain Newfoundland — In Theatres
+DESCRIPTION:Movie: Captain Newfoundland\nRuntime: 94 min\nDirector: Jamie M
+ iller\, Mike Feehan\nGenre: Documentary\, Animation\, Comedy\n\nMedia mogul
+ \, athlete\, creator of the psychedelic superhero Captain Newfoundland\, an
+ d an activist against his home province joining Confederation: Geoff Stirli
+ ng was all these things and more. To do justice to a character as complex a
+ s this film’s protagonist\, Mike Feehan turns the camera on himself and his
+  co-director Jamie Miller as they weave together archival footage\, animati
+ on\, and fantastical recreations from Stirling's experimental 1970s late-ni
+ ght TV show\, all very in keeping with NTV's original broadcast mission. Ca
+ ptain Newfoundland is an illuminating and wildly entertaining portrait of a
+  complex man and his impact on the province that\, according to Stirling\, 
+ may or may not be the tip of the long-lost island of Atlantis.
+URL:https://seachangefilms.ca/work/captainnl
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1423191
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Resident Evil — In Theatres
+DESCRIPTION:Movie: Resident Evil\nRuntime: 93 min\nDirector: Zach Cregger\n
+ Genre: Horror\, Thriller\, Adventure\nRating: R\n\nMedical courier Bryan un
+ wittingly finds himself fighting for survival as one fateful\, horrifying n
+ ight collapses around him in chaos.
+URL:https://residentevil.movie
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1433583
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:The Weight — In Theatres
+DESCRIPTION:Movie: The Weight\nRuntime: 112 min\nDirector: Padraic McKinley
+ \nGenre: Drama\, Thriller\, Crime\nRating: R\n\nWhen Samuel is torn from hi
+ s daughter and sent to a brutal prison\, Warden Clancy offers him a high-st
+ akes proposition: smuggle gold out of a remote mine with a dangerous crew o
+ f prisoners and he’ll win his freedom.
+URL:https://www.vert-ent.com/library/the-weight
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1477104
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom — In Theatres
+DESCRIPTION:Movie: Shaun the Sheep: The Beast of Mossy Bottom\nRuntime: 80 
+ min\nDirector: Steve Cox\, Matthew Walker\nGenre: Animation\, Comedy\, Fami
+ ly\, Adventure\, Horror\nRating: PG\n\nOn Halloween Eve at Mossy Bottom Far
+ m\, excitement turns to dismay when the clumsy Farmer ruins the pumpkin pat
+ ch. Shaun tries fixing it with science experiments\, but things go wrong wh
+ en a wild beast appears in the woods.
+URL:https://www.sky.com/watch/shaun-the-sheep-the-beast-of-mossy-bottom
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1649218
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Femení\, singular — In Theatres
+DESCRIPTION:Movie: Femení\, singular\nRuntime: Unknown\nDirector: Xavi Pueb
+ la\nGenre: Drama
+URL:https://www.themoviedb.org/movie/1649218
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1755880
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Piece — In Theatres
+DESCRIPTION:Movie: Piece\nRuntime: 20 min\nDirector: Ryand Ugalde\nGenre: M
+ usic\n\nA young soprano in the midst of his hormone replacement therapy mus
+ t choose between preserving the voice that has long been part of who he is 
+ and fully embodying his identity as a man.
+URL:https://www.themoviedb.org/movie/1755880
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1032863
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:The Love Hypothesis — In Theatres
+DESCRIPTION:Movie: The Love Hypothesis\nRuntime: Unknown\nDirector: Claire 
+ Scanlon\nGenre: Romance\, Comedy\n\nOlive Smith\, a biology PhD candidate\,
+  and Dr. Adam Carlsen\, a hotshot professor and well-known tyrant\, enter i
+ nto a fake relationship\, seeing each of their carefully calculated theorie
+ s on love get thrown into chaos.
+URL:https://www.amazon.com/dp/B0H4WZS7VX
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1746787
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Miss Intrams — In Theatres
+DESCRIPTION:Movie: Miss Intrams\nRuntime: 19 min\nDirector: Henri Marie Bel
+ imac\n\nA queer transmasc college student enters the campus Miss Intramural
+ s pageant not to win\, but to understand: is this who she is? Or is this th
+ e farewell to who she was?
+URL:https://www.themoviedb.org/movie/1746787
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1732420
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Power Trip — In Theatres
+DESCRIPTION:Movie: Power Trip\nRuntime: 26 min\nDirector: Patrick Willems\n
+ Genre: Thriller\nRating: NR\n\nA rideshare driver ends up in an unexpectedl
+ y complicated conversation with a passenger.
+URL:https://powertrip.movie
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1465063
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Forgotten Island — In Theatres
+DESCRIPTION:Movie: Forgotten Island\nRuntime: 109 min\nDirector: Januel Mer
+ cado\, Joel Crawford\nGenre: Animation\, Adventure\, Fantasy\, Comedy\, Fam
+ ily\nRating: PG\n\nWhile celebrating their last night together\, high schoo
+ l graduates and best friends Jo and Raissa stumble upon a mysterious portal
+  that transports them to the fantastical island of Nakali. When they discov
+ er that the memories of their entire friendship are the price for returning
+  home\, Jo and Raissa must race to find a way to leave the island before th
+ ey forget each other forever.
+URL:https://www.forgottenislandmovie.com
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1263337
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Heart of the Beast — In Theatres
+DESCRIPTION:Movie: Heart of the Beast\nRuntime: 101 min\nDirector: David Ay
+ er\nGenre: Adventure\, Thriller\nRating: PG-13\n\nAfter a harrowing plane c
+ rash\, Special Forces officer James Belmont and his combat dog\, Odin\, fin
+ d themselves stranded deep in the Alaskan wilderness. Together\, they are f
+ orced into a brutal fight for survival against the elements.
+URL:https://www.heartofthebeastmovie.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1375441
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Primetime — In Theatres
+DESCRIPTION:Movie: Primetime\nRuntime: 110 min\nDirector: Lance Oppenheim\n
+ Genre: Crime\, Drama\, Thriller\nRating: R\n\nIn 2006\, To Catch a Predator
+  host Chris Hansen sets out to make television history.
+URL:https://a24films.com/films/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1384514
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:The Vvaan — In Theatres
+DESCRIPTION:Movie: The Vvaan\nRuntime: Unknown\nDirector: Deepak Kumar Mish
+ ra\nGenre: Action\, Adventure\, Thriller\nRating: NR\n\nA rational urban ma
+ n defies his ancestral forbidden forest & awakens a divine goddess\, only t
+ o realise that some powers exist beyond logic & he must rise as the village
+ ’s only saviour to protect his people from annihilation.
+URL:https://www.themoviedb.org/movie/1384514
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1538457
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Meesaya Murukku 2 — In Theatres
+DESCRIPTION:Movie: Meesaya Murukku 2\nRuntime: Unknown\nDirector: HipHop Ta
+ mizha Adhi\nGenre: Comedy\, Romance\, Drama
+URL:https://www.themoviedb.org/movie/1538457
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1755291
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:NAZA — In Theatres
+DESCRIPTION:Movie: NAZA\nRuntime: 80 min\nDirector: Yuval Abraham\, Rachel 
+ Szor\nGenre: Documentary\n\nIn secret conversations on the rooftops of Tel 
+ Aviv at night\, the systems behind Israel's calculated mass killing of Pale
+ stinian civilians in Gaza are revealed by the people who designed and opera
+ ted them.
+URL:https://www.themoviedb.org/movie/1755291
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1556321
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Death Whisperer: Saming the Werebeast — In Theatres
+DESCRIPTION:Movie: Death Whisperer: Saming the Werebeast\nRuntime: 111 min\
+ nDirector: Narit Yuvaboon\, Thanadet Pradit\, Chalit Krileadmongkon\nGenre:
+  Horror\, Thriller\, Action\n\nFollows the search for a missing military of
+ ficer in the jungle of Khao Khwang\, where legend says man-eating tiger spi
+ rit Saming takes human form in 1960s Thailand.
+URL:https://www.themoviedb.org/movie/1556321
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1763332
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Orang Perang — In Theatres
+DESCRIPTION:Movie: Orang Perang\nRuntime: Unknown\nDirector: Hashim Rejab\n
+ Genre: Action\, Crime\, Drama\, History\, War\n\nThe struggles of the Senoi
+  Praaq team\, a secret unit under the Royal Malaysian Police (PDRM) made up
+  of the Orang Asli community\, specifically the Semai and Temiar tribes.
+URL:https://www.themoviedb.org/movie/1763332
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1248832
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Digger — In Theatres
+DESCRIPTION:Movie: Digger\nRuntime: 129 min\nDirector: Alejandro G. Iñárrit
+ u\nGenre: Comedy\nRating: R\n\nThe most powerful man in the world embarks o
+ n a frantic mission to prove he is humanity's savior before the disaster he
+ 's unleashed destroys everything.
+URL:https://www.diggermovie.com
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1283515
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Verity — In Theatres
+DESCRIPTION:Movie: Verity\nRuntime: 117 min\nDirector: Michael Showalter\nG
+ enre: Mystery\, Thriller\nRating: R\n\nLowen Ashleigh is hired by Jeremy Cr
+ awford to ghostwrite novels for his bestselling author wife Verity\, who is
+  unable to finish following an accident. Lowen gradually uncovers Verity's 
+ disturbing truths while residing at the Crawfords' home to work.
+URL:https://www.amazon.com/salp/verity?hhf=
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1244523
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Beware Boiúna — In Theatres
+DESCRIPTION:Movie: Beware Boiúna\nRuntime: 104 min\nDirector: Mike P. Nelso
+ n\nGenre: Action\, Horror\, Thriller\nRating: R\n\nDeep in the Amazon\, a m
+ edical mission spirals into a fight for survival when Boiúna\, a colossal a
+ ncient predator\, awakens to reclaim her domain. In the jungle where nature
+  holds absolute power\, she decides who lives and who dies.
+URL:https://www.themoviedb.org/movie/1244523
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1269325
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Drishyam: The Conclusion — In Theatres
+DESCRIPTION:Movie: Drishyam: The Conclusion\nRuntime: 170 min\nDirector: Ab
+ hishek Pathak\nGenre: Thriller\, Drama\, Mystery\nRating: NR\n\nYears after
+  outsmarting the police\, Vijay Salgaonkar's past resurfaces when a new evi
+ dence threatens to expose his secret. As the investigation reopens\, he mus
+ t outwit the system once again to save his family.
+URL:https://www.themoviedb.org/movie/1269325
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1618090
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:A Statement — In Theatres
+DESCRIPTION:Movie: A Statement\nRuntime: 104 min\nDirector: Tom McCarthy\nG
+ enre: Comedy\, Drama\n\nAt a beachside resort in Florida in 1980\, twenty e
+ xperts gather for a weekend conference on a global issue that is starting t
+ o gain traction: the effects of Co2 emissions on the climate. The group of 
+ scientists\, activists\, and policymakers have one simple mandate from Cong
+ ress — write a statement about what to do. Easier said than done.
+URL:https://www.sonyclassics.com/film/astatement
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1148365
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Matchbox the Movie — In Theatres
+DESCRIPTION:Movie: Matchbox the Movie\nRuntime: 127 min\nDirector: Sam Harg
+ rave\nGenre: Action\, Comedy\, Adventure\n\nWhen a group of former childhoo
+ d friends reconnect\, their reunion takes a wild turn as they stumble upon 
+ a dangerous international plot—and must save the world.
+URL:https://tv.apple.com/movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1759016
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Prince — In Theatres
+DESCRIPTION:Movie: Prince\nRuntime: 94 min\nDirector: Federico Borgia\nGenr
+ e: Drama\, Comedy\n\nA devoted butler inherits his late employer's mansion 
+ - but only until her cherished Afghan Greyhound dies. As he settles in with
+  the dog\, greedy relatives scheme to disrupt their peaceful arrangement.
+URL:https://www.themoviedb.org/movie/1759016
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1400837
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Other Mommy — In Theatres
+DESCRIPTION:Movie: Other Mommy\nRuntime: 93 min\nDirector: Rob Savage\nGenr
+ e: Horror\nRating: R\n\nA young girl\, Bela\, forms a relationship with a s
+ inister entity in her home who looks uncannily like her own mother.
+URL:http://www.universalpictures.com/movies/other-mommy/
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:718833
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Bokshi — In Theatres
+DESCRIPTION:Movie: Bokshi\nRuntime: 142 min\nDirector: Bhargav Saikia\nGenr
+ e: Horror\, Drama\n\nAnahita\, traumatised by the brutal disappearance of h
+ er mother\, finds comfort in Shalini\, her history teacher. On an unconvent
+ ional school excursion to a mysterious prehistoric site\, she confronts her
+  terrifying destiny.
+URL:https://www.themoviedb.org/movie/718833
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1281331
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:The Social Reckoning — In Theatres
+DESCRIPTION:Movie: The Social Reckoning\nRuntime: 112 min\nDirector: Aaron 
+ Sorkin\nGenre: Drama\, Thriller\nRating: R\n\nFrances Haugen\, a young Face
+ book engineer\, enlists the help of Jeff Horwitz\, a Wall Street Journal re
+ porter\, to go on a dangerous journey that ends up blowing the whistle on t
+ he social network's most guarded secrets.
+URL:https://thesocialreckoning.movie
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1760176
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Fellas — In Theatres
+DESCRIPTION:Movie: Fellas\nRuntime: 42 min\nDirector: Matthew Danger Lippma
+ n\nGenre: Comedy\n\nOver the course of an app date\, Matt tells the story o
+ f his "Fellas\," and the scandal they get into when a problematic DVD box s
+ et goes missing at their housewarming.
+URL:https://www.themoviedb.org/movie/1760176
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1758599
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Manual Wind — In Theatres
+DESCRIPTION:Movie: Manual Wind\nRuntime: Unknown\nDirector: Gustavo Obregón
+ \nGenre: Drama\n\nThe directorial debut live-action narrative short film fr
+ om filmmaker Gustavo Obregón\, better known as Gawx.
+URL:https://www.themoviedb.org/movie/1758599
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1765072
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:You Can See Everything — In Theatres
+DESCRIPTION:Movie: You Can See Everything\nRuntime: 174 min\nDirector: Nath
+ an Fielder\, Lance Oppenheim\nGenre: Documentary\n\nThirty-four days before
+  she's sent to prison\, notorious Silicon Valley founder Elizabeth Holmes i
+ nvites a skeptical film crew to document her every move. What begins as an 
+ intimate portrait of an enigmatic felon becomes a mind-bending three-year j
+ ourney into the abyss.
+URL:https://a24films.com/films/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1153576
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Street Fighter — In Theatres
+DESCRIPTION:Movie: Street Fighter\nRuntime: 119 min\nDirector: Kitao Sakura
+ i\nGenre: Action\, Fantasy\nRating: PG-13\n\nIn 1993\, estranged Street Fig
+ hters Ryu and Ken Masters are thrown back into combat when the mysterious C
+ hun-Li recruits them for the next World Warrior Tournament: a brutal clash 
+ of fists\, fate\, and fury. But behind this battle royale lies a deadly con
+ spiracy that forces them to face off against each other and the demons of t
+ heir past. And if they don't\, it's GAME OVER!
+URL:https://www.streetfightermovie.com
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1255833
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Whalefall — In Theatres
+DESCRIPTION:Movie: Whalefall\nRuntime: 98 min\nDirector: Brian Duffield\nGe
+ nre: Thriller\n\nFollowing the death of his father\, Jay Gardiner goes divi
+ ng off the central Coast of California in search of his remains\, but is sw
+ allowed by a massive sperm whale. While trapped inside its belly with only 
+ one hour of oxygen left\, Jay comes to realize that the hard-earned lessons
+  his father imparted may be the key to his escape.
+URL:https://www.20thcenturystudios.com/movies/whalefall
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1422041
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:La bola negra — In Theatres
+DESCRIPTION:Movie: La bola negra\nRuntime: 155 min\nDirector: Javier Ambros
+ si\, Javier Calvo\nGenre: Drama\, War\nRating: R\n\nThe intertwined lives o
+ f three men in three different eras\, three lives intimately linked by sexu
+ ality and desire\, pain\, and legacy.
+URL:https://www.netflix.com/title/82964412
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1503762
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Sense and Sensibility — In Theatres
+DESCRIPTION:Movie: Sense and Sensibility\nRuntime: 132 min\nDirector: Georg
+ ia Oakley\nGenre: Drama\, Romance\nRating: PG\n\nAn irresistible new take o
+ n Jane Austen’s iconic Sense and Sensibility: a charming\, witty\, and deep
+ ly relatable story of love and sisterhood.
+URL:https://www.focusfeaturesfilms.co.uk/films/sense-and-sensibility
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1483525
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Possible Love — In Theatres
+DESCRIPTION:Movie: Possible Love\nRuntime: 165 min\nDirector: Lee Chang-don
+ g\nGenre: Drama\nRating: R\n\nA laid-off worker and his wife cross paths wi
+ th a documentary filmmaker and her spouse and confront their hidden desires
+ .
+URL:https://www.netflix.com/title/82106490
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:791523
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Wildwood — In Theatres
+DESCRIPTION:Movie: Wildwood\nRuntime: 132 min\nDirector: Travis Knight\nGen
+ re: Animation\, Adventure\, Fantasy\nRating: PG-13\n\nPrue and her classmat
+ e Curtis are drawn into a magical forest filled with enchanted creatures\, 
+ loyal allies\, and formidable adversaries as they embark on a desperate que
+ st to rescue Prue’s abducted baby brother from a murder of crows led by a m
+ ysterious woman named Alexandra.
+URL:https://wildwoodmovie.com
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1400940
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Clayface — In Theatres
+DESCRIPTION:Movie: Clayface\nRuntime: Unknown\nDirector: James Watkins\nGen
+ re: Horror\, Thriller\, Science Fiction\n\nMatt Hagen's meteoric rise from 
+ Gotham street kid to Hollywood leading man is tragically cut short when a l
+ ocal crime boss's actions leave him horribly disfigured. Abandoned by his t
+ eam and with nothing left\, Matt seeks out a cutting edge treatment that mi
+ raculously returns him to his former self… but also unexpectedly affects hi
+ s grip on reality\, spiraling him down a destructive path of all-consuming 
+ revenge.
+URL:https://www.clayfacemovie.com
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1757312
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:The Disenchantment — In Theatres
+DESCRIPTION:Movie: The Disenchantment\nRuntime: 16 min\nDirector: Marta Mar
+ tín\nGenre: Drama\, Fantasy\n\nIn a remote village in the Pyrenees\, Inés d
+ iscovers that the relocation of an ancient church is only the beginning of 
+ an immersion into a magical and ancestral world that will change her percep
+ tion of life and death.
+URL:https://www.themoviedb.org/movie/1757312
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1294189
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:The Mongoose — In Theatres
+DESCRIPTION:Movie: The Mongoose\nRuntime: 99 min\nDirector: Mark Vanselow\n
+ Genre: Action\, Thriller\n\nA falsely accused war hero with nothing to lose
+  leads police on an epic televised cross-country car chase\, helped by memb
+ ers of his former Special Forces Army battalion and closely monitored by a 
+ fascinated public rooting for his safe getaway.
+URL:https://www.themoviedb.org/movie/1294189
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1195803
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Wicker — In Theatres
+DESCRIPTION:Movie: Wicker\nRuntime: 105 min\nDirector: Eleanor Wilson\, Ale
+ x Huston Fischer\nGenre: Romance\, Fantasy\, Comedy\nRating: R\n\nOn the ou
+ tskirts of a village by the sea\, lives a Fisherwoman\; smelly\, single and
+  perpetually ridiculed. One day\, fed up with her stuffy\, small-minded nei
+ ghbours\, she commissions herself a husband to be made from wicker. In an o
+ therwise conservative town\, this unconventional romance sparks outrage\, j
+ ealousy and chaos.
+URL:https://www.blackbearpictures.com/film-and-tv/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1381071
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Godzilla Minus Zero — In Theatres
+DESCRIPTION:Movie: Godzilla Minus Zero\nRuntime: 135 min\nDirector: Takashi
+  Yamazaki\nGenre: Science Fiction\, Horror\, Action\n\nWar reduced Japan to
+  zero\, and Godzilla plunged it into minus. Two years have passed since the
+ n\, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life. Just as humanity managed to cling to a hard-
+ won peace\, a new threat strikes\, crushing hope in an instant.
+URL:https://godzilla.com/pages/godzilla-minus-zero
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1562642
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Ghost Soldier — In Theatres
+DESCRIPTION:Movie: Ghost Soldier\nRuntime: Unknown\nDirector: William Euban
+ k\nGenre: Action\, Thriller\nRating: PG-13\n\nReclusive government asset He
+ nry Fitzgerald is living off the grid in Wyoming\, designing new systems fo
+ r a weapons research agency. When a multi trillion dollar investment manage
+ ment firm begins employing corrupt police and foreign mercenaries to force 
+ farmers off their ranches\, the Green Beret veteran decides to employ his w
+ eapon prototypes to assist his neighbors.
+URL:http://ghostsoldier.movie
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:891621
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Wild Horse Nine — In Theatres
+DESCRIPTION:Movie: Wild Horse Nine\nRuntime: 118 min\nDirector: Martin McDo
+ nagh\nGenre: Comedy\, Crime\, Thriller\nRating: R\n\nShortly before the 197
+ 3 Chilean coup\, CIA agents Chris and Lee are dispatched from Santiago to E
+ aster Island by their bureau chief\, MJ. Amongst the Island's iconic statue
+ s\, and as the longtime partners wrestle with their dark pasts and present 
+ conspiracies\, Chris's newfound bond with a pair of rebellious students thr
+ eatens to send everyone’s trip to this remote paradise sideways.
+URL:https://www.searchlightpictures.com/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1117898
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:The Cat in the Hat — In Theatres
+DESCRIPTION:Movie: The Cat in the Hat\nRuntime: 91 min\nDirector: Erica Riv
+ inoja\, Alessandro Carloni\nGenre: Animation\, Comedy\, Adventure\, Fantasy
+ \, Family\nRating: PG\n\nAssigned his toughest mission yet\, the Cat must c
+ heer up siblings Gabby and Sebastian as they adjust to life in a new town. 
+ Known for pushing boundaries\, this agent of chaos must prove himself or ri
+ sk losing his magical hat forever.
+URL:https://www.catinthehatfilm.com
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1567605
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Ebenezer — In Theatres
+DESCRIPTION:Movie: Ebenezer\nRuntime: Unknown\nDirector: Ti West\nGenre: Fa
+ ntasy\, Comedy\n\nTale of an elderly miser who embarks on a supernatural jo
+ urney after visits from the ghost of his former business partner and the Sp
+ irits of Christmas Past\, Present\, and Yet to Come force him to confront h
+ is past and fight for a second chance at happiness.
+URL:https://www.ebenezermovie.com
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1437511
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:How to Rob a Bank — In Theatres
+DESCRIPTION:Movie: How to Rob a Bank\nRuntime: Unknown\nDirector: David Lei
+ tch\nGenre: Crime\, Thriller\nRating: R\n\nA crew of social media-savvy ban
+ k robbers broadcasts their daring heists\, unaware that their growing viral
+  fame has put them in the crosshairs of a veteran FBI agent and a brilliant
+  software engineer. Despite the unlikely duo closing in\, the crime ring pu
+ shes past their limits\, putting everything on the line for their most ambi
+ tious heist yet.
+URL:https://www.amazon.com/salp/howtorobabank?hhf
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1379486
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Victorian Psycho — In Theatres
+DESCRIPTION:Movie: Victorian Psycho\nRuntime: 102 min\nDirector: Zachary Wi
+ gon\nGenre: Horror\, Thriller\nRating: R\n\nWhen eccentric young governess 
+ Winifred Notty arrives at a remote Gothic manor\, a string of unsettling ev
+ ents leads the household to suspect she isn't who she claims to be—but the 
+ truth may be far more dangerous than they imagine.
+URL:https://bleeckerstreetmedia.com/victorian-psycho
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1590846
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:V. Shantaram — In Theatres
+DESCRIPTION:Movie: V. Shantaram\nRuntime: Unknown\nDirector: Abhijeet Deshp
+ ande\nGenre: Drama\n\nChronicles Shantaram Rajaram Vankudre\, aka V. Shanta
+ ram\, on his remarkable journey from the silent era through the advent of s
+ ound and colour\, showcasing his evolution as one of India’s most influenti
+ al filmmakers.
+URL:https://www.themoviedb.org/movie/1590846
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1300968
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:The Hunger Games: Sunrise on the Reaping — In Theatres
+DESCRIPTION:Movie: The Hunger Games: Sunrise on the Reaping\nRuntime: Unkno
+ wn\nDirector: Francis Lawrence\nGenre: Science Fiction\, Action\, Adventure
+ \n\nReturn to the world of Panem 24 years before the events of The Hunger G
+ ames\, starting on the morning of the reaping of the 50th Hunger Games\, al
+ so known as the Second Quarter Quell.
+URL:https://hungergames.movie
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1381273
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Paper Tiger — In Theatres
+DESCRIPTION:Movie: Paper Tiger\nRuntime: 115 min\nDirector: James Gray\nGen
+ re: Crime\, Drama\, Thriller\nRating: R\n\nTwo brothers become entangled in
+  a scheme that turns out to be too good to be true. As they try to navigate
+  their way through the dangerous world of the Russian mafia\, family bonds 
+ begin to fray with life-altering consequences.
+URL:https://www.neonrated.com/film/paper-tiger
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:848700
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Minotaur — In Theatres
+DESCRIPTION:Movie: Minotaur\nRuntime: 135 min\nDirector: Andrey Zvyagintsev
+ \nGenre: Drama\, Crime\, Thriller\n\nWhen Gleb\, a successful company direc
+ tor\, finds himself under siege from mounting corporate pressures\, an incr
+ easingly unstable world\, and the discovery of his wife's affair\, the coll
+ apse of his carefully ordered life accelerates toward violence.
+URL:https://mk2films.com/en/film/minotaur
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1538497
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Hexed — In Theatres
+DESCRIPTION:Movie: Hexed\nRuntime: Unknown\nDirector: Jason Hand\, Fawn Vee
+ rasunthorn\nGenre: Adventure\, Animation\, Family\, Fantasy\n\nAn impulsive
+  and unconventional teenage girl named Billie discovers secret magical abil
+ ities which\, once unleashed\, hurtle her into a spectacle-filled journey o
+ ut of suburbia and into a vast witch realm called Hexe. Forced to team up w
+ ith her cautious mother\, Alice\, they uncover family mysteries that could 
+ change the world of witches forever.
+URL:https://movies.disney.com/hexed
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1400336
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Focker-in-Law — In Theatres
+DESCRIPTION:Movie: Focker-in-Law\nRuntime: 105 min\nDirector: John Hamburg\
+ nGenre: Comedy\, Romance\nRating: PG-13\n\nHenry\, son of Greg and Pam Fock
+ er\, faces family chaos when he decides to marry a strong-willed woman who 
+ appears to be his complete mismatch.
+URL:https://www.universalpictures.com/movies/focker-in-law/
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1763612
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Orang Sebelah — In Theatres
+DESCRIPTION:Movie: Orang Sebelah\nRuntime: Unknown\nDirector: Chiska Dopper
+ t\nGenre: Horror\n\nPlot under wraps
+URL:https://www.themoviedb.org/movie/1763612
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1599189
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:剑来院线剧场版 十三之争 — In Theatres
+DESCRIPTION:Movie: 剑来院线剧场版 十三之争\nRuntime: Unknown\nDirector: Unknown\nGenre
+ : Animation\, Action\, Adventure
+URL:https://www.themoviedb.org/movie/1599189
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1391239
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:The Debut — In Theatres
+DESCRIPTION:Movie: The Debut\nRuntime: 105 min\nDirector: Jesse Eisenberg\n
+ Genre: Music\, Comedy\, Drama\nRating: R\n\nWhen Mona Friedman is cast in a
+  bit part at a small community theater\, she transforms from a shy\, unassu
+ ming housewife into a zealous method actor willing to do anything to protec
+ t the artistic integrity of her marginal role—even if it means waging war a
+ gainst the show’s domineering director.
+URL:https://a24films.com/films/the-debut
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1003596
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Avengers: Doomsday — In Theatres
+DESCRIPTION:Movie: Avengers: Doomsday\nRuntime: 165 min\nDirector: Joe Russ
+ o\, Anthony Russo\nGenre: Science Fiction\, Action\, Adventure\n\nBeloved h
+ eroes from three distinct universes are set on a deadly collision course an
+ d face an existential threat unlike anything they've ever encountered.
+URL:https://www.marvel.com/movies/avengers-doomsday
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1170608
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Dune: Part Three — In Theatres
+DESCRIPTION:Movie: Dune: Part Three\nRuntime: 140 min\nDirector: Denis Vill
+ eneuve\nGenre: Science Fiction\, Adventure\nRating: PG-13\n\nEmperor Paul A
+ treides faces the fallout from his ascent to power as political plots and a
+  galaxy-wide holy war endanger the future only he can see.
+URL:https://www.dunemovie.com
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1154730
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:La Gradiva — In Theatres
+DESCRIPTION:Movie: La Gradiva\nRuntime: 145 min\nDirector: Marine Atlan\nGe
+ nre: Drama\n\nA small group of French high school students goes on a school
+  trip to Pompeii to discover its ruins and the bodies petrified by Vesuvius
+  in 79 CE. It is in this ghost town that they are suddenly overcome by a di
+ zzying sensation. One after another\, James\, Toni\, Suzanne\, and their La
+ tin teacher\, Mme Mercier\, allow themselves to be engulfed by desire\, ang
+ er\, and despair—until they surrender to it completely and lose everything.
+URL:https://www.themoviedb.org/movie/1154730
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1300926
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:The Angry Birds Movie 3 — In Theatres
+DESCRIPTION:Movie: The Angry Birds Movie 3\nRuntime: 96 min\nDirector: John
+  Rice\nGenre: Animation\, Comedy\, Family\n\nRed faces his greatest challen
+ ge yet… surviving fatherhood while saving the world.
+URL:https://www.angrybirds.movie
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1492198
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Artificial — In Theatres
+DESCRIPTION:Movie: Artificial\nRuntime: 140 min\nDirector: Luca Guadagnino\
+ nGenre: Comedy\, Drama\nRating: PG-13\n\nDescribed as a comedic drama set i
+ n the world of artificial intelligence\, around the period at OpenAI in 202
+ 3 that saw CEO Sam Altman fired and rehired in a matter of days.
+URL:https://www.themoviedb.org/movie/1492198
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1260649
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Jumanji: Open World — In Theatres
+DESCRIPTION:Movie: Jumanji: Open World\nRuntime: Unknown\nDirector: Jake Ka
+ sdan\nGenre: Adventure\, Comedy\, Fantasy\n\nOur heroes have escaped the ev
+ er-changing jungles of Jumanji before\, but this time the game comes to us 
+ - as Jumanji breaks free of its console\, unleashing its chaos into our wor
+ ld.
+URL:https://jumanji.movie
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1421903
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Werwulf — In Theatres
+DESCRIPTION:Movie: Werwulf\nRuntime: Unknown\nDirector: Robert Eggers\nGenr
+ e: Horror\, Fantasy\nRating: R\n\nA harrowing tale of devotion\, damnation 
+ and the devil within.
+URL:https://www.focusfeatures.com/werwulf
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1372443
+DTSTAMP:20260914T191429Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Mr. Irrelevant — In Theatres
+DESCRIPTION:Movie: Mr. Irrelevant\nRuntime: 125 min\nDirector: Jonathan Lev
+ ine\nGenre: Drama\nRating: PG-13\n\nThe true story of John Tuggle\, who was
+  given the title after being the last pick of the last round of the 1983 NF
+ L draft.
+URL:https://www.mrirrelevant.film
 END:VEVENT
 END:VCALENDAR
