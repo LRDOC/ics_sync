@@ -33,3 +33,14 @@ console.log(
     vote_count: s.vote_count
   }))
 );
+
+const firstId = data.results?.[0]?.id;
+if (firstId) {
+  const detailUrl = `${config.tmdbApiBaseUrl}/movie/${firstId}`;
+  const detailResponse = await fetch(detailUrl, {
+    headers: { accept: "application/json", authorization: `Bearer ${config.tmdbReadAccessToken}` }
+  });
+  const detail = await detailResponse.json();
+  console.log("full details keys:", Object.keys(detail));
+  console.log("origin_country:", detail.origin_country, "production_countries:", detail.production_countries);
+}
