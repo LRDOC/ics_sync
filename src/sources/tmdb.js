@@ -2,18 +2,15 @@ import { mapWithConcurrency } from "../concurrency.js";
 import { fetchJson } from "../httpClient.js";
 
 const DETAIL_FETCH_CONCURRENCY = 4;
-const MAX_DISCOVER_PAGES = 5;
+const MAX_DISCOVER_PAGES = 15;
 const MIN_CLASSIC_VOTE_COUNT = 500;
 const MIN_POPULARITY = 10;
 
 export function isRelevantSummary(summary) {
-  const isClassic = (summary.vote_count || 0) >= MIN_CLASSIC_VOTE_COUNT;
-  if (isClassic) {
+  if ((summary.vote_count || 0) >= MIN_CLASSIC_VOTE_COUNT) {
     return true;
   }
-
-  const isUsOrigin = (summary.origin_country || []).includes("US");
-  return isUsOrigin && (summary.popularity || 0) >= MIN_POPULARITY;
+  return (summary.popularity || 0) >= MIN_POPULARITY;
 }
 
 function toDateOnly(value) {
