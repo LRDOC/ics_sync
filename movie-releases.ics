@@ -1454,11 +1454,10 @@ URL:https://seachangefilms.ca/work/captainnl
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1423191
-DTSTAMP:20260914T192911Z
+DTSTAMP:20260914T193749Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Resident Evil — In Theatres
-STATUS:CANCELLED
 DESCRIPTION:Movie: Resident Evil\nRuntime: 93 min\nDirector: Zach Cregger\n
  Genre: Horror\, Thriller\, Adventure\nRating: R\n\nMedical courier Bryan un
  wittingly finds himself fighting for survival as one fateful\, horrifying n
@@ -1546,11 +1545,10 @@ URL:https://termsandcons.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1032863
-DTSTAMP:20260914T192911Z
+DTSTAMP:20260914T193749Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:The Love Hypothesis — In Theatres
-STATUS:CANCELLED
 DESCRIPTION:Movie: The Love Hypothesis\nRuntime: Unknown\nDirector: Claire 
  Scanlon\nGenre: Romance\, Comedy\n\nOlive Smith\, a biology PhD candidate\,
   and Dr. Adam Carlsen\, a hotshot professor and well-known tyrant\, enter i
@@ -1585,11 +1583,10 @@ URL:https://powertrip.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1465063
-DTSTAMP:20260914T192911Z
+DTSTAMP:20260914T193749Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Forgotten Island — In Theatres
-STATUS:CANCELLED
 DESCRIPTION:Movie: Forgotten Island\nRuntime: 109 min\nDirector: Januel Mer
  cado\, Joel Crawford\nGenre: Animation\, Adventure\, Fantasy\, Comedy\, Fam
  ily\nRating: PG\n\nWhile celebrating their last night together\, high schoo
@@ -1602,11 +1599,10 @@ URL:https://www.forgottenislandmovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1263337
-DTSTAMP:20260914T192911Z
+DTSTAMP:20260914T193749Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Heart of the Beast — In Theatres
-STATUS:CANCELLED
 DESCRIPTION:Movie: Heart of the Beast\nRuntime: 101 min\nDirector: David Ay
  er\nGenre: Adventure\, Thriller\nRating: PG-13\n\nAfter a harrowing plane c
  rash\, Special Forces officer James Belmont and his combat dog\, Odin\, fin
@@ -1616,11 +1612,10 @@ URL:https://www.heartofthebeastmovie.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1375441
-DTSTAMP:20260914T192911Z
+DTSTAMP:20260914T193749Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Primetime — In Theatres
-STATUS:CANCELLED
 DESCRIPTION:Movie: Primetime\nRuntime: 110 min\nDirector: Lance Oppenheim\n
  Genre: Crime\, Drama\, Thriller\nRating: R\n\nIn 2006\, To Catch a Predator
   host Chris Hansen sets out to make television history.
@@ -1735,11 +1730,10 @@ URL:https://www.themoviedb.org/movie/1763332
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1248832
-DTSTAMP:20260914T192911Z
+DTSTAMP:20260914T193749Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Digger — In Theatres
-STATUS:CANCELLED
 DESCRIPTION:Movie: Digger\nRuntime: 129 min\nDirector: Alejandro G. Iñárrit
  u\nGenre: Comedy\nRating: R\n\nThe most powerful man in the world embarks o
  n a frantic mission to prove he is humanity's savior before the disaster he
@@ -1748,11 +1742,10 @@ URL:https://www.diggermovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1283515
-DTSTAMP:20260914T192911Z
+DTSTAMP:20260914T193749Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Verity — In Theatres
-STATUS:CANCELLED
 DESCRIPTION:Movie: Verity\nRuntime: 117 min\nDirector: Michael Showalter\nG
  enre: Mystery\, Thriller\nRating: R\n\nLowen Ashleigh is hired by Jeremy Cr
  awford to ghostwrite novels for his bestselling author wife Verity\, who is
@@ -1844,11 +1837,10 @@ URL:https://www.themoviedb.org/movie/1759016
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400837
-DTSTAMP:20260914T192911Z
+DTSTAMP:20260914T193749Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Other Mommy — In Theatres
-STATUS:CANCELLED
 DESCRIPTION:Movie: Other Mommy\nRuntime: 93 min\nDirector: Rob Savage\nGenr
  e: Horror\nRating: R\n\nA young girl\, Bela\, forms a relationship with a s
  inister entity in her home who looks uncannily like her own mother.
@@ -1909,11 +1901,10 @@ URL:https://www.themoviedb.org/movie/1758599
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1765072
-DTSTAMP:20260914T192911Z
+DTSTAMP:20260914T193749Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:You Can See Everything — In Theatres
-STATUS:CANCELLED
 DESCRIPTION:Movie: You Can See Everything\nRuntime: 174 min\nDirector: Nath
  an Fielder\, Lance Oppenheim\nGenre: Documentary\n\nThirty-four days before
   she's sent to prison\, notorious Silicon Valley founder Elizabeth Holmes i
@@ -1980,6 +1971,20 @@ DESCRIPTION:Movie: La bola negra\nRuntime: 155 min\nDirector: Javier Ambros
 URL:https://www.netflix.com/title/82964412
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:791523
+DTSTAMP:20260914T193749Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Wildwood — In Theatres
+DESCRIPTION:Movie: Wildwood\nRuntime: 132 min\nDirector: Travis Knight\nGen
+ re: Animation\, Adventure\, Fantasy\nRating: PG-13\n\nPrue and her classmat
+ e Curtis are drawn into a magical forest filled with enchanted creatures\, 
+ loyal allies\, and formidable adversaries as they embark on a desperate que
+ st to rescue Prue’s abducted baby brother from a murder of crows led by a m
+ ysterious woman named Alexandra.
+URL:https://wildwoodmovie.com
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1483525
 DTSTAMP:20260914T192911Z
 DTSTART;VALUE=DATE:20261023
@@ -1991,21 +1996,6 @@ DESCRIPTION:Movie: Possible Love\nRuntime: 165 min\nDirector: Lee Chang-don
  th a documentary filmmaker and her spouse and confront their hidden desires
  .
 URL:https://www.netflix.com/title/82106490
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb:791523
-DTSTAMP:20260914T192911Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Wildwood — In Theatres
-STATUS:CANCELLED
-DESCRIPTION:Movie: Wildwood\nRuntime: 132 min\nDirector: Travis Knight\nGen
- re: Animation\, Adventure\, Fantasy\nRating: PG-13\n\nPrue and her classmat
- e Curtis are drawn into a magical forest filled with enchanted creatures\, 
- loyal allies\, and formidable adversaries as they embark on a desperate que
- st to rescue Prue’s abducted baby brother from a murder of crows led by a m
- ysterious woman named Alexandra.
-URL:https://wildwoodmovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400940
@@ -2040,11 +2030,10 @@ URL:https://www.themoviedb.org/movie/1757312
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1294189
-DTSTAMP:20260914T192911Z
+DTSTAMP:20260914T193749Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:The Mongoose — In Theatres
-STATUS:CANCELLED
 DESCRIPTION:Movie: The Mongoose\nRuntime: 99 min\nDirector: Mark Vanselow\n
  Genre: Action\, Thriller\n\nA falsely accused war hero with nothing to lose
   leads police on an epic televised cross-country car chase\, helped by memb
@@ -2069,6 +2058,21 @@ DESCRIPTION:Movie: Wicker\nRuntime: 105 min\nDirector: Eleanor Wilson\, Ale
 URL:https://www.blackbearpictures.com/film-and-tv/wicker
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1562642
+DTSTAMP:20260914T193749Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Ghost Soldier — In Theatres
+DESCRIPTION:Movie: Ghost Soldier\nRuntime: Unknown\nDirector: William Euban
+ k\nGenre: Action\, Thriller\nRating: PG-13\n\nReclusive government asset He
+ nry Fitzgerald is living off the grid in Wyoming\, designing new systems fo
+ r a weapons research agency. When a multi trillion dollar investment manage
+ ment firm begins employing corrupt police and foreign mercenaries to force 
+ farmers off their ranches\, the Green Beret veteran decides to employ his w
+ eapon prototypes to assist his neighbors.
+URL:http://ghostsoldier.movie
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1381071
 DTSTAMP:20260914T192911Z
 DTSTART;VALUE=DATE:20261106
@@ -2082,22 +2086,6 @@ DESCRIPTION:Movie: Godzilla Minus Zero\nRuntime: 135 min\nDirector: Takashi
  inally reclaim its daily life. Just as humanity managed to cling to a hard-
  won peace\, a new threat strikes\, crushing hope in an instant.
 URL:https://godzilla.com/pages/godzilla-minus-zero
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb:1562642
-DTSTAMP:20260914T192911Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Ghost Soldier — In Theatres
-STATUS:CANCELLED
-DESCRIPTION:Movie: Ghost Soldier\nRuntime: Unknown\nDirector: William Euban
- k\nGenre: Action\, Thriller\nRating: PG-13\n\nReclusive government asset He
- nry Fitzgerald is living off the grid in Wyoming\, designing new systems fo
- r a weapons research agency. When a multi trillion dollar investment manage
- ment firm begins employing corrupt police and foreign mercenaries to force 
- farmers off their ranches\, the Green Beret veteran decides to employ his w
- eapon prototypes to assist his neighbors.
-URL:http://ghostsoldier.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:891621
@@ -2423,11 +2411,10 @@ URL:https://www.netflix.com/title/83035739
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1003596
-DTSTAMP:20260914T192911Z
+DTSTAMP:20260914T193749Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday — In Theatres
-STATUS:CANCELLED
 DESCRIPTION:Movie: Avengers: Doomsday\nRuntime: 165 min\nDirector: Joe Russ
  o\, Anthony Russo\nGenre: Science Fiction\, Action\, Adventure\n\nBeloved h
  eroes from three distinct universes are set on a deadly collision course an
@@ -2436,11 +2423,10 @@ URL:https://www.marvel.com/movies/avengers-doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1170608
-DTSTAMP:20260914T192911Z
+DTSTAMP:20260914T193749Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three — In Theatres
-STATUS:CANCELLED
 DESCRIPTION:Movie: Dune: Part Three\nRuntime: 140 min\nDirector: Denis Vill
  eneuve\nGenre: Science Fiction\, Adventure\nRating: PG-13\n\nEmperor Paul A
  treides faces the fallout from his ascent to power as political plots and a
