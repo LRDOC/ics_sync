@@ -48,12 +48,12 @@ This project continuously regenerates public ICS feeds. It started with one feed
 
 - Profile resolution: none needed; both sources are queried directly.
 - Event fetch:
-  - TMDB `/discover/movie` + `/movie/{id}?append_to_response=credits,release_dates` for upcoming US theatrical releases (`src/sources/tmdb.js`)
+  - TMDB `/discover/movie` (wide releases only, popularity-sorted + floored to skip festival/regional noise) + `/movie/{id}?append_to_response=credits,release_dates` for upcoming US theatrical releases (`src/sources/tmdb.js`)
   - AMC `/v2/movies/views/coming-soon` + `/v2/movies/views/advance` for candidate titles, then `/v2/theatres/{id}/movies/{id}/earliest-showtime` per tracked theatre to detect the first on-sale showtime (`src/sources/amc.js`)
 - Orchestration: `src/movieSync.js` merges both sources' canonical events through the same `mergeState` used by the Markit feed.
 - Tracked AMC theatres: AMC Boston Common 19, AMC Assembly Row 12 (`AMC_THEATRE_IDS`).
 - On-sale alerts fire once per movie+theatre, anchored to the sync run that first observed them (`pinStartToFirstSeen`), and are suppressed entirely on the feed's very first-ever sync (cold-start baseline) so pre-existing on-sale movies don't flood the calendar.
-- AMC's developer portal blocks automated doc retrieval; the endpoint paths used here come from reconstructed public documentation and are unverified against every AMC API surface until confirmed by real production sync runs.
+- AMC endpoints are confirmed live (real 403/400 responses from the actual API, not 404s). The vendor key itself is inactive until AMC's weekly Thursday production deploy; `AMC_THEATRE_IDS` is also still unset. Until both are done, the AMC half contributes zero events and fails soft.
 
 ## Future source ideas
 

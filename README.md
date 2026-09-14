@@ -5,7 +5,7 @@ This project regenerates subscribable ICS feeds from public event sources.
 Current supported feeds:
 
 - `https://lrdoc.github.io/ics_sync/jonathan-boston.ics`
-- `https://lrdoc.github.io/ics_sync/movie-releases.ics` — upcoming movie release dates (TMDB) plus "tickets on sale" alerts for AMC Boston Common and AMC Assembly Row (AMC)
+- `https://lrdoc.github.io/ics_sync/movie-releases.ics` — upcoming movie release dates (TMDB); AMC "tickets on sale" alerts pending AMC key activation (see below)
 
 ## What ships
 
@@ -85,7 +85,7 @@ Each feed is a separate sync invocation with its own `FEED_NAME`/`CALENDAR_NAME`
 
 - **TMDB** (`src/sources/tmdb.js`) — upcoming US theatrical releases within `MOVIE_LOOKAHEAD_DAYS`, rendered as all-day "in theatres" events with Movie/Runtime/Director/Genre/Rating/synopsis in the description.
 - **AMC** (`src/sources/amc.js`) — official catalog API (`developers.amctheatres.com`), tracking AMC Boston Common 19 and AMC Assembly Row 12. A movie's first-observed AMC showtime at one of those theatres fires a one-time "tickets on sale" alert (labeled "Thu preview" when the earliest showtime falls on a Thursday). Orchestration lives in `src/movieSync.js`, which persists a per-theatre "already alerted" baseline so a movie already on sale before the feed's first-ever run does **not** flood the calendar with a backlog of alerts, and so a stable on-sale movie never re-fires on later syncs.
-- The AMC endpoint paths are reconstructed from public third-party documentation (AMC's own developer portal blocks automated retrieval) — they're expected to work but haven't been exhaustively validated against every AMC API surface; watch the sync workflow logs after the first few real runs.
+- AMC status: endpoints are confirmed live and correctly authenticated against (verified via real 403/400 responses, not 404s). The vendor key itself is pending AMC's weekly Thursday production deploy. Once active: run the `Resolve AMC Theatre IDs` workflow, set the two ids as the `AMC_THEATRE_IDS` repo variable, and alerts start on the next scheduled sync.
 
 ## Optional Vercel path
 
