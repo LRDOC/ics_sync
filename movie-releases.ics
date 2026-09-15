@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Movie Release Dates
 BEGIN:VEVENT
 UID:tmdb:1318467
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:The Last Kiss — In Theatres
@@ -21,11 +21,10 @@ URL:https://www.universalpicturesathome.com/movies/the-last-kiss-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1763052
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Concerto Muerto — In Theatres
-STATUS:CANCELLED
 DESCRIPTION:Movie: Concerto Muerto\nRuntime: 6 min\nDirector: Jack McLaughl
  in\, Joey Greenberg\nGenre: Fantasy\, Music\n\nA pianist learns what it's l
  ike to really be INSIDE his piano...
@@ -33,7 +32,7 @@ URL:https://www.themoviedb.org/movie/1763052
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1423191
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Resident Evil — In Theatres
@@ -45,7 +44,7 @@ URL:https://residentevil.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1433583
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:The Weight — In Theatres
@@ -58,7 +57,7 @@ URL:https://www.vert-ent.com/library/the-weight
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1032863
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:The Love Hypothesis — In Theatres
@@ -71,7 +70,7 @@ URL:https://www.amazon.com/dp/B0H4WZS7VX
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1263337
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Heart of the Beast — In Theatres
@@ -84,7 +83,7 @@ URL:https://www.heartofthebeastmovie.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1375441
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Primetime — In Theatres
@@ -95,7 +94,7 @@ URL:https://a24films.com/films/primetime
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1413728
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Art of Destruction — In Theatres
@@ -115,7 +114,7 @@ URL:http://www.thisissubstance.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1248832
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Digger — In Theatres
@@ -127,7 +126,7 @@ URL:https://www.diggermovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1283515
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Verity — In Theatres
@@ -140,7 +139,7 @@ URL:https://www.amazon.com/salp/verity?hhf=
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1244523
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Beware Boiúna — In Theatres
@@ -153,7 +152,7 @@ URL:https://www.themoviedb.org/movie/1244523
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1618090
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:A Statement — In Theatres
@@ -167,7 +166,7 @@ URL:https://www.sonyclassics.com/film/astatement
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1148365
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Matchbox the Movie — In Theatres
@@ -179,7 +178,7 @@ URL:https://tv.apple.com/movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400837
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Other Mommy — In Theatres
@@ -190,7 +189,7 @@ URL:http://www.universalpictures.com/movies/other-mommy/
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1281331
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:The Social Reckoning — In Theatres
@@ -203,7 +202,7 @@ URL:https://thesocialreckoning.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1760176
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Fellas — In Theatres
@@ -215,7 +214,7 @@ URL:https://www.themoviedb.org/movie/1760176
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1765072
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:You Can See Everything — In Theatres
@@ -229,7 +228,7 @@ URL:https://a24films.com/films/you-can-see-everything
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1153576
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Street Fighter — In Theatres
@@ -244,7 +243,7 @@ URL:https://www.streetfightermovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1255833
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Whalefall — In Theatres
@@ -258,21 +257,23 @@ URL:https://www.20thcenturystudios.com/movies/whalefall
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:791523
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Wildwood — In Theatres
 DESCRIPTION:Movie: Wildwood\nRuntime: 132 min\nDirector: Travis Knight\nGen
- re: Animation\, Adventure\, Fantasy\nRating: PG-13\n\nPrue and her classmat
- e Curtis are drawn into a magical forest filled with enchanted creatures\, 
- loyal allies\, and formidable adversaries as they embark on a desperate que
- st to rescue Prue’s abducted baby brother from a murder of crows led by a m
- ysterious woman named Alexandra.
+ re: Animation\, Adventure\, Fantasy\nRating: PG-13\n\nAfter her baby brothe
+ r is abducted by a murder of crows\, Prue and her classmate Curtis stumble 
+ upon a secret world in the midst of violent upheaval—a world full of warrin
+ g creatures\, peaceable mystics\, and powerful figures with dark intentions
+ . And what begins as a rescue mission becomes something much greater as the
+  two find themselves entwined in a struggle for the very freedom of this wi
+ lderness—a wilderness the locals call Wildwood.
 URL:https://wildwoodmovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400940
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Clayface — In Theatres
@@ -288,7 +289,7 @@ URL:https://www.clayfacemovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1294189
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:The Mongoose — In Theatres
@@ -301,11 +302,10 @@ URL:https://www.themoviedb.org/movie/1294189
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1195803
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Wicker — In Theatres
-STATUS:CANCELLED
 DESCRIPTION:Movie: Wicker\nRuntime: 105 min\nDirector: Eleanor Wilson\, Ale
  x Huston Fischer\nGenre: Romance\, Fantasy\, Comedy\nRating: R\n\nOn the ou
  tskirts of a village by the sea\, lives a Fisherwoman\; smelly\, single and
@@ -317,7 +317,7 @@ URL:https://www.blackbearpictures.com/film-and-tv/wicker
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:891621
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Wild Horse Nine — In Theatres
@@ -332,7 +332,7 @@ URL:https://www.searchlightpictures.com/wild-horse-nine
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1117898
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:The Cat in the Hat — In Theatres
@@ -346,7 +346,7 @@ URL:https://www.catinthehatfilm.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1562642
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Ghost Soldier — In Theatres
@@ -360,21 +360,8 @@ DESCRIPTION:Movie: Ghost Soldier\nRuntime: Unknown\nDirector: William Euban
 URL:http://ghostsoldier.movie
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:1567605
-DTSTAMP:20260915T182802Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Ebenezer — In Theatres
-DESCRIPTION:Movie: Ebenezer\nRuntime: Unknown\nDirector: Ti West\nGenre: Fa
- ntasy\, Comedy\n\nTale of an elderly miser who embarks on a supernatural jo
- urney after visits from the ghost of his former business partner and the Sp
- irits of Christmas Past\, Present\, and Yet to Come force him to confront h
- is past and fight for a second chance at happiness.
-URL:https://www.ebenezermovie.com
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb:1437511
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:How to Rob a Bank — In Theatres
@@ -388,8 +375,21 @@ DESCRIPTION:Movie: How to Rob a Bank\nRuntime: Unknown\nDirector: David Lei
 URL:https://www.amazon.com/salp/howtorobabank?hhf
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1567605
+DTSTAMP:20260915T202429Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Ebenezer — In Theatres
+DESCRIPTION:Movie: Ebenezer\nRuntime: Unknown\nDirector: Ti West\nGenre: Fa
+ ntasy\, Comedy\n\nTale of an elderly miser who embarks on a supernatural jo
+ urney after visits from the ghost of his former business partner and the Sp
+ irits of Christmas Past\, Present\, and Yet to Come force him to confront h
+ is past and fight for a second chance at happiness.
+URL:https://www.ebenezermovie.com
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1379486
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Victorian Psycho — In Theatres
@@ -402,7 +402,7 @@ URL:https://bleeckerstreetmedia.com/victorian-psycho
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1300968
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise on the Reaping — In Theatres
@@ -415,7 +415,7 @@ URL:https://hungergames.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1381273
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Paper Tiger — In Theatres
@@ -427,8 +427,22 @@ DESCRIPTION:Movie: Paper Tiger\nRuntime: 115 min\nDirector: James Gray\nGen
 URL:https://www.neonrated.com/film/paper-tiger
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1286656
+DTSTAMP:20260915T202429Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:I Play Rocky — In Theatres
+DESCRIPTION:Movie: I Play Rocky\nRuntime: 128 min\nDirector: Peter Farrelly
+ \nGenre: Drama\, History\nRating: PG-13\n\nThe electrifying true story abou
+ t an unknown actor with an unshakable belief that he wasn't just meant to w
+ rite Rocky—he was meant to be Rocky Balboa. Told "no" at every turn\, Sylve
+ ster Stallone bets everything on himself\, holding the line on playing the 
+ lead against seemingly impossible odds.
+URL:https://www.amazon.com/salp/iplayrocky?hhf
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1538497
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Hexed — In Theatres
@@ -443,11 +457,10 @@ URL:https://movies.disney.com/hexed
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400336
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Focker-in-Law — In Theatres
-STATUS:CANCELLED
 DESCRIPTION:Movie: Focker-in-Law\nRuntime: 105 min\nDirector: John Hamburg\
  nGenre: Comedy\, Romance\nRating: PG-13\n\nHenry\, son of Greg and Pam Fock
  er\, faces family chaos when he decides to marry a strong-willed woman who 
@@ -455,8 +468,22 @@ DESCRIPTION:Movie: Focker-in-Law\nRuntime: 105 min\nDirector: John Hamburg\
 URL:https://www.universalpictures.com/movies/focker-in-law/
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1391239
+DTSTAMP:20260915T202429Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:The Debut — In Theatres
+DESCRIPTION:Movie: The Debut\nRuntime: 105 min\nDirector: Jesse Eisenberg\n
+ Genre: Music\, Comedy\, Drama\nRating: R\n\nWhen Mona Friedman is cast in a
+  bit part at a small community theater\, she transforms from a shy\, unassu
+ ming housewife into a zealous method actor willing to do anything to protec
+ t the artistic integrity of her marginal role—even if it means waging war a
+ gainst the show’s domineering director.
+URL:https://a24films.com/films/the-debut
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1003596
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday — In Theatres
@@ -468,7 +495,7 @@ URL:https://www.marvel.com/movies/avengers-doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1170608
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three — In Theatres
@@ -480,7 +507,7 @@ URL:https://www.dunemovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1300926
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:The Angry Birds Movie 3 — In Theatres
@@ -491,7 +518,7 @@ URL:https://www.angrybirds.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1372443
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Mr. Irrelevant — In Theatres
@@ -503,7 +530,7 @@ URL:https://www.mrirrelevant.film
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1492198
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Artificial — In Theatres
@@ -515,7 +542,7 @@ URL:https://www.themoviedb.org/movie/1492198
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1260649
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Jumanji: Open World — In Theatres
@@ -528,11 +555,10 @@ URL:https://jumanji.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1421903
-DTSTAMP:20260915T182802Z
+DTSTAMP:20260915T202429Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Werwulf — In Theatres
-STATUS:CANCELLED
 DESCRIPTION:Movie: Werwulf\nRuntime: Unknown\nDirector: Robert Eggers\nGenr
  e: Horror\, Fantasy\nRating: R\n\nA harrowing tale of devotion\, damnation 
  and the devil within.
