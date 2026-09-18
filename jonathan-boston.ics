@@ -5,772 +5,629 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Jonathan Boston Upcoming Events
 BEGIN:VEVENT
-UID:markit:MElgwhr7_
-DTSTAMP:20260917T212753Z
-DTSTART:20260916T213000Z
-DTEND:20260917T013000Z
-SUMMARY:AI x Growth: UNBOUND Happy Hour with HubSpot Ventures
-LOCATION:30 Trilling Wy\, Boston\, MA 02210\, USA
-DESCRIPTION:Event Link: https://luma.com/unbound-2026-happyhour\nMarkit Pro
- file: https://markitai.com/u/jonathan\nStart: Sep 16\, 2026\, 5:30 PM\nEnd:
-  Sep 16\, 2026\, 9:30 PM\nLocation: 30 Trilling Wy\, Boston\, MA 02210\, US
- A\nEvent Type: External Without Data\nMarkit Event ID: MElgwhr7_
-URL:https://luma.com/unbound-2026-happyhour
+UID:markit:TSB7h9_fZ
+DTSTAMP:20260512T041440Z
+DTSTART:20260511T213000Z
+DTEND:20260512T003000Z
+SUMMARY:Built // Different Dinner: Boston
+LOCATION:Boston\, MA - Copley Square (Corner of Clarendon St. & St. James A
+ ve. in front of Trinity Church)\, Boston\, MA 02116\, USA
+DESCRIPTION:Event Link: https://luma.com/built-different-may-dinner\nMarkit
+  Profile: https://markitai.com/u/jonathan\nStart: May 11\, 2026\, 5:30 PM\n
+ End: May 11\, 2026\, 8:30 PM\nLocation: Boston\, MA - Copley Square (Corner
+  of Clarendon St. & St. James Ave. in front of Trinity Church)\, Boston\, M
+ A 02116\, USA\nEvent Type: External Without Data\nMarkit Event ID: TSB7h9_f
+ Z
+URL:https://luma.com/built-different-may-dinner
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:WM-w8xPQn
-DTSTAMP:20260917T212753Z
-DTSTART:20260916T213000Z
-DTEND:20260917T010000Z
-SUMMARY:Hubspot Media: On The Air: Podcast Launch & Press Party
-LOCATION:58 Seaport Blvd #300\, Boston\, MA 02210\, USA
-DESCRIPTION:Event Link: https://luma.com/zkbbabtx\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 16\, 2026\, 5:30 PM\nEnd: Sep 16\, 2026
- \, 9:00 PM\nLocation: 58 Seaport Blvd #300\, Boston\, MA 02210\, USA\nEvent
-  Type: External Without Data\nMarkit Event ID: WM-w8xPQn
-URL:https://luma.com/zkbbabtx
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:ex8o7f722
-DTSTAMP:20260917T215047Z
-DTSTART:20260916T220000Z
-DTEND:20260917T010000Z
-SUMMARY:Cyberdeck Workshop (Boston)
-LOCATION:96 Holton St\, Boston\, MA 02135\, USA
-DESCRIPTION:Event Link: https://luma.com/1s1udsmn\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 16\, 2026\, 6:00 PM\nEnd: Sep 16\, 2026
- \, 9:00 PM\nLocation: 96 Holton St\, Boston\, MA 02135\, USA\nEvent Type: E
- xternal Without Data\nMarkit Event ID: ex8o7f722
-URL:https://luma.com/1s1udsmn
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:l9vZUAyTv
-DTSTAMP:20260917T222711Z
-DTSTART:20260916T223000Z
-DTEND:20260917T013000Z
-SUMMARY:Back to Campus: Founders Kickoff [Rho x Pareto]
+UID:markit:0oO8KCIvN
+DTSTAMP:20260512T041440Z
+DTSTART:20260512T210000Z
+DTEND:20260513T000000Z
+SUMMARY:Fireside Chat with Paul English (Cofounder & CTO\, Kayak) | Present
+ ed by TNT
 LOCATION:Boston\, MA\, USA
-DESCRIPTION:Event Link: https://luma.com/rhoevents-0j10\nMarkit Profile: ht
- tps://markitai.com/u/jonathan\nStart: Sep 16\, 2026\, 6:30 PM\nEnd: Sep 16\
- , 2026\, 9:30 PM\nLocation: Boston\, MA\, USA\nEvent Type: External Without
-  Data\nMarkit Event ID: l9vZUAyTv
-URL:https://luma.com/rhoevents-0j10
+DESCRIPTION:Event Link: https://luma.com/4v5bset3\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: May 12\, 2026\, 5:00 PM\nEnd: May 12\, 2026
+ \, 8:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: External Without Data\
+ nMarkit Event ID: 0oO8KCIvN
+URL:https://luma.com/4v5bset3
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:kkUqpc-IE
-DTSTAMP:20260918T005517Z
-DTSTART:20260917T110000Z
-DTEND:20260917T120000Z
-SUMMARY:Pitch Run & Coffee: UNBOUND 2026 Edition
-LOCATION:200 Seaport Blvd Suite 102\, Boston\, MA 02210\, USA
-DESCRIPTION:Event Link: https://luma.com/66o5e83s\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 17\, 2026\, 7:00 AM\nEnd: Sep 17\, 2026
- \, 8:00 AM\nLocation: 200 Seaport Blvd Suite 102\, Boston\, MA 02210\, USA\
- nEvent Type: External Without Data\nMarkit Event ID: kkUqpc-IE
-URL:https://luma.com/66o5e83s
+UID:markit:_Cn1xAsW_
+DTSTAMP:20260512T041440Z
+DTSTART:20260513T213000Z
+DTEND:20260514T000000Z
+SUMMARY:RESOLVE: The MassChallenge Annual Gathering
+LOCATION:145 W 2nd St\, South Boston\, MA 02127\, USA
+DESCRIPTION:Event Link: https://luma.com/mc2026\nMarkit Profile: https://ma
+ rkitai.com/u/jonathan\nStart: May 13\, 2026\, 5:30 PM\nEnd: May 13\, 2026\,
+  8:00 PM\nLocation: 145 W 2nd St\, South Boston\, MA 02127\, USA\nEvent Typ
+ e: External Without Data\nMarkit Event ID: _Cn1xAsW_
+URL:https://luma.com/mc2026
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:_zwzSj_Du
-DTSTAMP:20260918T005517Z
-DTSTART:20260917T123000Z
-DTEND:20260917T143000Z
-SUMMARY:FieldAI Coffee Talks: Physical AI for the Real World
-LOCATION:Boston Transit Alewife Station\, 351 Rindge Ave\, Cambridge\, MA 0
- 2140\, USA
-DESCRIPTION:Event Link: https://luma.com/2ykku5uu\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 17\, 2026\, 8:30 AM\nEnd: Sep 17\, 2026
- \, 10:30 AM\nLocation: Boston Transit Alewife Station\, 351 Rindge Ave\, Ca
- mbridge\, MA 02140\, USA\nEvent Type: External Without Data\nMarkit Event I
- D: _zwzSj_Du
-URL:https://luma.com/2ykku5uu
+UID:markit:br86GUVHy
+DTSTAMP:20260512T041440Z
+DTSTART:20260513T213000Z
+DTEND:20260513T233000Z
+SUMMARY:May Boston Marketing & Creative Meetup
+LOCATION:100 High St\, Boston\, MA 02110\, USA
+DESCRIPTION:Event Link: https://luma.com/i2qxccx4\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: May 13\, 2026\, 5:30 PM\nEnd: May 13\, 2026
+ \, 7:30 PM\nLocation: 100 High St\, Boston\, MA 02110\, USA\nEvent Type: Ex
+ ternal Without Data\nMarkit Event ID: br86GUVHy
+URL:https://luma.com/i2qxccx4
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:vuEDVFXIH
-DTSTAMP:20260918T005517Z
-DTSTART:20260917T200000Z
-DTEND:20260918T000000Z
-SUMMARY:Data in bloom: A happy hour for data-driven marketers
-LOCATION:319 A St\, Boston\, MA 02210\, USA
-DESCRIPTION:Event Link: https://luma.com/a6cr0eun\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 17\, 2026\, 4:00 PM\nEnd: Sep 17\, 2026
- \, 8:00 PM\nLocation: 319 A St\, Boston\, MA 02210\, USA\nEvent Type: Exter
- nal Without Data\nMarkit Event ID: vuEDVFXIH
-URL:https://luma.com/a6cr0eun
+UID:markit:ePN99a5il
+DTSTAMP:20260512T041440Z
+DTSTART:20260513T213000Z
+DTEND:20260514T003000Z
+SUMMARY:Subconscious x Natoma Hack
+LOCATION:88 Broad St Suite 402\, Boston\, MA 02110\, USA
+DESCRIPTION:Event Link: https://luma.com/r0z5rbi1\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: May 13\, 2026\, 5:30 PM\nEnd: May 13\, 2026
+ \, 8:30 PM\nLocation: 88 Broad St Suite 402\, Boston\, MA 02110\, USA\nEven
+ t Type: External Without Data\nMarkit Event ID: ePN99a5il
+URL:https://luma.com/r0z5rbi1
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:6zscSbMdL
-DTSTAMP:20260918T005517Z
-DTSTART:20260917T220000Z
-DTEND:20260918T020000Z
-SUMMARY:F*ckup Nights BOSTON // Vol VI
-LOCATION:338 Newbury St\, Boston\, MA 02115\, USA
-DESCRIPTION:Event Link: https://luma.com/xjl35szt\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 17\, 2026\, 6:00 PM\nEnd: Sep 17\, 2026
- \, 10:00 PM\nLocation: 338 Newbury St\, Boston\, MA 02115\, USA\nEvent Type
- : External Without Data\nMarkit Event ID: 6zscSbMdL
-URL:https://luma.com/xjl35szt
+UID:markit:AEtCvRQrM
+DTSTAMP:20260512T041440Z
+DTSTART:20260513T220000Z
+DTEND:20260514T000000Z
+SUMMARY:Rootless B2B SPRING SOCIAL
+LOCATION:0 Post Office Square\, Boston\, MA 02110\, USA
+DESCRIPTION:Event Link: https://luma.com/tojllnqb?tk=gR0gPz\nMarkit Profile
+ : https://markitai.com/u/jonathan\nStart: May 13\, 2026\, 6:00 PM\nEnd: May
+  13\, 2026\, 8:00 PM\nLocation: 0 Post Office Square\, Boston\, MA 02110\, 
+ USA\nEvent Type: External Without Data\nMarkit Event ID: AEtCvRQrM
+URL:https://luma.com/tojllnqb?tk=gR0gPz
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:A-Ujp7mho
-DTSTAMP:20260918T005517Z
-DTSTART:20260917T220000Z
-DTEND:20260918T000000Z
-SUMMARY:Angel Pledge Pitch Night
+UID:markit:zENV8_z5R
+DTSTAMP:20260512T041440Z
+DTSTART:20260513T223000Z
+DTEND:20260514T013000Z
+SUMMARY:Cursor Boston/PyData Data Science Hack
+LOCATION:325 Binney St\, Cambridge\, MA 02142\, USA
+DESCRIPTION:Event Link: https://luma.com/ggjlxdnk\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: May 13\, 2026\, 6:30 PM\nEnd: May 13\, 2026
+ \, 9:30 PM\nLocation: 325 Binney St\, Cambridge\, MA 02142\, USA\nEvent Typ
+ e: External Without Data\nMarkit Event ID: zENV8_z5R
+URL:https://luma.com/ggjlxdnk
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:JWX0Ow3Px
+DTSTAMP:20260512T041440Z
+DTSTART:20260514T130000Z
+DTEND:20260514T210000Z
+SUMMARY:Greentown Labs x TEDxHarvard Square Climate AI Hackathon
+LOCATION:444 Somerville Ave\, Somerville\, MA 02143\, USA
+DESCRIPTION:Event Link: https://luma.com/uwxwglx9\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: May 14\, 2026\, 9:00 AM\nEnd: May 14\, 2026
+ \, 5:00 PM\nLocation: 444 Somerville Ave\, Somerville\, MA 02143\, USA\nEve
+ nt Type: External Without Data\nMarkit Event ID: JWX0Ow3Px
+URL:https://luma.com/uwxwglx9
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:YhHxwjNNo
+DTSTAMP:20260512T041440Z
+DTSTART:20260514T213000Z
+DTEND:20260515T003000Z
+SUMMARY:Boston Alt Cloud Meetup (May 2026)
+LOCATION:141 Dartmouth St\, Boston\, MA 02116\, USA
+DESCRIPTION:Event Link: https://luma.com/6iz5in7x\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: May 14\, 2026\, 5:30 PM\nEnd: May 14\, 2026
+ \, 8:30 PM\nLocation: 141 Dartmouth St\, Boston\, MA 02116\, USA\nEvent Typ
+ e: External Without Data\nMarkit Event ID: YhHxwjNNo
+URL:https://luma.com/6iz5in7x
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:x_QVHmafk
+DTSTAMP:20260512T041440Z
+DTSTART:20260516T134500Z
+DTEND:20260516T233000Z
+SUMMARY:Mindful Makers Hack #11 - Gratitude
+LOCATION:245 Main St\, Cambridge\, MA 02142\, USA
+DESCRIPTION:Event Link: https://luma.com/86wtm0r2\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: May 16\, 2026\, 9:45 AM\nEnd: May 16\, 2026
+ \, 7:30 PM\nLocation: 245 Main St\, Cambridge\, MA 02142\, USA\nEvent Type:
+  External Without Data\nMarkit Event ID: x_QVHmafk
+URL:https://luma.com/86wtm0r2
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:j9COvt0ZQ
+DTSTAMP:20260512T041440Z
+DTSTART:20260520T180000Z
+DTEND:20260520T213000Z
+SUMMARY:The Blueprint Showcase
+LOCATION:28 State St\, Cambridge\, MA 02139\, USA
+DESCRIPTION:Event Link: https://luma.com/79osvfya\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: May 20\, 2026\, 2:00 PM\nEnd: May 20\, 2026
+ \, 5:30 PM\nLocation: 28 State St\, Cambridge\, MA 02139\, USA\nEvent Type:
+  External Without Data\nMarkit Event ID: j9COvt0ZQ
+URL:https://luma.com/79osvfya
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:MXEzEgv2B
+DTSTAMP:20260512T041440Z
+DTSTART:20260521T213000Z
+DTEND:20260521T233000Z
+SUMMARY:BU x MA AI Coalition: Building AI Products
+LOCATION:665 Commonwealth Ave\, Boston\, MA 02215\, USA
+DESCRIPTION:Event Link: https://www.bu.edu/presidential-functions/aicoaliti
+ on/\nMarkit Profile: https://markitai.com/u/jonathan\nStart: May 21\, 2026\
+ , 5:30 PM\nEnd: May 21\, 2026\, 7:30 PM\nLocation: 665 Commonwealth Ave\, B
+ oston\, MA 02215\, USA\nEvent Type: External Without Data\nMarkit Event ID:
+  MXEzEgv2B
+URL:https://www.bu.edu/presidential-functions/aicoalition/
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:MAl5SeZU3
+DTSTAMP:20260512T041440Z
+DTSTART:20260526T113000Z
+DTEND:20260526T133000Z
+SUMMARY:Boston Tech Week wakeup run - #BOSTechWeek
+LOCATION:47 David G Mugar Way\, Boston\, MA 02108\, USA
+DESCRIPTION:Event Link: https://partiful.com/e/yY8GzwD5bkR4nq3C7fe6\nMarkit
+  Profile: https://markitai.com/u/jonathan\nStart: May 26\, 2026\, 7:30 AM\n
+ End: May 26\, 2026\, 9:30 AM\nLocation: 47 David G Mugar Way\, Boston\, MA 
+ 02108\, USA\nEvent Type: External Without Data\nMarkit Event ID: MAl5SeZU3
+URL:https://partiful.com/e/yY8GzwD5bkR4nq3C7fe6
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:pUfp5Rfkp
+DTSTAMP:20260512T041440Z
+DTSTART:20260526T190000Z
+DTEND:20260526T210000Z
+SUMMARY:BUILD617 x JPM x Day AI Tech Week Live Pod - #BOSTechWeek
 LOCATION:Boston\, MA\, USA
-DESCRIPTION:Event Link: https://massaicoalition.com/angels\nMarkit Profile:
-  https://markitai.com/u/jonathan\nStart: Sep 17\, 2026\, 6:00 PM\nEnd: Sep 
- 17\, 2026\, 8:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: External With
- out Data\nMarkit Event ID: A-Ujp7mho
-URL:https://massaicoalition.com/angels
+DESCRIPTION:Event Link: https://partiful.com/e/AjHV6ieg8MizHWE9RFi0?focus=g
+ uests\nMarkit Profile: https://markitai.com/u/jonathan\nStart: May 26\, 202
+ 6\, 3:00 PM\nEnd: May 26\, 2026\, 5:00 PM\nLocation: Boston\, MA\, USA\nEve
+ nt Type: External Without Data\nMarkit Event ID: pUfp5Rfkp
+URL:https://partiful.com/e/AjHV6ieg8MizHWE9RFi0?focus=guests
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:FDT3vRpnn
-DTSTAMP:20260918T005517Z
-DTSTART:20260917T220000Z
-DTEND:20260918T000000Z
-SUMMARY:Affiliate Links & Marketplace Selling
+UID:markit:WRi5xtnEV
+DTSTAMP:20260512T041440Z
+DTSTART:20260526T210000Z
+DTEND:20260527T003000Z
+SUMMARY:Beat The Clock Agent Hack @ Wayfair HQ - #BosTechWeek
+LOCATION:4 Copley Pl\, Boston\, MA 02116\, USA
+DESCRIPTION:Event Link: https://partiful.com/e/go7W5NU5i1NYHYoxoDgp\nMarkit
+  Profile: https://markitai.com/u/jonathan\nStart: May 26\, 2026\, 5:00 PM\n
+ End: May 26\, 2026\, 8:30 PM\nLocation: 4 Copley Pl\, Boston\, MA 02116\, U
+ SA\nEvent Type: External Without Data\nMarkit Event ID: WRi5xtnEV
+URL:https://partiful.com/e/go7W5NU5i1NYHYoxoDgp
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:npnhlhsak
+DTSTAMP:20260512T041440Z
+DTSTART:20260526T210000Z
+DTEND:20260527T000000Z
+SUMMARY:"Shipping with Claude" Kick-Off
+LOCATION:5 Cambridge Ctr\, Cambridge\, MA 02142\, USA
+DESCRIPTION:Event Link: https://luma.com/mmso1hv2\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: May 26\, 2026\, 5:00 PM\nEnd: May 26\, 2026
+ \, 8:00 PM\nLocation: 5 Cambridge Ctr\, Cambridge\, MA 02142\, USA\nEvent T
+ ype: External Without Data\nMarkit Event ID: npnhlhsak
+URL:https://luma.com/mmso1hv2
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:WDF3WCzQ2
+DTSTAMP:20260512T041440Z
+DTSTART:20260526T220000Z
+DTEND:20260527T010000Z
+SUMMARY:The Official a16z Tech Week kickoff presented by Fenwick and HSBC -
+  #BOSTechWeek
 LOCATION:Boston\, MA\, USA
-DESCRIPTION:Event Link: https://markitai.com/e/xUMBlr-Kss?l=MHr5\nMarkit Pr
- ofile: https://markitai.com/u/jonathan\nStart: Sep 17\, 2026\, 6:00 PM\nEnd
- : Sep 17\, 2026\, 8:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: Externa
- l Without Data\nMarkit Event ID: FDT3vRpnn
-URL:https://markitai.com/e/xUMBlr-Kss?l=MHr5
+DESCRIPTION:Event Link: https://partiful.com/e/bG41mJ5pbQgD87HSXOpm?\nMarki
+ t Profile: https://markitai.com/u/jonathan\nStart: May 26\, 2026\, 6:00 PM\
+ nEnd: May 26\, 2026\, 9:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: Ext
+ ernal Without Data\nMarkit Event ID: WDF3WCzQ2
+URL:https://partiful.com/e/bG41mJ5pbQgD87HSXOpm?
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:cZC2qP3Op
-DTSTAMP:20260918T005517Z
-DTSTART:20260918T210000Z
-DTEND:20260918T233000Z
-SUMMARY:Uncork’s Tasting Table: Robotics & Hardware (Uncork Capital + Rho)
-LOCATION:362 Medford St A\, Somerville\, MA 02145\, USA
-DESCRIPTION:Event Link: https://luma.com/jt70h3mk\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 18\, 2026\, 5:00 PM\nEnd: Sep 18\, 2026
- \, 7:30 PM\nLocation: 362 Medford St A\, Somerville\, MA 02145\, USA\nEvent
-  Type: External Without Data\nMarkit Event ID: cZC2qP3Op
-URL:https://luma.com/jt70h3mk
+UID:markit:tph4pKzuX
+DTSTAMP:20260512T041440Z
+DTSTART:20260526T230000Z
+DTEND:20260527T023000Z
+SUMMARY:Pear VC Boston P0ker Night: 100K Uncapped
+LOCATION:96 Bay State Rd #1\, Boston\, MA 02215\, USA
+DESCRIPTION:Event Link: https://luma.com/s6o9njde\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: May 26\, 2026\, 7:00 PM\nEnd: May 26\, 2026
+ \, 10:30 PM\nLocation: 96 Bay State Rd #1\, Boston\, MA 02215\, USA\nEvent 
+ Type: External Without Data\nMarkit Event ID: tph4pKzuX
+URL:https://luma.com/s6o9njde
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:EpqD8eGAU
-DTSTAMP:20260918T005517Z
-DTSTART:20260919T150000Z
-DTEND:20260919T230000Z
-SUMMARY:Mass Music & Arts Summit 2026
-LOCATION:401-403 D St\, Boston\, MA 02210\, USA
-DESCRIPTION:Event Link: https://markitai.com/e/KNc5xQE2Y0\nMarkit Profile: 
- https://markitai.com/u/jonathan\nStart: Sep 19\, 2026\, 11:00 AM\nEnd: Sep 
- 19\, 2026\, 7:00 PM\nLocation: 401-403 D St\, Boston\, MA 02210\, USA\nEven
- t Type: External Without Data\nMarkit Event ID: EpqD8eGAU
-URL:https://markitai.com/e/KNc5xQE2Y0
+UID:markit:VRRWsekvr
+DTSTAMP:20260512T041440Z
+DTSTART:20260527T113000Z
+DTEND:20260527T130000Z
+SUMMARY:BOSTON STRONG: Tech Pushup Challenge - #BOSTechWeek
+LOCATION:Fiedler Dock\, Charles River\, Boston\, MA 02114\, USA
+DESCRIPTION:Event Link: https://partiful.com/e/QqdXzM3VDuw9CXoMJbrC\nMarkit
+  Profile: https://markitai.com/u/jonathan\nStart: May 27\, 2026\, 7:30 AM\n
+ End: May 27\, 2026\, 9:00 AM\nLocation: Fiedler Dock\, Charles River\, Bost
+ on\, MA 02114\, USA\nEvent Type: External Without Data\nMarkit Event ID: VR
+ RWsekvr
+URL:https://partiful.com/e/QqdXzM3VDuw9CXoMJbrC
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:SM_PupGR0
-DTSTAMP:20260918T005517Z
-DTSTART:20260919T150000Z
-DTEND:20260919T210000Z
-SUMMARY:The Million Dollar Sprint
-LOCATION:1 Memorial Dr\, Cambridge\, MA 02142\, USA
-DESCRIPTION:Event Link: https://luma.com/eno24fwp\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 19\, 2026\, 11:00 AM\nEnd: Sep 19\, 202
- 6\, 5:00 PM\nLocation: 1 Memorial Dr\, Cambridge\, MA 02142\, USA\nEvent Ty
- pe: External Without Data\nMarkit Event ID: SM_PupGR0
-URL:https://luma.com/eno24fwp
+UID:markit:2-5UGujvZ
+DTSTAMP:20260512T041440Z
+DTSTART:20260527T130000Z
+DTEND:20260527T143000Z
+SUMMARY:Applied AI Founders & Builders Breakfast - #BOSTechWeek
+LOCATION:Cambridge\, MA\, USA
+DESCRIPTION:Event Link: https://partiful.com/e/AXnfEzPrICv2bkOmaOjf\nMarkit
+  Profile: https://markitai.com/u/jonathan\nStart: May 27\, 2026\, 9:00 AM\n
+ End: May 27\, 2026\, 10:30 AM\nLocation: Cambridge\, MA\, USA\nEvent Type: 
+ External Without Data\nMarkit Event ID: 2-5UGujvZ
+URL:https://partiful.com/e/AXnfEzPrICv2bkOmaOjf
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:mtuW_s7pT
-DTSTAMP:20260918T005517Z
-DTSTART:20260919T160000Z
-DTEND:20260920T160000Z
-SUMMARY:HackMIT 2026
-LOCATION:Area 2/MIT\, Cambridge\, MA\, USA
-DESCRIPTION:Event Link: https://hackmit.org\nMarkit Profile: https://markit
- ai.com/u/jonathan\nStart: Sep 19\, 2026\, 12:00 PM\nEnd: Sep 20\, 2026\, 12
- :00 PM\nLocation: Area 2/MIT\, Cambridge\, MA\, USA\nEvent Type: External W
- ithout Data\nMarkit Event ID: mtuW_s7pT
-URL:https://hackmit.org
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:CyOjAjIwTG
-DTSTAMP:20260918T005517Z
-DTSTART:20260921T020000Z
-DTEND:20260921T030000Z
-SUMMARY:Test Tip
+UID:markit:My6_kaiC6
+DTSTAMP:20260512T041440Z
+DTSTART:20260527T130000Z
+DTEND:20260527T143000Z
+SUMMARY:Fintech Sandbox The Revolution Started Here - #BOSTechWeek
 LOCATION:Boston\, MA\, USA
-DESCRIPTION:Event Link: https://markitai.com/u/jonathan/e/CyOjAjIwTG\nMarki
- t Profile: https://markitai.com/u/jonathan\nStart: Sep 20\, 2026\, 10:00 PM
- \nEnd: Sep 20\, 2026\, 11:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: M
- arkit\nMarkit Event ID: CyOjAjIwTG
-URL:https://markitai.com/u/jonathan/e/CyOjAjIwTG
+DESCRIPTION:Event Link: https://partiful.com/e/GrSlGjHe4vQFMwHwczfE\nMarkit
+  Profile: https://markitai.com/u/jonathan\nStart: May 27\, 2026\, 9:00 AM\n
+ End: May 27\, 2026\, 10:30 AM\nLocation: Boston\, MA\, USA\nEvent Type: Ext
+ ernal Without Data\nMarkit Event ID: My6_kaiC6
+URL:https://partiful.com/e/GrSlGjHe4vQFMwHwczfE
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:OmyNSrOL4
-DTSTAMP:20260918T005517Z
-DTSTART:20260921T210000Z
-DTEND:20260922T000000Z
-SUMMARY:Subconscious Launch Night: The Easy Button for Open Models
-LOCATION:South\, 10 Post Office Square\, Boston\, MA 02109\, USA
-DESCRIPTION:Event Link: https://luma.com/u0415mk2\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 21\, 2026\, 5:00 PM\nEnd: Sep 21\, 2026
- \, 8:00 PM\nLocation: South\, 10 Post Office Square\, Boston\, MA 02109\, U
- SA\nEvent Type: External Without Data\nMarkit Event ID: OmyNSrOL4
-URL:https://luma.com/u0415mk2
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:0-DmTwLrN
-DTSTAMP:20260918T005517Z
-DTSTART:20260922T130000Z
-DTEND:20260925T210000Z
-SUMMARY:Biotech Week Boston 2026
-LOCATION:Boston\, MA\, USA
-DESCRIPTION:Event Link: https://informaconnect.com/biotech-week-boston/\nMa
- rkit Profile: https://markitai.com/u/jonathan\nStart: Sep 22\, 2026\, 9:00 
- AM\nEnd: Sep 25\, 2026\, 5:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: 
- External Without Data\nMarkit Event ID: 0-DmTwLrN
-URL:https://informaconnect.com/biotech-week-boston/
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:E4C6ISTH-
-DTSTAMP:20260918T005517Z
-DTSTART:20260922T130000Z
-DTEND:20260925T210000Z
-SUMMARY:Boston Fintech Week 2026
-LOCATION:Boston\, MA\, USA
-DESCRIPTION:Event Link: https://bostonfintechweek.org/\nMarkit Profile: htt
- ps://markitai.com/u/jonathan\nStart: Sep 22\, 2026\, 9:00 AM\nEnd: Sep 25\,
-  2026\, 5:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: External Without 
- Data\nMarkit Event ID: E4C6ISTH-
-URL:https://bostonfintechweek.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:GaPTqd0UA
-DTSTAMP:20260918T005517Z
-DTSTART:20260922T130000Z
-DTEND:20260923T210000Z
-SUMMARY:RESI Boston 2026
-LOCATION:10 Huntington Ave\, Boston\, MA 02116\, USA
-DESCRIPTION:Event Link: https://www.resiconference.com/resi-boston/\nMarkit
-  Profile: https://markitai.com/u/jonathan\nStart: Sep 22\, 2026\, 9:00 AM\n
- End: Sep 23\, 2026\, 5:00 PM\nLocation: 10 Huntington Ave\, Boston\, MA 021
- 16\, USA\nEvent Type: External Without Data\nMarkit Event ID: GaPTqd0UA
-URL:https://www.resiconference.com/resi-boston/
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:yYsggsimu
-DTSTAMP:20260918T005517Z
-DTSTART:20260922T130000Z
-DTEND:20260922T233000Z
-SUMMARY:Boston Computational Biology Hackathon with Anthropic\, Modal\, and
-  Flagship Pioneering
-LOCATION:40 Edwin H Land Blvd\, Cambridge\, MA 02142\, USA
-DESCRIPTION:Event Link: https://luma.com/boston-comp-bio-hack\nMarkit Profi
- le: https://markitai.com/u/jonathan\nStart: Sep 22\, 2026\, 9:00 AM\nEnd: S
- ep 22\, 2026\, 7:30 PM\nLocation: 40 Edwin H Land Blvd\, Cambridge\, MA 021
- 42\, USA\nEvent Type: External Without Data\nMarkit Event ID: yYsggsimu
-URL:https://luma.com/boston-comp-bio-hack
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:3tCFWY_jJ
-DTSTAMP:20260918T005517Z
-DTSTART:20260922T200000Z
-DTEND:20260922T213000Z
-SUMMARY:Dr. Melina Claussnitzer: Genetics\, Causality\, and Metabolic Disea
- se
-LOCATION:50 Church St\, Cambridge\, MA 02138\, USA
-DESCRIPTION:Event Link: https://luma.com/bj2l52ne\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 22\, 2026\, 4:00 PM\nEnd: Sep 22\, 2026
- \, 5:30 PM\nLocation: 50 Church St\, Cambridge\, MA 02138\, USA\nEvent Type
- : External Without Data\nMarkit Event ID: 3tCFWY_jJ
-URL:https://luma.com/bj2l52ne
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:JPVOu-jEu
-DTSTAMP:20260918T005517Z
-DTSTART:20260922T223000Z
-DTEND:20260923T013000Z
-SUMMARY:Founder P0ker Night [Hosted by Rho x TNT]
-LOCATION:Boston\, MA\, USA
-DESCRIPTION:Event Link: https://luma.com/rhoevents-c5h9\nMarkit Profile: ht
- tps://markitai.com/u/jonathan\nStart: Sep 22\, 2026\, 6:30 PM\nEnd: Sep 22\
- , 2026\, 9:30 PM\nLocation: Boston\, MA\, USA\nEvent Type: External Without
-  Data\nMarkit Event ID: JPVOu-jEu
-URL:https://luma.com/rhoevents-c5h9
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:O3ftSGL9P
-DTSTAMP:20260918T005517Z
-DTSTART:20260923T130000Z
-DTEND:20260923T143000Z
-SUMMARY:Fintech Week Breakfast for Founders & Funders
-LOCATION:131 State St\, Boston\, MA 02109\, USA
-DESCRIPTION:Event Link: https://luma.com/py8a76eg\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 23\, 2026\, 9:00 AM\nEnd: Sep 23\, 2026
- \, 10:30 AM\nLocation: 131 State St\, Boston\, MA 02109\, USA\nEvent Type: 
- External Without Data\nMarkit Event ID: O3ftSGL9P
-URL:https://luma.com/py8a76eg
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:xblBO6Ggr
-DTSTAMP:20260918T005517Z
-DTSTART:20260923T160000Z
-DTEND:20260923T170000Z
-SUMMARY:Exploring Khosla Ventures and Foundry Robotics
-LOCATION:32 Vassar St\, Cambridge\, MA 02139\, USA
-DESCRIPTION:Event Link: https://cap.csail.mit.edu/members/events/tech-talk-
- khosla-ventures\nMarkit Profile: https://markitai.com/u/jonathan\nStart: Se
- p 23\, 2026\, 12:00 PM\nEnd: Sep 23\, 2026\, 1:00 PM\nLocation: 32 Vassar S
- t\, Cambridge\, MA 02139\, USA\nEvent Type: External Without Data\nMarkit E
- vent ID: xblBO6Ggr
-URL:https://cap.csail.mit.edu/members/events/tech-talk-khosla-ventures
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:AukKVuFS-
-DTSTAMP:20260918T005517Z
-DTSTART:20260923T220000Z
-DTEND:20260924T010000Z
-SUMMARY:End of Summer Reception & Concert - Hosted by Flagship Pioneering\,
-  Whoop\, Modal and Goodwin
-LOCATION:143 First St\, Cambridge\, MA 02142\, USA
-DESCRIPTION:Event Link: https://luma.com/qkj2w666\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 23\, 2026\, 6:00 PM\nEnd: Sep 23\, 2026
- \, 9:00 PM\nLocation: 143 First St\, Cambridge\, MA 02142\, USA\nEvent Type
- : External Without Data\nMarkit Event ID: AukKVuFS-
-URL:https://luma.com/qkj2w666
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:EO7qspNDV
-DTSTAMP:20260918T005517Z
-DTSTART:20260923T220000Z
-DTEND:20260924T003000Z
-SUMMARY:Shipping Up in Boston! AI Week Kickoff
-LOCATION:Boston\, MA\, USA
-DESCRIPTION:Event Link: https://luma.com/ihp9xm1b\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 23\, 2026\, 6:00 PM\nEnd: Sep 23\, 2026
- \, 8:30 PM\nLocation: Boston\, MA\, USA\nEvent Type: External Without Data\
- nMarkit Event ID: EO7qspNDV
-URL:https://luma.com/ihp9xm1b
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:rzPqFuCz9
-DTSTAMP:20260918T005517Z
-DTSTART:20260923T220000Z
-DTEND:20260924T000000Z
-SUMMARY:Founder Dinner Series: Fenwick (Sept 23)
-LOCATION:Boston\, MA\, USA
-DESCRIPTION:Event Link: https://massaicoalition.com/events\nMarkit Profile:
-  https://markitai.com/u/jonathan\nStart: Sep 23\, 2026\, 6:00 PM\nEnd: Sep 
- 23\, 2026\, 8:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: External With
- out Data\nMarkit Event ID: rzPqFuCz9
-URL:https://massaicoalition.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:unWx25GWE
-DTSTAMP:20260918T005517Z
-DTSTART:20260924T130000Z
-DTEND:20260924T180000Z
-SUMMARY:International Acceleration Day\, by Fintech Sandbox
-LOCATION:510 Atlantic Ave\, Boston\, MA 02210\, USA
-DESCRIPTION:Event Link: https://luma.com/xju502ga\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 24\, 2026\, 9:00 AM\nEnd: Sep 24\, 2026
- \, 2:00 PM\nLocation: 510 Atlantic Ave\, Boston\, MA 02210\, USA\nEvent Typ
- e: External Without Data\nMarkit Event ID: unWx25GWE
-URL:https://luma.com/xju502ga
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:V1E37shlC
-DTSTAMP:20260918T005517Z
-DTSTART:20260924T200000Z
-DTEND:20260924T213000Z
-SUMMARY:Lab-to-Launch Lounge Series
-LOCATION:150 Western Ave\, Boston\, MA 02134\, USA
-DESCRIPTION:Event Link: https://grid.harvard.edu/event-details/lab-to-launc
- h-lounge-series-5\nMarkit Profile: https://markitai.com/u/jonathan\nStart: 
- Sep 24\, 2026\, 4:00 PM\nEnd: Sep 24\, 2026\, 5:30 PM\nLocation: 150 Wester
- n Ave\, Boston\, MA 02134\, USA\nEvent Type: External Without Data\nMarkit 
- Event ID: V1E37shlC
-URL:https://grid.harvard.edu/event-details/lab-to-launch-lounge-series-5
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:5Dcf8zUv5
-DTSTAMP:20260918T005517Z
-DTSTART:20260924T210000Z
-DTEND:20260925T010000Z
-SUMMARY:HAE Startup World Cup Regional
-LOCATION:77 Avenue Louis Pasteur\, Boston\, MA 02115\, USA
-DESCRIPTION:Event Link: https://www.harvardae.org/hae-swc-tickets-2026\nMar
- kit Profile: https://markitai.com/u/jonathan\nStart: Sep 24\, 2026\, 5:00 P
- M\nEnd: Sep 24\, 2026\, 9:00 PM\nLocation: 77 Avenue Louis Pasteur\, Boston
- \, MA 02115\, USA\nEvent Type: External Without Data\nMarkit Event ID: 5Dcf
- 8zUv5
-URL:https://www.harvardae.org/hae-swc-tickets-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:aex1xgK3X
-DTSTAMP:20260918T005517Z
-DTSTART:20260924T210000Z
-DTEND:20260925T000000Z
-SUMMARY:Venture Lane Oktoberfest 2026
-LOCATION:55 Court St Fl 2\, Boston\, MA 02108\, USA
-DESCRIPTION:Event Link: https://markitai.com/e/v62tRIZBf?l=AO5Q\nMarkit Pro
- file: https://markitai.com/u/jonathan\nStart: Sep 24\, 2026\, 5:00 PM\nEnd:
-  Sep 24\, 2026\, 8:00 PM\nLocation: 55 Court St Fl 2\, Boston\, MA 02108\, 
- USA\nEvent Type: External Without Data\nMarkit Event ID: aex1xgK3X
-URL:https://markitai.com/e/v62tRIZBf?l=AO5Q
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:g_OjaqmZ9
-DTSTAMP:20260918T005517Z
-DTSTART:20260924T210000Z
-DTEND:20260924T230000Z
-SUMMARY:BUILD617 Ribbon Cutting + Grand Opening
-LOCATION:426 Washington St\, Boston\, MA 02108\, USA
-DESCRIPTION:Event Link: https://luma.com/ct0nm65j\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 24\, 2026\, 5:00 PM\nEnd: Sep 24\, 2026
- \, 7:00 PM\nLocation: 426 Washington St\, Boston\, MA 02108\, USA\nEvent Ty
- pe: External Without Data\nMarkit Event ID: g_OjaqmZ9
-URL:https://luma.com/ct0nm65j
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:ENcvrSN6q
-DTSTAMP:20260918T005517Z
-DTSTART:20260925T130000Z
-DTEND:20260925T200000Z
-SUMMARY:ClawBio\, developing your own genomic agent from scratch
-LOCATION:300 Binney St\, Cambridge\, MA 02142\, USA
-DESCRIPTION:Event Link: https://luma.com/clawbio-broad-2026\nMarkit Profile
- : https://markitai.com/u/jonathan\nStart: Sep 25\, 2026\, 9:00 AM\nEnd: Sep
-  25\, 2026\, 4:00 PM\nLocation: 300 Binney St\, Cambridge\, MA 02142\, USA\
- nEvent Type: External Without Data\nMarkit Event ID: ENcvrSN6q
-URL:https://luma.com/clawbio-broad-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:i2XQuyCbJ
-DTSTAMP:20260918T005517Z
-DTSTART:20260925T140000Z
-DTEND:20260925T200000Z
-SUMMARY:AI in Mechanical Engineering and Manufacturing unConference
-LOCATION:121 Seaport Blvd\, Boston\, MA 02210\, USA
-DESCRIPTION:Event Link: https://luma.com/xvnekefl\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 25\, 2026\, 10:00 AM\nEnd: Sep 25\, 202
- 6\, 4:00 PM\nLocation: 121 Seaport Blvd\, Boston\, MA 02210\, USA\nEvent Ty
- pe: External Without Data\nMarkit Event ID: i2XQuyCbJ
-URL:https://luma.com/xvnekefl
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:hoUWWE4sD
-DTSTAMP:20260918T005517Z
-DTSTART:20260925T190000Z
-DTEND:20260925T210000Z
-SUMMARY:Technical Career Fair - Job Seeker Registration
-LOCATION:88 Seaport Blvd\, Boston\, MA 02210\, USA
-DESCRIPTION:Event Link: https://luma.com/n182i44t\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 25\, 2026\, 3:00 PM\nEnd: Sep 25\, 2026
- \, 5:00 PM\nLocation: 88 Seaport Blvd\, Boston\, MA 02210\, USA\nEvent Type
- : External Without Data\nMarkit Event ID: hoUWWE4sD
-URL:https://luma.com/n182i44t
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:9jkK2i6xX
-DTSTAMP:20260918T005517Z
-DTSTART:20260926T123000Z
-DTEND:20260926T210000Z
-SUMMARY:Launching Climate Ventures
-LOCATION:Boston\, MA 02163\, USA
-DESCRIPTION:Event Link: https://grid.harvard.edu/event-details/launching-cl
- imate-ventures\nMarkit Profile: https://markitai.com/u/jonathan\nStart: Sep
-  26\, 2026\, 8:30 AM\nEnd: Sep 26\, 2026\, 5:00 PM\nLocation: Boston\, MA 0
- 2163\, USA\nEvent Type: External Without Data\nMarkit Event ID: 9jkK2i6xX
-URL:https://grid.harvard.edu/event-details/launching-climate-ventures
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:7njK4d-0N
-DTSTAMP:20260918T005517Z
-DTSTART:20260926T130000Z
-DTEND:20261003T210000Z
-SUMMARY:Boston AI Week 2026
-LOCATION:101 Seaport Blvd\, Boston\, MA 02210\, USA
-DESCRIPTION:Event Link: https://aiweek.boston/\nMarkit Profile: https://mar
- kitai.com/u/jonathan\nStart: Sep 26\, 2026\, 9:00 AM\nEnd: Oct 3\, 2026\, 5
- :00 PM\nLocation: 101 Seaport Blvd\, Boston\, MA 02210\, USA\nEvent Type: E
- xternal Without Data\nMarkit Event ID: 7njK4d-0N
-URL:https://aiweek.boston/
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:5s0qzqVo1
-DTSTAMP:20260918T005517Z
-DTSTART:20260926T133000Z
-DTEND:20260927T213000Z
-SUMMARY:Test Flight: Glasswing Ventures AI Hackathon (300K In Compute!) - S
- ponsored by Microsoft Azure & AWS
-LOCATION:793 Boylston St\, Boston\, MA 02116\, USA
-DESCRIPTION:Event Link: https://luma.com/gzpv85yq\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 26\, 2026\, 9:30 AM\nEnd: Sep 27\, 2026
- \, 5:30 PM\nLocation: 793 Boylston St\, Boston\, MA 02116\, USA\nEvent Type
- : External Without Data\nMarkit Event ID: 5s0qzqVo1
-URL:https://luma.com/gzpv85yq
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:XjU506GhE
-DTSTAMP:20260918T005517Z
-DTSTART:20260926T144500Z
-DTEND:20260926T200000Z
-SUMMARY:RoboBoston: 9th Annual Robot Block Party !
-LOCATION:88 Seaport Blvd\, Boston\, MA 02210\, USA
-DESCRIPTION:Event Link: https://luma.com/c2kl6qdb\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 26\, 2026\, 10:45 AM\nEnd: Sep 26\, 202
- 6\, 4:00 PM\nLocation: 88 Seaport Blvd\, Boston\, MA 02210\, USA\nEvent Typ
- e: External Without Data\nMarkit Event ID: XjU506GhE
-URL:https://luma.com/c2kl6qdb
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:y-pcjsff3
-DTSTAMP:20260918T005517Z
-DTSTART:20260926T230000Z
-DTEND:20260927T010000Z
-SUMMARY:Code + Counsel's Human-in-the-Loop Ping Pong Meetup
-LOCATION:20 Melcher St\, Boston\, MA 02210\, USA
-DESCRIPTION:Event Link: https://luma.com/nihzmk1n\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 26\, 2026\, 7:00 PM\nEnd: Sep 26\, 2026
- \, 9:00 PM\nLocation: 20 Melcher St\, Boston\, MA 02210\, USA\nEvent Type: 
- External Without Data\nMarkit Event ID: y-pcjsff3
-URL:https://luma.com/nihzmk1n
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:NmI3XrlT5
-DTSTAMP:20260918T005517Z
-DTSTART:20260928T190000Z
-DTEND:20260928T213000Z
-SUMMARY:Show & Tell: Meet the Real Small Business Owners Using AI
-LOCATION:1101 Matthews St\, Boston\, MA 02110\, USA
-DESCRIPTION:Event Link: https://luma.com/launchby-px5r\nMarkit Profile: htt
- ps://markitai.com/u/jonathan\nStart: Sep 28\, 2026\, 3:00 PM\nEnd: Sep 28\,
-  2026\, 5:30 PM\nLocation: 1101 Matthews St\, Boston\, MA 02110\, USA\nEven
- t Type: External Without Data\nMarkit Event ID: NmI3XrlT5
-URL:https://luma.com/launchby-px5r
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:rEI0oO2MT
-DTSTAMP:20260918T005517Z
-DTSTART:20260929T130000Z
-DTEND:20260929T150000Z
-SUMMARY:AI "Meet the Investors" Breakfast
-LOCATION:Government Center\, 1 Cambridge St\, Boston\, MA 02114\, USA
-DESCRIPTION:Event Link: https://luma.com/rflxqfk5\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 29\, 2026\, 9:00 AM\nEnd: Sep 29\, 2026
- \, 11:00 AM\nLocation: Government Center\, 1 Cambridge St\, Boston\, MA 021
- 14\, USA\nEvent Type: External Without Data\nMarkit Event ID: rEI0oO2MT
-URL:https://luma.com/rflxqfk5
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:jTNPt_guQ
-DTSTAMP:20260918T005517Z
-DTSTART:20260929T210000Z
-DTEND:20260929T230000Z
-SUMMARY:Founders & Funders: BOS VC Reverse Pitch
-LOCATION:99 High St\, Boston\, MA 02110\, USA
-DESCRIPTION:Event Link: https://luma.com/fnfxbos0829\nMarkit Profile: https
- ://markitai.com/u/jonathan\nStart: Sep 29\, 2026\, 5:00 PM\nEnd: Sep 29\, 2
- 026\, 7:00 PM\nLocation: 99 High St\, Boston\, MA 02110\, USA\nEvent Type: 
- External Without Data\nMarkit Event ID: jTNPt_guQ
-URL:https://luma.com/fnfxbos0829
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:I8e5uFa3H
-DTSTAMP:20260918T005517Z
-DTSTART:20260930T220000Z
-DTEND:20261001T010000Z
-SUMMARY:STRIV Launch Party @MIT Sailing Pavilion
-LOCATION:134 Memorial Dr\, Cambridge\, MA 02139\, USA
-DESCRIPTION:Event Link: https://luma.com/polxhxol\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Sep 30\, 2026\, 6:00 PM\nEnd: Sep 30\, 2026
- \, 9:00 PM\nLocation: 134 Memorial Dr\, Cambridge\, MA 02139\, USA\nEvent T
- ype: External Without Data\nMarkit Event ID: I8e5uFa3H
-URL:https://luma.com/polxhxol
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:mflLmBsEj
-DTSTAMP:20260918T005517Z
-DTSTART:20260930T220000Z
-DTEND:20261001T000000Z
-SUMMARY:Founder Dinner Series: Gunderson Dettmer
-LOCATION:Boston\, MA\, USA
-DESCRIPTION:Event Link: https://massaicoalition.com/events\nMarkit Profile:
-  https://markitai.com/u/jonathan\nStart: Sep 30\, 2026\, 6:00 PM\nEnd: Sep 
- 30\, 2026\, 8:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: External With
- out Data\nMarkit Event ID: mflLmBsEj
-URL:https://massaicoalition.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:Zxnte5ABj
-DTSTAMP:20260918T005517Z
-DTSTART:20261001T210000Z
-DTEND:20261002T010000Z
-SUMMARY:The Data\, Tech\, and Opportunities Driving a New Era of Women's He
- alth
-LOCATION:15 Necco St\, Boston\, MA 02210\, USA
-DESCRIPTION:Event Link: https://luma.com/oxyytgvs\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Oct 1\, 2026\, 5:00 PM\nEnd: Oct 1\, 2026\,
-  9:00 PM\nLocation: 15 Necco St\, Boston\, MA 02210\, USA\nEvent Type: Exte
- rnal Without Data\nMarkit Event ID: Zxnte5ABj
-URL:https://luma.com/oxyytgvs
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:U8nzdoCeS
-DTSTAMP:20260918T005517Z
-DTSTART:20261001T220000Z
-DTEND:20261002T010000Z
-SUMMARY:Mass AI Coalition: College Night
+UID:markit:UpCxsrles
+DTSTAMP:20260512T041440Z
+DTSTART:20260527T160000Z
+DTEND:20260527T210000Z
+SUMMARY:IIA AI Showcase @ WHOOP
 LOCATION:One Kenmore Sq\, Boston\, MA 02215\, USA
-DESCRIPTION:Event Link: https://luma.com/tfzeaek5\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Oct 1\, 2026\, 6:00 PM\nEnd: Oct 1\, 2026\,
-  9:00 PM\nLocation: One Kenmore Sq\, Boston\, MA 02215\, USA\nEvent Type: E
- xternal Without Data\nMarkit Event ID: U8nzdoCeS
-URL:https://luma.com/tfzeaek5
+DESCRIPTION:Event Link: https://luma.com/6dnlkkrc\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: May 27\, 2026\, 12:00 PM\nEnd: May 27\, 202
+ 6\, 5:00 PM\nLocation: One Kenmore Sq\, Boston\, MA 02215\, USA\nEvent Type
+ : External Without Data\nMarkit Event ID: UpCxsrles
+URL:https://luma.com/6dnlkkrc
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:jl8gjMh8-
-DTSTAMP:20260918T005517Z
-DTSTART:20261002T130000Z
-DTEND:20261002T210000Z
-SUMMARY:Builders & Brews Boston
-LOCATION:425 Massachusetts Ave\, Cambridge\, MA 02139\, USA
-DESCRIPTION:Event Link: https://luma.com/emee7xtr\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Oct 2\, 2026\, 9:00 AM\nEnd: Oct 2\, 2026\,
-  5:00 PM\nLocation: 425 Massachusetts Ave\, Cambridge\, MA 02139\, USA\nEve
- nt Type: External Without Data\nMarkit Event ID: jl8gjMh8-
-URL:https://luma.com/emee7xtr
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:z7OcU82Ia
-DTSTAMP:20260918T005517Z
-DTSTART:20261002T220000Z
-DTEND:20261003T000000Z
-SUMMARY:Cross University Innovations Mixer (Startup Boston)
-LOCATION:Anderson Hall\, Medford\, MA 02155\, USA
-DESCRIPTION:Event Link: https://luma.com/y2x4zjue\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Oct 2\, 2026\, 6:00 PM\nEnd: Oct 2\, 2026\,
-  8:00 PM\nLocation: Anderson Hall\, Medford\, MA 02155\, USA\nEvent Type: E
- xternal Without Data\nMarkit Event ID: z7OcU82Ia
-URL:https://luma.com/y2x4zjue
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:jXlBD5gKac
-DTSTAMP:20260918T005517Z
-DTSTART:20261006T140000Z
-DTEND:20261006T210000Z
-SUMMARY:TEDx Boston: Unlocking Longevity
+UID:markit:ci7DLM55Q
+DTSTAMP:20260512T041440Z
+DTSTART:20260527T170000Z
+DTEND:20260527T200000Z
+SUMMARY:Legal AI Summit - #BOSTechWeek
 LOCATION:Boston\, MA\, USA
-DESCRIPTION:Event Link: https://tedxlongevity.framer.website/\nMarkit Profi
- le: https://markitai.com/u/jonathan\nStart: Oct 6\, 2026\, 10:00 AM\nEnd: O
- ct 6\, 2026\, 5:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: External Wi
- thout Data\nMarkit Event ID: jXlBD5gKac
-URL:https://tedxlongevity.framer.website/
+DESCRIPTION:Event Link: https://partiful.com/e/pM0Dnw5pQRibSUklUBH2\nMarkit
+  Profile: https://markitai.com/u/jonathan\nStart: May 27\, 2026\, 1:00 PM\n
+ End: May 27\, 2026\, 4:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: Exte
+ rnal Without Data\nMarkit Event ID: ci7DLM55Q
+URL:https://partiful.com/e/pM0Dnw5pQRibSUklUBH2
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:_weO0c9Pu
-DTSTAMP:20260918T005517Z
-DTSTART:20261006T210000Z
-DTEND:20261007T000000Z
-SUMMARY:AI on Tap: Founders × Funders
-LOCATION:530 Western Ave\, Boston\, MA 02135\, USA
-DESCRIPTION:Event Link: https://luma.com/e3asqjl3\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Oct 6\, 2026\, 5:00 PM\nEnd: Oct 6\, 2026\,
-  8:00 PM\nLocation: 530 Western Ave\, Boston\, MA 02135\, USA\nEvent Type: 
- External Without Data\nMarkit Event ID: _weO0c9Pu
-URL:https://luma.com/e3asqjl3
+UID:markit:qOwkp7gHV
+DTSTAMP:20260512T041440Z
+DTSTART:20260527T203000Z
+DTEND:20260527T230000Z
+SUMMARY:The Demo Is Not the Product: What Robotics Companies Learn Too Late
+LOCATION:122 Federal St\, Boston\, MA 02110\, USA
+DESCRIPTION:Event Link: https://luma.com/7shkjvue\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: May 27\, 2026\, 4:30 PM\nEnd: May 27\, 2026
+ \, 7:00 PM\nLocation: 122 Federal St\, Boston\, MA 02110\, USA\nEvent Type:
+  External Without Data\nMarkit Event ID: qOwkp7gHV
+URL:https://luma.com/7shkjvue
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:rnsq76kWJ
-DTSTAMP:20260918T005517Z
-DTSTART:20261007T220000Z
-DTEND:20261008T000000Z
-SUMMARY:Founder Dinner Series: J.P. Morgan
+UID:markit:1lTM5QRiD
+DTSTAMP:20260512T041440Z
+DTSTART:20260527T210000Z
+DTEND:20260528T000000Z
+SUMMARY:Ecomm's CAC Problem and How to Fix it
+LOCATION:201 Brookline Ave Suite 1404\, Boston\, MA 02215\, USA
+DESCRIPTION:Event Link: https://luma.com/kilmlfcw\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: May 27\, 2026\, 5:00 PM\nEnd: May 27\, 2026
+ \, 8:00 PM\nLocation: 201 Brookline Ave Suite 1404\, Boston\, MA 02215\, US
+ A\nEvent Type: External Without Data\nMarkit Event ID: 1lTM5QRiD
+URL:https://luma.com/kilmlfcw
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:U2RIt-9qn
+DTSTAMP:20260512T041440Z
+DTSTART:20260527T210000Z
+DTEND:20260527T220000Z
+SUMMARY:Tech Week Basketball Tournament - #BOSTechWeek
 LOCATION:Boston\, MA\, USA
-DESCRIPTION:Event Link: https://massaicoalition.com/events\nMarkit Profile:
-  https://markitai.com/u/jonathan\nStart: Oct 7\, 2026\, 6:00 PM\nEnd: Oct 7
- \, 2026\, 8:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: External Withou
- t Data\nMarkit Event ID: rnsq76kWJ
-URL:https://massaicoalition.com/events
+DESCRIPTION:Event Link: https://partiful.com/e/3DsvWlYqIH8gMNzbR4Mg\nMarkit
+  Profile: https://markitai.com/u/jonathan\nStart: May 27\, 2026\, 5:00 PM\n
+ End: May 27\, 2026\, 6:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: Exte
+ rnal Without Data\nMarkit Event ID: U2RIt-9qn
+URL:https://partiful.com/e/3DsvWlYqIH8gMNzbR4Mg
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:-ebbXumwv
-DTSTAMP:20260918T005517Z
-DTSTART:20261021T220000Z
-DTEND:20261022T000000Z
-SUMMARY:Founder Dinner Series: Fenwick (Oct 21)
+UID:markit:84UMwu4iB
+DTSTAMP:20260512T041440Z
+DTSTART:20260527T220000Z
+DTEND:20260528T000000Z
+SUMMARY:The Innovation Exchange #BOSTechWeek
 LOCATION:Boston\, MA\, USA
-DESCRIPTION:Event Link: https://massaicoalition.com/events\nMarkit Profile:
-  https://markitai.com/u/jonathan\nStart: Oct 21\, 2026\, 6:00 PM\nEnd: Oct 
- 21\, 2026\, 8:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: External With
- out Data\nMarkit Event ID: -ebbXumwv
-URL:https://massaicoalition.com/events
+DESCRIPTION:Event Link: https://partiful.com/e/O8xN0dVPm7XTRMNt20rM\nMarkit
+  Profile: https://markitai.com/u/jonathan\nStart: May 27\, 2026\, 6:00 PM\n
+ End: May 27\, 2026\, 8:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: Exte
+ rnal Without Data\nMarkit Event ID: 84UMwu4iB
+URL:https://partiful.com/e/O8xN0dVPm7XTRMNt20rM
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:ZSL621WYA
-DTSTAMP:20260918T005517Z
-DTSTART:20261022T213000Z
-DTEND:20261023T000000Z
-SUMMARY:Building Agents with Vercel & Jellyfish
-LOCATION:500-530 Boylston St\, Boston\, MA 02116\, USA
-DESCRIPTION:Event Link: https://luma.com/s6k8kdkh\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Oct 22\, 2026\, 5:30 PM\nEnd: Oct 22\, 2026
- \, 8:00 PM\nLocation: 500-530 Boylston St\, Boston\, MA 02116\, USA\nEvent 
- Type: External Without Data\nMarkit Event ID: ZSL621WYA
-URL:https://luma.com/s6k8kdkh
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:TsuMncn-o
-DTSTAMP:20260918T005517Z
-DTSTART:20261022T220000Z
-DTEND:20261023T000000Z
-SUMMARY:Party Mode: AI Coalition @ Reservoir HQ
-LOCATION:50 Terminal St\, Charlestown\, MA 02129\, USA
-DESCRIPTION:Event Link: https://luma.com/29txt96l\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Oct 22\, 2026\, 6:00 PM\nEnd: Oct 22\, 2026
- \, 8:00 PM\nLocation: 50 Terminal St\, Charlestown\, MA 02129\, USA\nEvent 
- Type: External Without Data\nMarkit Event ID: TsuMncn-o
-URL:https://luma.com/29txt96l
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:f37d-x1FV
-DTSTAMP:20260918T005517Z
-DTSTART:20261023T190000Z
-DTEND:20261023T223000Z
-SUMMARY:ARC Prize Research Summit 2026
-LOCATION:77 Massachusetts Ave\, Cambridge\, MA 02139\, USA
-DESCRIPTION:Event Link: https://luma.com/z1h24dqe\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Oct 23\, 2026\, 3:00 PM\nEnd: Oct 23\, 2026
- \, 6:30 PM\nLocation: 77 Massachusetts Ave\, Cambridge\, MA 02139\, USA\nEv
- ent Type: External Without Data\nMarkit Event ID: f37d-x1FV
-URL:https://luma.com/z1h24dqe
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:H7DEMiRWo
-DTSTAMP:20260918T005517Z
-DTSTART:20261024T140000Z
-DTEND:20261024T220000Z
-SUMMARY:Hackachusetts
+UID:markit:GDuYPLtOp
+DTSTAMP:20260512T041440Z
+DTSTART:20260527T220000Z
+DTEND:20260527T230000Z
+SUMMARY:AI-Enabled Analytics #BOSTechWeek
 LOCATION:Boston\, MA\, USA
-DESCRIPTION:Event Link: https://massaicoalition.com/events\nMarkit Profile:
-  https://markitai.com/u/jonathan\nStart: Oct 24\, 2026\, 10:00 AM\nEnd: Oct
-  24\, 2026\, 6:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: External Wit
- hout Data\nMarkit Event ID: H7DEMiRWo
-URL:https://massaicoalition.com/events
+DESCRIPTION:Event Link: https://partiful.com/e/TdNlEIYaIoWK1mYHcLlh\nMarkit
+  Profile: https://markitai.com/u/jonathan\nStart: May 27\, 2026\, 6:00 PM\n
+ End: May 27\, 2026\, 7:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: Exte
+ rnal Without Data\nMarkit Event ID: GDuYPLtOp
+URL:https://partiful.com/e/TdNlEIYaIoWK1mYHcLlh
 END:VEVENT
 BEGIN:VEVENT
-UID:markit:4pRUBxVQa
-DTSTAMP:20260918T005517Z
-DTSTART:20261028T150000Z
-DTEND:20261028T180000Z
-SUMMARY:Tough Tech Demo Day
+UID:markit:eUiy3NxvU3
+DTSTAMP:20260512T041440Z
+DTSTART:20260527T220000Z
+DTEND:20260528T000000Z
+SUMMARY:Ditch The Deck - a16z Tech Week May 2026
+LOCATION:1 N Market St\, Boston\, MA 02109\, USA
+DESCRIPTION:Event Link: https://markitai.com/e/kryXuQdzh\nMarkit Profile: h
+ ttps://markitai.com/u/jonathan\nStart: May 27\, 2026\, 6:00 PM\nEnd: May 27
+ \, 2026\, 8:00 PM\nLocation: 1 N Market St\, Boston\, MA 02109\, USA\nEvent
+  Type: External Without Data\nMarkit Event ID: eUiy3NxvU3
+URL:https://markitai.com/e/kryXuQdzh
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:syf5rHeol
+DTSTAMP:20260512T041440Z
+DTSTART:20260527T220000Z
+DTEND:20260528T000000Z
+SUMMARY:AI in CX Happy Hour - #BOSTechWeek
+LOCATION:266 Summer St\, Boston\, MA 02210\, USA
+DESCRIPTION:Event Link: https://partiful.com/e/GTCf6DeoltyrARzh8gZQ\nMarkit
+  Profile: https://markitai.com/u/jonathan\nStart: May 27\, 2026\, 6:00 PM\n
+ End: May 27\, 2026\, 8:00 PM\nLocation: 266 Summer St\, Boston\, MA 02210\,
+  USA\nEvent Type: External Without Data\nMarkit Event ID: syf5rHeol
+URL:https://partiful.com/e/GTCf6DeoltyrARzh8gZQ
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:K6PWRI2V5
+DTSTAMP:20260512T041440Z
+DTSTART:20260528T120000Z
+DTEND:20260528T143000Z
+SUMMARY:How Teams Are Actually Building with AI - #BOSTechWeek
+LOCATION:125 Summer St\, Boston\, MA 02111\, USA
+DESCRIPTION:Event Link: https://partiful.com/e/SHdFnv26yilYWOElsl4z\nMarkit
+  Profile: https://markitai.com/u/jonathan\nStart: May 28\, 2026\, 8:00 AM\n
+ End: May 28\, 2026\, 10:30 AM\nLocation: 125 Summer St\, Boston\, MA 02111\
+ , USA\nEvent Type: External Without Data\nMarkit Event ID: K6PWRI2V5
+URL:https://partiful.com/e/SHdFnv26yilYWOElsl4z
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:twF_shWJn
+DTSTAMP:20260512T041440Z
+DTSTART:20260528T170000Z
+DTEND:20260528T180000Z
+SUMMARY:AI on the Factory Floor: How to Turn AI Ambition Into Action - #BOS
+ TechWeek
 LOCATION:750 Main St\, Cambridge\, MA 02139\, USA
-DESCRIPTION:Event Link: https://luma.com/toughtechdemoday26\nMarkit Profile
- : https://markitai.com/u/jonathan\nStart: Oct 28\, 2026\, 11:00 AM\nEnd: Oc
- t 28\, 2026\, 2:00 PM\nLocation: 750 Main St\, Cambridge\, MA 02139\, USA\n
- Event Type: External Without Data\nMarkit Event ID: 4pRUBxVQa
-URL:https://luma.com/toughtechdemoday26
+DESCRIPTION:Event Link: https://partiful.com/e/s4pVGNMhEB9wp5PGGTX5\nMarkit
+  Profile: https://markitai.com/u/jonathan\nStart: May 28\, 2026\, 1:00 PM\n
+ End: May 28\, 2026\, 2:00 PM\nLocation: 750 Main St\, Cambridge\, MA 02139\
+ , USA\nEvent Type: External Without Data\nMarkit Event ID: twF_shWJn
+URL:https://partiful.com/e/s4pVGNMhEB9wp5PGGTX5
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:VJNXoxk19
+DTSTAMP:20260512T041440Z
+DTSTART:20260528T193000Z
+DTEND:20260529T003000Z
+SUMMARY:Robotics & Hard Tech Demo Night at RISE Robotics
+LOCATION:Somerville Ave opp Stone Ave\, Somerville\, MA 02143\, USA
+DESCRIPTION:Event Link: https://luma.com/lv9yz5gb\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: May 28\, 2026\, 3:30 PM\nEnd: May 28\, 2026
+ \, 8:30 PM\nLocation: Somerville Ave opp Stone Ave\, Somerville\, MA 02143\
+ , USA\nEvent Type: External Without Data\nMarkit Event ID: VJNXoxk19
+URL:https://luma.com/lv9yz5gb
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:kwpyCy-to
+DTSTAMP:20260512T041440Z
+DTSTART:20260528T200000Z
+DTEND:20260528T210000Z
+SUMMARY:TBD Angels @ Boston Tech Week 2026 - #BOSTechWeek
+LOCATION:Boston\, MA\, USA
+DESCRIPTION:Event Link: https://partiful.com/e/tpDpzv8okndu6S4eKRir\nMarkit
+  Profile: https://markitai.com/u/jonathan\nStart: May 28\, 2026\, 4:00 PM\n
+ End: May 28\, 2026\, 5:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: Exte
+ rnal Without Data\nMarkit Event ID: kwpyCy-to
+URL:https://partiful.com/e/tpDpzv8okndu6S4eKRir
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:W12e9rsfm
+DTSTAMP:20260512T041440Z
+DTSTART:20260528T213000Z
+DTEND:20260529T013000Z
+SUMMARY:Mass AI Coalition “First 100 Days” x WHOOP x a16z - #BostonTechWeek
+LOCATION:One Kenmore Sq\, Boston\, MA 02215\, USA
+DESCRIPTION:Event Link: https://partiful.com/e/tpA3opfeLHMEJuRSMH7b?\nMarki
+ t Profile: https://markitai.com/u/jonathan\nStart: May 28\, 2026\, 5:30 PM\
+ nEnd: May 28\, 2026\, 9:30 PM\nLocation: One Kenmore Sq\, Boston\, MA 02215
+ \, USA\nEvent Type: External Without Data\nMarkit Event ID: W12e9rsfm
+URL:https://partiful.com/e/tpA3opfeLHMEJuRSMH7b?
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:24AAfCLGD
+DTSTAMP:20260512T041440Z
+DTSTART:20260528T220000Z
+DTEND:20260529T020000Z
+SUMMARY:Cyber Summer Kickoff party @ F1 Arcade
+LOCATION:87 Pier 4 Blvd.\, Boston\, MA 02210\, USA
+DESCRIPTION:Event Link: https://7ai.com/f1\nMarkit Profile: https://markita
+ i.com/u/jonathan\nStart: May 28\, 2026\, 6:00 PM\nEnd: May 28\, 2026\, 10:0
+ 0 PM\nLocation: 87 Pier 4 Blvd.\, Boston\, MA 02210\, USA\nEvent Type: Exte
+ rnal Without Data\nMarkit Event ID: 24AAfCLGD
+URL:https://7ai.com/f1
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:Gxk5ElfSn
+DTSTAMP:20260512T041440Z
+DTSTART:20260528T220000Z
+DTEND:20260529T020000Z
+SUMMARY:7AI Cyber Summer Kickoff Party
+LOCATION:87 Pier 4 Blvd.\, Boston\, MA 02210\, USA
+DESCRIPTION:Event Link: https://7ai.com/f1#meeting-form\nMarkit Profile: ht
+ tps://markitai.com/u/jonathan\nStart: May 28\, 2026\, 6:00 PM\nEnd: May 28\
+ , 2026\, 10:00 PM\nLocation: 87 Pier 4 Blvd.\, Boston\, MA 02210\, USA\nEve
+ nt Type: External Without Data\nMarkit Event ID: Gxk5ElfSn
+URL:https://7ai.com/f1#meeting-form
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:MKjodFxUa
+DTSTAMP:20260512T041440Z
+DTSTART:20260528T230000Z
+DTEND:20260529T000000Z
+SUMMARY:Mass AI Coalition: The After Party
+LOCATION:401 Park Dr\, Boston\, MA 02215\, USA
+DESCRIPTION:Event Link: https://partiful.com/e/ye7HKz9LQhNVNxFRH5hg\nMarkit
+  Profile: https://markitai.com/u/jonathan\nStart: May 28\, 2026\, 7:00 PM\n
+ End: May 28\, 2026\, 8:00 PM\nLocation: 401 Park Dr\, Boston\, MA 02215\, U
+ SA\nEvent Type: External Without Data\nMarkit Event ID: MKjodFxUa
+URL:https://partiful.com/e/ye7HKz9LQhNVNxFRH5hg
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:zZtXN9I8f
+DTSTAMP:20260512T041440Z
+DTSTART:20260529T160000Z
+DTEND:20260529T180000Z
+SUMMARY:Boston Life Sciences Showcase: In Conversation with Mohan S. Iyer: 
+ From Genentech to IndieBio
+LOCATION:10 Prospect St\, Somerville\, MA 02143\, USA
+DESCRIPTION:Event Link: https://luma.com/fhcgrkpi\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: May 29\, 2026\, 12:00 PM\nEnd: May 29\, 202
+ 6\, 2:00 PM\nLocation: 10 Prospect St\, Somerville\, MA 02143\, USA\nEvent 
+ Type: External Without Data\nMarkit Event ID: zZtXN9I8f
+URL:https://luma.com/fhcgrkpi
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:TIzHE6RRC
+DTSTAMP:20260512T041440Z
+DTSTART:20260530T130000Z
+DTEND:20260530T210000Z
+SUMMARY:Hacking the Fourth Dimension with ASI at Fenway Park - #BOSTechWeek
+LOCATION:Boston\, MA\, USA
+DESCRIPTION:Event Link: https://partiful.com/e/5dBDeFo8TOIjJftLaGPF\nMarkit
+  Profile: https://markitai.com/u/jonathan\nStart: May 30\, 2026\, 9:00 AM\n
+ End: May 30\, 2026\, 5:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: Exte
+ rnal Without Data\nMarkit Event ID: TIzHE6RRC
+URL:https://partiful.com/e/5dBDeFo8TOIjJftLaGPF
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:DEJOKXnsj
+DTSTAMP:20260512T041440Z
+DTSTART:20260531T133000Z
+DTEND:20260601T020000Z
+SUMMARY:SundAI Hack & Learn #BostonTechWeek
+LOCATION:Cambridge\, MA\, USA
+DESCRIPTION:Event Link: https://partiful.com/e/ygDGE5ENT6Ipa57M17Rv\nMarkit
+  Profile: https://markitai.com/u/jonathan\nStart: May 31\, 2026\, 9:30 AM\n
+ End: May 31\, 2026\, 10:00 PM\nLocation: Cambridge\, MA\, USA\nEvent Type: 
+ External Without Data\nMarkit Event ID: DEJOKXnsj
+URL:https://partiful.com/e/ygDGE5ENT6Ipa57M17Rv
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:tYL6jJHBj
+DTSTAMP:20260512T041440Z
+DTSTART:20260603T223000Z
+DTEND:20260604T003000Z
+SUMMARY:AI Transformation Supper Club: AI Product Strategy --- Hosted by To
+ ast
+LOCATION:2 Winter Pl\, Boston\, MA 02108\, USA
+DESCRIPTION:Event Link: https://luma.com/of7q5gky\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Jun 3\, 2026\, 6:30 PM\nEnd: Jun 3\, 2026\,
+  8:30 PM\nLocation: 2 Winter Pl\, Boston\, MA 02108\, USA\nEvent Type: Exte
+ rnal Without Data\nMarkit Event ID: tYL6jJHBj
+URL:https://luma.com/of7q5gky
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:v2PslH26D
+DTSTAMP:20260512T041440Z
+DTSTART:20260604T210000Z
+DTEND:20260604T230000Z
+SUMMARY:Independence\, Engineered: Hardware for Aging Well
+LOCATION:53 State St 20th Floor\, Boston\, MA 02109\, USA
+DESCRIPTION:Event Link: https://luma.com/agetechboston060426\nMarkit Profil
+ e: https://markitai.com/u/jonathan\nStart: Jun 4\, 2026\, 5:00 PM\nEnd: Jun
+  4\, 2026\, 7:00 PM\nLocation: 53 State St 20th Floor\, Boston\, MA 02109\,
+  USA\nEvent Type: External Without Data\nMarkit Event ID: v2PslH26D
+URL:https://luma.com/agetechboston060426
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:uETsbUgGf
+DTSTAMP:20260512T041440Z
+DTSTART:20260604T213000Z
+DTEND:20260604T233000Z
+SUMMARY:June EnergyBar
+LOCATION:444 Somerville Ave\, Somerville\, MA 02143\, USA
+DESCRIPTION:Event Link: https://luma.com/osfnc0dy\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Jun 4\, 2026\, 5:30 PM\nEnd: Jun 4\, 2026\,
+  7:30 PM\nLocation: 444 Somerville Ave\, Somerville\, MA 02143\, USA\nEvent
+  Type: External Without Data\nMarkit Event ID: uETsbUgGf
+URL:https://luma.com/osfnc0dy
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:GayLN93k0
+DTSTAMP:20260512T041440Z
+DTSTART:20260608T213000Z
+DTEND:20260608T233000Z
+SUMMARY:Meet the Accelerators & Incubators of Boston's Startup Scene
+LOCATION:111 Huntington Ave 9th floor\, Boston\, MA 02199\, USA
+DESCRIPTION:Event Link: https://luma.com/vs5e87pz\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Jun 8\, 2026\, 5:30 PM\nEnd: Jun 8\, 2026\,
+  7:30 PM\nLocation: 111 Huntington Ave 9th floor\, Boston\, MA 02199\, USA\
+ nEvent Type: External Without Data\nMarkit Event ID: GayLN93k0
+URL:https://luma.com/vs5e87pz
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:w6ew-LSIw
+DTSTAMP:20260512T041440Z
+DTSTART:20260611T213000Z
+DTEND:20260612T003000Z
+SUMMARY:WHOOP: New to Boston Party
+LOCATION:One Kenmore Sq\, Boston\, MA 02215\, USA
+DESCRIPTION:Event Link: https://luma.com/3mpdhynb\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Jun 11\, 2026\, 5:30 PM\nEnd: Jun 11\, 2026
+ \, 8:30 PM\nLocation: One Kenmore Sq\, Boston\, MA 02215\, USA\nEvent Type:
+  External Without Data\nMarkit Event ID: w6ew-LSIw
+URL:https://luma.com/3mpdhynb
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:3Tp3Fq-Np
+DTSTAMP:20260512T041440Z
+DTSTART:20260728T220000Z
+DTEND:20260729T010000Z
+SUMMARY:Laracon After Party
+LOCATION:383 Dorchester Ave\, Boston\, MA 02127\, USA
+DESCRIPTION:Event Link: https://luma.com/x596untc\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Jul 28\, 2026\, 6:00 PM\nEnd: Jul 28\, 2026
+ \, 9:00 PM\nLocation: 383 Dorchester Ave\, Boston\, MA 02127\, USA\nEvent T
+ ype: External Without Data\nMarkit Event ID: 3Tp3Fq-Np
+URL:https://luma.com/x596untc
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:-Q_wqV_e5
-DTSTAMP:20260918T005517Z
+DTSTAMP:20260512T041440Z
 DTSTART:20261029T130000Z
 DTEND:20261029T210000Z
 SUMMARY:Boston Climatetech Summit 2026
@@ -780,85 +637,5 @@ DESCRIPTION:Event Link: https://luma.com/5s7vk0sy\nMarkit Profile: https://
  \, 5:00 PM\nLocation: 444 Somerville Ave\, Somerville\, MA 02143\, USA\nEve
  nt Type: External Without Data\nMarkit Event ID: -Q_wqV_e5
 URL:https://luma.com/5s7vk0sy
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:07LDTLQC3
-DTSTAMP:20260918T005517Z
-DTSTART:20261030T130000Z
-DTEND:20261030T220000Z
-SUMMARY:Minds in Motion: Physical AI Summit at MIT
-LOCATION:50 Memorial Dr\, Cambridge\, MA 02142\, USA
-DESCRIPTION:Event Link: https://imaginationinaction.co/2610mindsinmotion/ma
- in\nMarkit Profile: https://markitai.com/u/jonathan\nStart: Oct 30\, 2026\,
-  9:00 AM\nEnd: Oct 30\, 2026\, 6:00 PM\nLocation: 50 Memorial Dr\, Cambridg
- e\, MA 02142\, USA\nEvent Type: External Without Data\nMarkit Event ID: 07L
- DTLQC3
-URL:https://imaginationinaction.co/2610mindsinmotion/main
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:Po9qllPPs
-DTSTAMP:20260918T005517Z
-DTSTART:20261104T230000Z
-DTEND:20261105T010000Z
-SUMMARY:Inside WHOOP: A Fireside Chat with Will Ahmed & Harvard iLab
-LOCATION:Batten Hall\, 125 Western Ave\, Allston\, MA 02134\, USA
-DESCRIPTION:Event Link: https://massaicoalition.com/events\nMarkit Profile:
-  https://markitai.com/u/jonathan\nStart: Nov 4\, 2026\, 6:00 PM\nEnd: Nov 4
- \, 2026\, 8:00 PM\nLocation: Batten Hall\, 125 Western Ave\, Allston\, MA 0
- 2134\, USA\nEvent Type: External Without Data\nMarkit Event ID: Po9qllPPs
-URL:https://massaicoalition.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:80dqpCr73
-DTSTAMP:20260918T005517Z
-DTSTART:20261105T180000Z
-DTEND:20261105T230000Z
-SUMMARY:Boston's Applied AI Talent Revolution
-LOCATION:Boston\, MA\, USA
-DESCRIPTION:Event Link: https://luma.com/ceznwqz3\nMarkit Profile: https://
- markitai.com/u/jonathan\nStart: Nov 5\, 2026\, 1:00 PM\nEnd: Nov 5\, 2026\,
-  6:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: External Without Data\nM
- arkit Event ID: 80dqpCr73
-URL:https://luma.com/ceznwqz3
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:cnqkrPSJj
-DTSTAMP:20260918T005517Z
-DTSTART:20261112T180000Z
-DTEND:20261112T223000Z
-SUMMARY:Boston AI Showcase (Mass AI Coalition x SVB)
-LOCATION:Boston\, MA\, USA
-DESCRIPTION:Event Link: https://massaicoalition.com/events\nMarkit Profile:
-  https://markitai.com/u/jonathan\nStart: Nov 12\, 2026\, 1:00 PM\nEnd: Nov 
- 12\, 2026\, 5:30 PM\nLocation: Boston\, MA\, USA\nEvent Type: External With
- out Data\nMarkit Event ID: cnqkrPSJj
-URL:https://massaicoalition.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:rmCFBfPI6
-DTSTAMP:20260918T005517Z
-DTSTART:20261211T230000Z
-DTEND:20261212T020000Z
-SUMMARY:The Mass AI Coalition Holiday Spectacular: A Very Merry Boston Tea 
- Party
-LOCATION:Boston\, MA\, USA
-DESCRIPTION:Event Link: https://massaicoalition.com/events\nMarkit Profile:
-  https://markitai.com/u/jonathan\nStart: Dec 11\, 2026\, 6:00 PM\nEnd: Dec 
- 11\, 2026\, 9:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: External With
- out Data\nMarkit Event ID: rmCFBfPI6
-URL:https://massaicoalition.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:markit:ENFp0uiUxd
-DTSTAMP:20260918T005517Z
-DTSTART:20270120T140000Z
-DTEND:20270121T220000Z
-SUMMARY:Propel Summit 2027
-LOCATION:Commonwealth Ave\, Boston\, MA 02215\, USA
-DESCRIPTION:Event Link: https://propelsummit.ai\nMarkit Profile: https://ma
- rkitai.com/u/jonathan\nStart: Jan 20\, 2027\, 9:00 AM\nEnd: Jan 21\, 2027\,
-  5:00 PM\nLocation: Commonwealth Ave\, Boston\, MA 02215\, USA\nEvent Type:
-  External Without Data\nMarkit Event ID: ENFp0uiUxd
-URL:https://propelsummit.ai
 END:VEVENT
 END:VCALENDAR
