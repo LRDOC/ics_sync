@@ -45,7 +45,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-09-30T21:30:00.000Z",
       "firstSeenAt": "2026-09-21T04:30:15.782Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "Fort Point Channel, 64 Sleeper St, Boston, MA 02210, USA",
       "missingSince": null,
       "sourceId": "sxZRGez91",
@@ -57,7 +57,7 @@
       "summary": "AI Founders & Investors Happy Hour",
       "timezone": "America/New_York",
       "uid": "markit:sxZRGez91",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -65,7 +65,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-09-30T23:00:00.000Z",
       "firstSeenAt": "2026-09-21T05:44:53.797Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "21 Brattle Square, Cambridge, MA 02138, USA",
       "missingSince": null,
       "sourceId": "tJleHpp6u",
@@ -77,7 +77,7 @@
       "summary": "Lab to Launch: Rooftop Edition",
       "timezone": "America/Detroit",
       "uid": "markit:tJleHpp6u",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -85,7 +85,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-09-30T22:00:00.000Z",
       "firstSeenAt": "2026-09-21T05:23:44.369Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "150 Western Ave, Boston, MA 02134, USA",
       "missingSince": null,
       "sourceId": "YXpZVP0pv",
@@ -97,7 +97,7 @@
       "summary": "Venturing@Harvard",
       "timezone": "America/Detroit",
       "uid": "markit:YXpZVP0pv",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -105,7 +105,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-01T00:00:00.000Z",
       "firstSeenAt": "2026-09-21T05:23:44.369Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "1105 Massachusetts Ave, Cambridge, MA 02138, USA",
       "missingSince": null,
       "sourceId": "rdGynuqLz",
@@ -117,7 +117,7 @@
       "summary": "Building What’s Next in AI x Healthcare",
       "timezone": "America/New_York",
       "uid": "markit:rdGynuqLz",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -125,7 +125,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-09-30T23:30:00.000Z",
       "firstSeenAt": "2026-09-28T05:47:32.373Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "4 MA-3, Cambridge, MA 02142, USA",
       "missingSince": null,
       "sourceId": "dkfNcezAm",
@@ -137,7 +137,7 @@
       "summary": "Building the Future of Deep Tech: A Fireside Chat",
       "timezone": "America/New_York",
       "uid": "markit:dkfNcezAm",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -145,7 +145,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-01T01:00:00.000Z",
       "firstSeenAt": "2026-09-14T01:37:27.296Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "134 Memorial Dr, Cambridge, MA 02139, USA",
       "missingSince": null,
       "sourceId": "I8e5uFa3H",
@@ -157,7 +157,7 @@
       "summary": "STRIV Launch Party @MIT Sailing Pavilion",
       "timezone": "America/New_York",
       "uid": "markit:I8e5uFa3H",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -165,7 +165,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-01T01:30:00.000Z",
       "firstSeenAt": "2026-09-21T16:01:49.774Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "51 Franklin St, Boston, MA 02110, USA",
       "missingSince": null,
       "sourceId": "P1ZFfyIen",
@@ -177,7 +177,7 @@
       "summary": "Pitch Lift 100k Reality Gameshow: Round 6",
       "timezone": "America/New_York",
       "uid": "markit:P1ZFfyIen",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -185,7 +185,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-01T00:00:00.000Z",
       "firstSeenAt": "2026-08-31T23:50:52.502Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "Boston, MA, USA",
       "missingSince": null,
       "sourceId": "mflLmBsEj",
@@ -197,7 +197,7 @@
       "summary": "Founder Dinner Series: Gunderson Dettmer",
       "timezone": "America/New_York",
       "uid": "markit:mflLmBsEj",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -205,7 +205,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-02T01:00:00.000Z",
       "firstSeenAt": "2026-09-07T17:18:46.095Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "15 Necco St, Boston, MA 02210, USA",
       "missingSince": null,
       "sourceId": "Zxnte5ABj",
@@ -217,7 +217,7 @@
       "summary": "The Data, Tech, and Opportunities Driving a New Era of Women's Health",
       "timezone": "America/New_York",
       "uid": "markit:Zxnte5ABj",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -225,7 +225,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-02T01:00:00.000Z",
       "firstSeenAt": "2026-09-21T05:02:03.079Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "22 McGrath Hwy, Somerville, MA 02143, USA",
       "missingSince": null,
       "sourceId": "D4dUN-pjx",
@@ -237,7 +237,7 @@
       "summary": "65th Boston Hardware Meetup @ Formlabs",
       "timezone": "America/New_York",
       "uid": "markit:D4dUN-pjx",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -245,7 +245,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-02T01:00:00.000Z",
       "firstSeenAt": "2026-08-04T01:31:08.579Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "One Kenmore Sq, Boston, MA 02215, USA",
       "missingSince": null,
       "sourceId": "U8nzdoCeS",
@@ -257,7 +257,7 @@
       "summary": "Mass AI Coalition: College Night",
       "timezone": "America/New_York",
       "uid": "markit:U8nzdoCeS",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -265,7 +265,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-02T23:00:34.000Z",
       "firstSeenAt": "2026-09-28T06:03:58.178Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "One Burlington Mall Road, Burlington, MA 01803, USA",
       "missingSince": null,
       "sourceId": "Pz8W1T3vmST",
@@ -277,7 +277,7 @@
       "summary": "TiECON East 2026 (TiE Boston + TiE New York)",
       "timezone": "America/Detroit",
       "uid": "markit:Pz8W1T3vmST",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -285,7 +285,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-02T21:00:00.000Z",
       "firstSeenAt": "2026-09-07T17:18:46.095Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "425 Massachusetts Ave, Cambridge, MA 02139, USA",
       "missingSince": null,
       "sourceId": "jl8gjMh8-",
@@ -297,7 +297,7 @@
       "summary": "Builders & Brews Boston",
       "timezone": "America/New_York",
       "uid": "markit:jl8gjMh8-",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -305,7 +305,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-03T00:00:00.000Z",
       "firstSeenAt": "2026-09-07T17:18:46.095Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "Anderson Hall, Medford, MA 02155, USA",
       "missingSince": null,
       "sourceId": "z7OcU82Ia",
@@ -317,7 +317,7 @@
       "summary": "Cross University Innovations Mixer (Startup Boston)",
       "timezone": "America/New_York",
       "uid": "markit:z7OcU82Ia",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -325,7 +325,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-06T21:00:00.000Z",
       "firstSeenAt": "2026-08-10T04:55:24.725Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "Boston, MA, USA",
       "missingSince": null,
       "sourceId": "jXlBD5gKac",
@@ -337,7 +337,7 @@
       "summary": "TEDx Boston: Unlocking Longevity",
       "timezone": "America/New_York",
       "uid": "markit:jXlBD5gKac",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -345,7 +345,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-07T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T01:56:29.615Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "530 Western Ave, Boston, MA 02135, USA",
       "missingSince": null,
       "sourceId": "_weO0c9Pu",
@@ -357,7 +357,7 @@
       "summary": "AI on Tap: Founders × Funders",
       "timezone": "America/New_York",
       "uid": "markit:_weO0c9Pu",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -365,7 +365,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-08T00:00:00.000Z",
       "firstSeenAt": "2026-09-01T00:05:20.931Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "Boston, MA, USA",
       "missingSince": null,
       "sourceId": "rnsq76kWJ",
@@ -377,7 +377,7 @@
       "summary": "Founder Dinner Series: J.P. Morgan",
       "timezone": "America/New_York",
       "uid": "markit:rnsq76kWJ",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -385,7 +385,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-21T15:00:00.000Z",
       "firstSeenAt": "2026-09-29T08:02:45.210Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "89-83 Franklin St, Boston, MA 02110, USA",
       "missingSince": null,
       "sourceId": "dgc1icgt7",
@@ -397,7 +397,7 @@
       "summary": "Breakfast for Consumer Founders & Investors",
       "timezone": "America/New_York",
       "uid": "markit:dgc1icgt7",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -405,7 +405,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-22T00:00:00.000Z",
       "firstSeenAt": "2026-09-01T00:05:20.931Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "Boston, MA, USA",
       "missingSince": null,
       "sourceId": "-ebbXumwv",
@@ -417,7 +417,7 @@
       "summary": "Founder Dinner Series: Fenwick (Oct 21)",
       "timezone": "America/New_York",
       "uid": "markit:-ebbXumwv",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -425,7 +425,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-23T00:00:00.000Z",
       "firstSeenAt": "2026-08-18T00:59:35.045Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "50 Terminal St, Charlestown, MA 02129, USA",
       "missingSince": null,
       "sourceId": "TsuMncn-o",
@@ -437,7 +437,7 @@
       "summary": "Party Mode: AI Coalition @ Reservoir HQ",
       "timezone": "America/New_York",
       "uid": "markit:TsuMncn-o",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -445,7 +445,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-23T00:00:00.000Z",
       "firstSeenAt": "2026-08-31T22:35:57.645Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "500-530 Boylston St, Boston, MA 02116, USA",
       "missingSince": null,
       "sourceId": "ZSL621WYA",
@@ -457,7 +457,7 @@
       "summary": "Building Agents with Vercel & Jellyfish",
       "timezone": "America/New_York",
       "uid": "markit:ZSL621WYA",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -465,7 +465,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-23T00:00:00.000Z",
       "firstSeenAt": "2026-09-21T06:47:12.862Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "Boston, MA, USA",
       "missingSince": null,
       "sourceId": "i-Q0Hj6Br",
@@ -477,7 +477,7 @@
       "summary": "Founders Room: Angels Putting Dollars to Work",
       "timezone": "America/Detroit",
       "uid": "markit:i-Q0Hj6Br",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -485,7 +485,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-23T22:30:00.000Z",
       "firstSeenAt": "2026-09-14T01:37:27.296Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "77 Massachusetts Ave, Cambridge, MA 02139, USA",
       "missingSince": null,
       "sourceId": "f37d-x1FV",
@@ -497,7 +497,7 @@
       "summary": "ARC Prize Research Summit 2026",
       "timezone": "America/New_York",
       "uid": "markit:f37d-x1FV",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -505,7 +505,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-24T22:00:00.000Z",
       "firstSeenAt": "2026-09-01T01:06:34.369Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "Boston, MA, USA",
       "missingSince": null,
       "sourceId": "H7DEMiRWo",
@@ -517,7 +517,7 @@
       "summary": "Hackachusetts",
       "timezone": "America/New_York",
       "uid": "markit:H7DEMiRWo",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -525,7 +525,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-26T20:30:00.000Z",
       "firstSeenAt": "2026-09-28T05:54:42.642Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "10 Prospect St, Somerville, MA 02143, USA",
       "missingSince": null,
       "sourceId": "d-hXzb_4r",
@@ -537,7 +537,7 @@
       "summary": "Boston Hard Tech Summit",
       "timezone": "America/New_York",
       "uid": "markit:d-hXzb_4r",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -545,7 +545,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-28T18:00:00.000Z",
       "firstSeenAt": "2026-09-14T01:37:27.296Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "750 Main St, Cambridge, MA 02139, USA",
       "missingSince": null,
       "sourceId": "4pRUBxVQa",
@@ -557,7 +557,7 @@
       "summary": "Tough Tech Demo Day",
       "timezone": "America/New_York",
       "uid": "markit:4pRUBxVQa",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -565,7 +565,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-29T00:00:00.000Z",
       "firstSeenAt": "2026-09-21T06:04:02.706Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "Boston, MA, USA",
       "missingSince": null,
       "sourceId": "1IZd5xcaa",
@@ -577,13 +577,13 @@
       "summary": "Founder Dinner Series: Orrick",
       "timezone": "America/Detroit",
       "uid": "markit:1IZd5xcaa",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
       "endsAt": "2026-10-29T21:00:00.000Z",
       "firstSeenAt": "2026-05-12T03:50:34.298Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "444 Somerville Ave, Somerville, MA 02143, USA",
       "missingSince": null,
       "sourceId": "-Q_wqV_e5",
@@ -594,7 +594,7 @@
       "summary": "Boston Climatetech Summit 2026",
       "timezone": "America/New_York",
       "uid": "markit:-Q_wqV_e5",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": "",
       "categories": [],
       "eventType": "External Without Data",
@@ -605,7 +605,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-29T23:30:00.000Z",
       "firstSeenAt": "2026-09-28T05:54:42.642Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "35 Temple Pl, Boston, MA 02111, USA",
       "missingSince": null,
       "sourceId": "fY-4q5zMb",
@@ -617,7 +617,7 @@
       "summary": "n8n's Autom8 Boston",
       "timezone": "America/New_York",
       "uid": "markit:fY-4q5zMb",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -625,7 +625,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-10-30T22:00:00.000Z",
       "firstSeenAt": "2026-08-18T01:34:32.327Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "50 Memorial Dr, Cambridge, MA 02142, USA",
       "missingSince": null,
       "sourceId": "07LDTLQC3",
@@ -637,7 +637,7 @@
       "summary": "Minds in Motion: Physical AI Summit at MIT",
       "timezone": "America/New_York",
       "uid": "markit:07LDTLQC3",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -645,7 +645,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-11-05T01:00:00.000Z",
       "firstSeenAt": "2026-09-01T01:06:34.369Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "Batten Hall, 125 Western Ave, Allston, MA 02134, USA",
       "missingSince": null,
       "sourceId": "Po9qllPPs",
@@ -657,7 +657,7 @@
       "summary": "Inside WHOOP: A Fireside Chat with Will Ahmed & Harvard iLab",
       "timezone": "America/New_York",
       "uid": "markit:Po9qllPPs",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -665,7 +665,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-11-05T23:00:00.000Z",
       "firstSeenAt": "2026-08-18T00:59:35.045Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "Boston, MA, USA",
       "missingSince": null,
       "sourceId": "80dqpCr73",
@@ -677,7 +677,7 @@
       "summary": "Boston's Applied AI Talent Revolution",
       "timezone": "America/New_York",
       "uid": "markit:80dqpCr73",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -685,7 +685,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-11-11T01:00:34.000Z",
       "firstSeenAt": "2026-09-28T06:03:58.178Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "Boston, MA, USA",
       "missingSince": null,
       "sourceId": "ah3eeyFE9v9",
@@ -697,7 +697,7 @@
       "summary": "Founder Dinner Series: Goodwin",
       "timezone": "America/Detroit",
       "uid": "markit:ah3eeyFE9v9",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -705,7 +705,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-11-12T22:30:00.000Z",
       "firstSeenAt": "2026-08-24T16:42:42.413Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "Boston, MA, USA",
       "missingSince": null,
       "sourceId": "cnqkrPSJj",
@@ -717,7 +717,7 @@
       "summary": "Boston AI Showcase (Mass AI Coalition x SVB)",
       "timezone": "America/New_York",
       "uid": "markit:cnqkrPSJj",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -725,7 +725,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-11-14T03:00:00.000Z",
       "firstSeenAt": "2026-09-21T05:23:44.369Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "40 Ames St, Cambridge, MA 02142, USA",
       "missingSince": null,
       "sourceId": "InNCdzXXw",
@@ -737,7 +737,7 @@
       "summary": "MIT Energy & Climate Night",
       "timezone": "America/New_York",
       "uid": "markit:InNCdzXXw",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -745,7 +745,7 @@
       "eventType": "External Without Data",
       "endsAt": "2026-12-18T02:00:52.000Z",
       "firstSeenAt": "2026-09-01T01:06:34.369Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "Boston, MA, USA",
       "missingSince": null,
       "sourceId": "rmCFBfPI6",
@@ -757,7 +757,7 @@
       "summary": "The Boston Holiday Party",
       "timezone": "America/New_York",
       "uid": "markit:rmCFBfPI6",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     },
     {
@@ -765,7 +765,7 @@
       "eventType": "External Without Data",
       "endsAt": "2027-01-21T22:00:00.000Z",
       "firstSeenAt": "2026-08-31T23:25:46.897Z",
-      "lastSeenAt": "2026-10-01T16:02:10.928Z",
+      "lastSeenAt": "2026-10-01T16:24:46.287Z",
       "location": "Commonwealth Ave, Boston, MA 02215, USA",
       "missingSince": null,
       "sourceId": "ENFp0uiUxd",
@@ -777,12 +777,12 @@
       "summary": "Propel Summit 2027",
       "timezone": "America/New_York",
       "uid": "markit:ENFp0uiUxd",
-      "updatedAt": "2026-10-01T16:02:10.928Z",
+      "updatedAt": "2026-10-01T16:24:46.287Z",
       "description": ""
     }
   ],
   "feedName": "jonathan-boston",
-  "generatedAt": "2026-10-01T16:02:10.928Z",
+  "generatedAt": "2026-10-01T16:24:46.287Z",
   "profile": {
     "fullName": "Jonathan Chang",
     "profileUrl": "https://markitai.com/u/jonathan",
