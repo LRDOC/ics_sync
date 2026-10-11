@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Movie Release Dates
 BEGIN:VEVENT
 UID:tmdb:1153576
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Street Fighter — In Theatres
@@ -21,7 +21,7 @@ URL:https://www.streetfightermovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1255833
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Whalefall — In Theatres
@@ -35,7 +35,7 @@ URL:https://www.20thcenturystudios.com/movies/whalefall
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1765072
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:You Can See Everything — In Theatres
@@ -49,7 +49,22 @@ URL:https://a24films.com/films/you-can-see-everything
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1561726
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Masterplan — In Theatres
+DESCRIPTION:Movie: Masterplan\nRuntime: Unknown\nDirector: Thomas Vincent\n
+ Genre: Action\, Crime\, Thriller\n\nWhen a legendary thief sets his sights 
+ on the Mona Lisa\, he recruits two young strangers to help him before revea
+ ling they are long-lost siblings… and oh yes\, by the way\, he is their fat
+ her. Thrown into a chaotic reunion they never asked for\, this new family m
+ ust learn to work together — and try not to kill each other — if they want 
+ any chance at pulling off the heist of the century.
+URL:https://www.themoviedb.org/movie/1561726
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1561726
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Masterplan — In Theatres
@@ -64,7 +79,7 @@ URL:https://www.themoviedb.org/movie/1561726
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1783196
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Green Grass — In Theatres
@@ -81,7 +96,7 @@ URL:https://www.themoviedb.org/movie/1783196
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400940
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Clayface — In Theatres
@@ -97,7 +112,7 @@ URL:https://www.clayfacemovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:791523
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Wildwood — In Theatres
@@ -111,7 +126,7 @@ URL:https://wildwoodmovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1195803
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Wicker — In Theatres
@@ -126,10 +141,11 @@ URL:https://www.blackbearpictures.com/film-and-tv/wicker
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1727734
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Ali G: Who Iz I? — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Ali G: Who Iz I?\nRuntime: 89 min\nDirector: Sacha Baron
   Cohen\nGenre: Comedy\nRating: R\n\nAfter twenty years spent "chillin'\, to
  kin' and bonin'"\, Ali G is shocked to discover that his long-term girlfrie
@@ -140,21 +156,8 @@ DESCRIPTION:Movie: Ali G: Who Iz I?\nRuntime: 89 min\nDirector: Sacha Baron
 URL:https://www.amazon.com/salp/aligwhoizi?hhf
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:1628116
-DTSTAMP:20261011T142652Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:BTS: THE RETURN — In Theatres
-STATUS:CANCELLED
-DESCRIPTION:Movie: BTS: THE RETURN\nRuntime: 93 min\nDirector: Bao Nguyen\n
- Genre: Documentary\, Music\n\nThey're back! BTS gathers in LA to record the
- ir album "Arirang" in this documentary offering unprecedented access to the
-  band as they enter a new era.
-URL:https://www.netflix.com/title/82158609
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb:1294189
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:The Mongoose — In Theatres
@@ -167,7 +170,7 @@ URL:https://www.themoviedb.org/movie/1294189
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1117898
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:The Cat in the Hat — In Theatres
@@ -181,7 +184,7 @@ URL:https://www.catinthehatfilm.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:891621
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Wild Horse Nine — In Theatres
@@ -196,7 +199,7 @@ URL:https://www.searchlightpictures.com/wild-horse-nine
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1585239
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Club Kid — In Theatres
@@ -208,7 +211,7 @@ URL:https://a24films.com/films/club-kid
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1562642
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Ghost Soldier — In Theatres
@@ -224,22 +227,8 @@ DESCRIPTION:Movie: Ghost Soldier\nRuntime: Unknown\nDirector: William Euban
 URL:https://ghostsoldier.movie
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:1131943
-DTSTAMP:20261011T142652Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Madden — In Theatres
-STATUS:CANCELLED
-DESCRIPTION:Movie: Madden\nRuntime: Unknown\nDirector: David O. Russell\nGe
- nre: Drama\, History\nRating: R\n\nChronicles John Madden's incredible jour
- ney alongside best friend and true original Al Davis—from a Super Bowl-winn
- ing partnership with the Raiders\, to becoming football’s most recognizable
-  voice\, to building the worldwide Madden NFL video game.
-URL:https://www.themoviedb.org/movie/1131943
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb:1567605
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Ebenezer — In Theatres
@@ -252,7 +241,7 @@ URL:https://www.ebenezermovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1437511
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:How to Rob a Bank — In Theatres
@@ -267,7 +256,7 @@ URL:https://www.amazon.com/salp/howtorobabank?hhf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1379486
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Victorian Psycho — In Theatres
@@ -280,7 +269,7 @@ URL:https://bleeckerstreetmedia.com/victorian-psycho
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1300968
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise on the Reaping — In Theatres
@@ -293,7 +282,7 @@ URL:https://hungergames.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1286656
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:I Play Rocky — In Theatres
@@ -307,7 +296,7 @@ URL:https://www.amazon.com/salp/iplayrocky?hhf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1381273
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Paper Tiger — In Theatres
@@ -320,7 +309,7 @@ URL:https://www.neonrated.com/film/paper-tiger
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1595124
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Steps — In Theatres
@@ -336,7 +325,7 @@ URL:https://www.netflix.com/title/81212809
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1538497
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Hexed — In Theatres
@@ -351,7 +340,7 @@ URL:https://movies.disney.com/hexed
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1457866
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH — In Theatres
@@ -366,7 +355,7 @@ URL:https://www.netflix.com/title/82054606
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400336
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Focker-in-Law — In Theatres
@@ -378,7 +367,7 @@ URL:https://www.universalpictures.com/movies/focker-in-law/
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1078446
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Violent Night 2 — In Theatres
@@ -394,10 +383,11 @@ URL:https://www.violentnightmovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1736335
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Gods Don't Give Gifts — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Gods Don't Give Gifts\nRuntime: 104 min\nDirector: Zack 
  London\nGenre: Science Fiction\n\n"Gods Don't Give Gifts" traces the fallou
  t of humanity besting earthly limitations like death and memory through tec
@@ -405,22 +395,8 @@ DESCRIPTION:Movie: Gods Don't Give Gifts\nRuntime: 104 min\nDirector: Zack
 URL:https://godsdontgivegifts.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:940009
-DTSTAMP:20261011T142652Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Ray Gunn — In Theatres
-STATUS:CANCELLED
-DESCRIPTION:Movie: Ray Gunn\nRuntime: 119 min\nDirector: Brad Bird\nGenre: 
- Animation\, Science Fiction\, Crime\, Mystery\nRating: PG\n\nIn Metropia\, 
- a gigantic city in an alternate future as seen from 1939\, private eye Raym
- ond Gunn is drawn into a case involving aliens\, murder and a multimedia st
- ar named Venus Nova.
-URL:https://www.netflix.com/title/81756797
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb:1389765
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Batman: Knightfall Part 2: Knightquest — In Theatres
@@ -435,7 +411,7 @@ URL:https://www.warnerbros.com/movies/batman-knightfall-part-2-knightquest
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1391239
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:The Debut — In Theatres
@@ -449,7 +425,7 @@ URL:https://a24films.com/films/the-debut
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1408207
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Zero A.D: The Birth of Christ — In Theatres
@@ -461,7 +437,7 @@ URL:https://www.angel.com/movies/zero-ad
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1003596
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday — In Theatres
@@ -473,7 +449,7 @@ URL:https://www.marvel.com/movies/avengers-doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1170608
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three — In Theatres
@@ -490,7 +466,7 @@ URL:https://www.dunemovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1300926
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:The Angry Birds Movie 3 — In Theatres
@@ -501,7 +477,7 @@ URL:https://www.angrybirds.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1260649
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Jumanji: Open World — In Theatres
@@ -514,7 +490,7 @@ URL:https://jumanji.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1492198
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Artificial — In Theatres
@@ -529,7 +505,7 @@ URL:https://www.neonrated.com/film/artificial
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1372443
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Mr. Irrelevant — In Theatres
@@ -543,7 +519,7 @@ URL:https://www.mrirrelevant.film
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1421903
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Werwulf — In Theatres
@@ -554,7 +530,7 @@ URL:https://www.focusfeatures.com/werwulf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1421903
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Werwulf — In Theatres
@@ -565,10 +541,11 @@ URL:https://www.focusfeatures.com/werwulf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1726776
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:3rd FLOOR — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: 3rd FLOOR\nRuntime: 130 min\nDirector: Abassi Okoro\nGen
  re: Drama\n\nA routine elevator ride becomes a battlefield when Maya Uche\,
   a Black activist\, and Brett Kiminski\, a white conservative\, are trapped
@@ -579,7 +556,7 @@ URL:http://www.okorofilms.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1384758
-DTSTAMP:20261011T142652Z
+DTSTAMP:20261011T162829Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Ice Age: Boiling Point — In Theatres
