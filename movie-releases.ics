@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Movie Release Dates
 BEGIN:VEVENT
 UID:tmdb:1153576
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Street Fighter — In Theatres
@@ -21,7 +21,7 @@ URL:https://www.streetfightermovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1255833
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Whalefall — In Theatres
@@ -35,7 +35,7 @@ URL:https://www.20thcenturystudios.com/movies/whalefall
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1765072
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:You Can See Everything — In Theatres
@@ -49,7 +49,7 @@ URL:https://a24films.com/films/you-can-see-everything
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1561726
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Masterplan — In Theatres
@@ -64,7 +64,7 @@ URL:https://www.themoviedb.org/movie/1561726
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1561726
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Masterplan — In Theatres
@@ -79,7 +79,7 @@ URL:https://www.themoviedb.org/movie/1561726
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1783196
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Green Grass — In Theatres
@@ -96,7 +96,7 @@ URL:https://www.themoviedb.org/movie/1783196
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400940
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Clayface — In Theatres
@@ -111,22 +111,8 @@ DESCRIPTION:Movie: Clayface\nRuntime: 108 min\nDirector: James Watkins\nGen
 URL:https://www.clayfacemovie.com
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:791523
-DTSTAMP:20261011T162829Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Wildwood — In Theatres
-DESCRIPTION:Movie: Wildwood\nRuntime: 131 min\nDirector: Travis Knight\nGen
- re: Animation\, Adventure\, Fantasy\nRating: PG-13\n\nPrue and her classmat
- e Curtis are drawn into a magical forest filled with enchanted creatures\, 
- loyal allies\, and formidable adversaries as they embark on a desperate que
- st to rescue Prue’s abducted baby brother from a murder of crows led by a m
- ysterious woman named Alexandra.
-URL:https://wildwoodmovie.com
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb:1195803
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Wicker — In Theatres
@@ -140,24 +126,22 @@ DESCRIPTION:Movie: Wicker\nRuntime: 105 min\nDirector: Eleanor Wilson\, Ale
 URL:https://www.blackbearpictures.com/film-and-tv/wicker
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:1727734
-DTSTAMP:20261011T162829Z
+UID:tmdb:791523
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Ali G: Who Iz I? — In Theatres
-STATUS:CANCELLED
-DESCRIPTION:Movie: Ali G: Who Iz I?\nRuntime: 89 min\nDirector: Sacha Baron
-  Cohen\nGenre: Comedy\nRating: R\n\nAfter twenty years spent "chillin'\, to
- kin' and bonin'"\, Ali G is shocked to discover that his long-term girlfrie
- nd\, Julie\, is 8 months pregnant. Faced with an extra mouth to feed\, he g
- ets off his batty and heads to America to reclaim his former glory… but soo
- n encounters adversaries who will ultimately threaten his and his child's v
- ery existence.
-URL:https://www.amazon.com/salp/aligwhoizi?hhf
+SUMMARY:Wildwood — In Theatres
+DESCRIPTION:Movie: Wildwood\nRuntime: 131 min\nDirector: Travis Knight\nGen
+ re: Animation\, Adventure\, Fantasy\nRating: PG-13\n\nPrue and her classmat
+ e Curtis are drawn into a magical forest filled with enchanted creatures\, 
+ loyal allies\, and formidable adversaries as they embark on a desperate que
+ st to rescue Prue’s abducted baby brother from a murder of crows led by a m
+ ysterious woman named Alexandra.
+URL:https://wildwoodmovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1294189
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:The Mongoose — In Theatres
@@ -170,7 +154,7 @@ URL:https://www.themoviedb.org/movie/1294189
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1117898
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:The Cat in the Hat — In Theatres
@@ -184,7 +168,7 @@ URL:https://www.catinthehatfilm.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:891621
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Wild Horse Nine — In Theatres
@@ -199,7 +183,7 @@ URL:https://www.searchlightpictures.com/wild-horse-nine
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1585239
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Club Kid — In Theatres
@@ -211,7 +195,7 @@ URL:https://a24films.com/films/club-kid
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1562642
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Ghost Soldier — In Theatres
@@ -228,7 +212,7 @@ URL:https://ghostsoldier.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1567605
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Ebenezer — In Theatres
@@ -241,7 +225,7 @@ URL:https://www.ebenezermovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1437511
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:How to Rob a Bank — In Theatres
@@ -256,7 +240,20 @@ URL:https://www.amazon.com/salp/howtorobabank?hhf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1379486
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Victorian Psycho — In Theatres
+DESCRIPTION:Movie: Victorian Psycho\nRuntime: 102 min\nDirector: Zachary Wi
+ gon\nGenre: Horror\, Thriller\nRating: R\n\nWhen eccentric young governess 
+ Winifred Notty arrives at a remote Gothic manor\, a string of unsettling ev
+ ents leads the household to suspect she isn't who she claims to be—but the 
+ truth may be far more dangerous than they imagine.
+URL:https://bleeckerstreetmedia.com/victorian-psycho
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1379486
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Victorian Psycho — In Theatres
@@ -269,7 +266,7 @@ URL:https://bleeckerstreetmedia.com/victorian-psycho
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1300968
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise on the Reaping — In Theatres
@@ -282,7 +279,7 @@ URL:https://hungergames.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1286656
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:I Play Rocky — In Theatres
@@ -296,7 +293,20 @@ URL:https://www.amazon.com/salp/iplayrocky?hhf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1381273
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Paper Tiger — In Theatres
+DESCRIPTION:Movie: Paper Tiger\nRuntime: 115 min\nDirector: James Gray\nGen
+ re: Crime\, Drama\, Thriller\nRating: R\n\nTwo brothers become entangled in
+  a scheme that turns out to be too good to be true. As they try to navigate
+  their way through the dangerous world of the Russian mafia\, family bonds 
+ begin to fray with life-altering consequences.
+URL:https://www.neonrated.com/film/paper-tiger
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1381273
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Paper Tiger — In Theatres
@@ -309,7 +319,7 @@ URL:https://www.neonrated.com/film/paper-tiger
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1595124
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Steps — In Theatres
@@ -325,7 +335,7 @@ URL:https://www.netflix.com/title/81212809
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1538497
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Hexed — In Theatres
@@ -340,7 +350,7 @@ URL:https://movies.disney.com/hexed
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1457866
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH — In Theatres
@@ -355,7 +365,7 @@ URL:https://www.netflix.com/title/82054606
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400336
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Focker-in-Law — In Theatres
@@ -366,8 +376,21 @@ DESCRIPTION:Movie: Focker-in-Law\nRuntime: 105 min\nDirector: John Hamburg\
 URL:https://www.universalpictures.com/movies/focker-in-law/
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:940009
+DTSTAMP:20261011T183131Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Ray Gunn — In Theatres
+DESCRIPTION:Movie: Ray Gunn\nRuntime: 119 min\nDirector: Brad Bird\nGenre: 
+ Animation\, Science Fiction\, Crime\, Mystery\nRating: PG\n\nIn Metropia\, 
+ a gigantic city in an alternate future as seen from 1939\, private eye Raym
+ ond Gunn is drawn into a case involving aliens\, murder and a multimedia st
+ ar named Venus Nova.
+URL:https://www.netflix.com/title/81756797
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1078446
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Violent Night 2 — In Theatres
@@ -382,21 +405,8 @@ DESCRIPTION:Movie: Violent Night 2\nRuntime: Unknown\nDirector: Tommy Wirko
 URL:https://www.violentnightmovie.com
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:1736335
-DTSTAMP:20261011T162829Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Gods Don't Give Gifts — In Theatres
-STATUS:CANCELLED
-DESCRIPTION:Movie: Gods Don't Give Gifts\nRuntime: 104 min\nDirector: Zack 
- London\nGenre: Science Fiction\n\n"Gods Don't Give Gifts" traces the fallou
- t of humanity besting earthly limitations like death and memory through tec
- hnology and how it grapples with humanity as a result.
-URL:https://godsdontgivegifts.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb:1389765
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Batman: Knightfall Part 2: Knightquest — In Theatres
@@ -411,7 +421,7 @@ URL:https://www.warnerbros.com/movies/batman-knightfall-part-2-knightquest
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1391239
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:The Debut — In Theatres
@@ -425,7 +435,7 @@ URL:https://a24films.com/films/the-debut
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1408207
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Zero A.D: The Birth of Christ — In Theatres
@@ -437,7 +447,7 @@ URL:https://www.angel.com/movies/zero-ad
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1003596
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday — In Theatres
@@ -449,7 +459,7 @@ URL:https://www.marvel.com/movies/avengers-doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1170608
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three — In Theatres
@@ -466,7 +476,7 @@ URL:https://www.dunemovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1300926
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:The Angry Birds Movie 3 — In Theatres
@@ -477,7 +487,7 @@ URL:https://www.angrybirds.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1260649
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Jumanji: Open World — In Theatres
@@ -490,7 +500,7 @@ URL:https://jumanji.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1492198
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Artificial — In Theatres
@@ -504,11 +514,23 @@ DESCRIPTION:Movie: Artificial\nRuntime: 140 min\nDirector: Luca Guadagnino\
 URL:https://www.neonrated.com/film/artificial
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1421903
+DTSTAMP:20261011T183131Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Werwulf — In Theatres
+DESCRIPTION:Movie: Werwulf\nRuntime: Unknown\nDirector: Robert Eggers\nGenr
+ e: Horror\, Fantasy\nRating: R\n\nA harrowing tale of devotion\, damnation 
+ and the devil within.
+URL:https://www.focusfeatures.com/werwulf
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1372443
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Mr. Irrelevant — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Mr. Irrelevant\nRuntime: 125 min\nDirector: Jonathan Lev
  ine\nGenre: Drama\nRating: PG-13\n\nThe last player selected in the 1983 NF
  L draft by the New York Giants\, underdog John Tuggle defies expectations o
@@ -518,45 +540,8 @@ DESCRIPTION:Movie: Mr. Irrelevant\nRuntime: 125 min\nDirector: Jonathan Lev
 URL:https://www.mrirrelevant.film
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:1421903
-DTSTAMP:20261011T162829Z
-DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261226
-SUMMARY:Werwulf — In Theatres
-DESCRIPTION:Movie: Werwulf\nRuntime: Unknown\nDirector: Robert Eggers\nGenr
- e: Horror\, Fantasy\nRating: R\n\nA harrowing tale of devotion\, damnation 
- and the devil within.
-URL:https://www.focusfeatures.com/werwulf
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb:1421903
-DTSTAMP:20261011T162829Z
-DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261226
-SUMMARY:Werwulf — In Theatres
-DESCRIPTION:Movie: Werwulf\nRuntime: Unknown\nDirector: Robert Eggers\nGenr
- e: Horror\, Fantasy\nRating: R\n\nA harrowing tale of devotion\, damnation 
- and the devil within.
-URL:https://www.focusfeatures.com/werwulf
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb:1726776
-DTSTAMP:20261011T162829Z
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-SUMMARY:3rd FLOOR — In Theatres
-STATUS:CANCELLED
-DESCRIPTION:Movie: 3rd FLOOR\nRuntime: 130 min\nDirector: Abassi Okoro\nGen
- re: Drama\n\nA routine elevator ride becomes a battlefield when Maya Uche\,
-  a Black activist\, and Brett Kiminski\, a white conservative\, are trapped
-  together between floors. With nowhere to run\, their assumptions\, anger\,
-  and buried grief rise to the surface\, forcing both strangers to face the 
- truth behind their politics — and the pain that made them who they are.
-URL:http://www.okorofilms.com
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb:1384758
-DTSTAMP:20261011T162829Z
+DTSTAMP:20261011T183131Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Ice Age: Boiling Point — In Theatres
