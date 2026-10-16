@@ -14,7 +14,7 @@
       "endsAt": "2026-10-17T00:00:00.000Z",
       "firstSeenAt": "2026-09-24T08:34:19.249Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1765072",
       "sourcePlatform": "tmdb",
@@ -24,7 +24,7 @@
       "summary": "You Can See Everything — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1765072",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -32,14 +32,14 @@
         "Movie: Masterplan",
         "Runtime: 109 min",
         "Director: Thomas Vincent",
-        "Genre: Action, Crime, Thriller",
+        "Genre: Action, Thriller",
         "",
         "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century."
       ],
       "endsAt": "2026-10-17T00:00:00.000Z",
       "firstSeenAt": "2026-10-11T20:27:28.009Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1561726",
       "sourcePlatform": "tmdb",
@@ -49,7 +49,7 @@
       "summary": "Masterplan — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1561726",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -66,16 +66,16 @@
       "firstSeenAt": "2026-10-15T08:33:57.700Z",
       "kind": "release",
       "lastSeenAt": "2026-10-16T02:32:51.293Z",
-      "missingSince": null,
+      "missingSince": "2026-10-16T04:28:51.160Z",
       "sourceId": "1632305",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1632305",
       "startsAt": "2026-10-16T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Her Song — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1632305",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -90,7 +90,7 @@
       "endsAt": "2026-10-23T00:00:00.000Z",
       "firstSeenAt": "2026-10-08T06:44:36.658Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1783196",
       "sourcePlatform": "tmdb",
@@ -100,7 +100,7 @@
       "summary": "Green Grass — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1783196",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -116,7 +116,7 @@
       "endsAt": "2026-10-24T00:00:00.000Z",
       "firstSeenAt": "2026-09-15T16:27:24.273Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1400940",
       "sourcePlatform": "tmdb",
@@ -126,7 +126,7 @@
       "summary": "Clayface — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1400940",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -142,7 +142,7 @@
       "endsAt": "2026-10-24T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "791523",
       "sourcePlatform": "tmdb",
@@ -152,7 +152,7 @@
       "summary": "Wildwood — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:791523",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -168,7 +168,7 @@
       "endsAt": "2026-10-24T00:00:00.000Z",
       "firstSeenAt": "2026-10-01T22:24:41.446Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1195803",
       "sourcePlatform": "tmdb",
@@ -178,7 +178,7 @@
       "summary": "Wicker — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1195803",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -194,7 +194,7 @@
       "endsAt": "2026-10-24T00:00:00.000Z",
       "firstSeenAt": "2026-10-13T14:32:50.390Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1727734",
       "sourcePlatform": "tmdb",
@@ -204,7 +204,7 @@
       "summary": "Ali G: Who Iz I? — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1727734",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -221,16 +221,16 @@
       "firstSeenAt": "2026-10-14T08:33:59.433Z",
       "kind": "release",
       "lastSeenAt": "2026-10-16T02:32:51.293Z",
-      "missingSince": null,
+      "missingSince": "2026-10-16T04:28:51.160Z",
       "sourceId": "1084409",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1084409",
       "startsAt": "2026-10-23T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "A Talent for Murder — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1084409",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -245,7 +245,7 @@
       "endsAt": "2026-10-26T00:00:00.000Z",
       "firstSeenAt": "2026-10-16T02:32:51.293Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1628116",
       "sourcePlatform": "tmdb",
@@ -255,7 +255,7 @@
       "summary": "BTS: THE RETURN — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1628116",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -271,7 +271,7 @@
       "endsAt": "2026-10-31T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1294189",
       "sourcePlatform": "tmdb",
@@ -281,7 +281,7 @@
       "summary": "The Mongoose — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1294189",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -297,7 +297,7 @@
       "endsAt": "2026-10-31T00:00:00.000Z",
       "firstSeenAt": "2026-10-15T14:27:27.833Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1458300",
       "sourcePlatform": "tmdb",
@@ -307,7 +307,7 @@
       "summary": "The Mosquito Bowl — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1458300",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -323,7 +323,7 @@
       "endsAt": "2026-10-31T00:00:00.000Z",
       "firstSeenAt": "2026-10-15T06:40:01.689Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1458099",
       "sourcePlatform": "tmdb",
@@ -333,7 +333,7 @@
       "summary": "The Only Living Pickpocket in New York — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1458099",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -349,7 +349,7 @@
       "endsAt": "2026-10-31T00:00:00.000Z",
       "firstSeenAt": "2026-10-15T08:33:57.700Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "939541",
       "sourcePlatform": "tmdb",
@@ -359,7 +359,7 @@
       "summary": "Christmas at the Kringles — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:939541",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -375,7 +375,7 @@
       "endsAt": "2026-10-31T00:00:00.000Z",
       "firstSeenAt": "2026-10-15T02:33:19.007Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1603262",
       "sourcePlatform": "tmdb",
@@ -385,32 +385,7 @@
       "summary": "Everest: The Other Side — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1603262",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
-    },
-    {
-      "allDay": true,
-      "descriptionLines": [
-        "Movie: PH1SHed_",
-        "Runtime: 116 min",
-        "Director: Thijs Meuwese",
-        "Genre: Thriller",
-        "",
-        "An ethical hacker sticks up for a friend who fell victim to a phishing scam, but finds herself descending into paranoia as she gets caught up in a risky game of cat and mouse with a dangerous blackhat cyber criminal."
-      ],
-      "endsAt": "2026-11-01T00:00:00.000Z",
-      "firstSeenAt": "2026-10-15T04:28:50.155Z",
-      "kind": "release",
-      "lastSeenAt": "2026-10-16T00:53:34.228Z",
-      "missingSince": "2026-10-16T02:32:51.293Z",
-      "sourceId": "1781527",
-      "sourcePlatform": "tmdb",
-      "sourceUrl": "https://www.themoviedb.org/movie/1781527",
-      "startsAt": "2026-10-31T00:00:00.000Z",
-      "status": "CANCELLED",
-      "summary": "PH1SHed_ — In Theatres",
-      "timezone": "America/New_York",
-      "uid": "tmdb:1781527",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -426,7 +401,7 @@
       "endsAt": "2026-11-07T00:00:00.000Z",
       "firstSeenAt": "2026-10-03T15:14:09.196Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1117898",
       "sourcePlatform": "tmdb",
@@ -436,7 +411,7 @@
       "summary": "The Cat in the Hat — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1117898",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -452,7 +427,7 @@
       "endsAt": "2026-11-07T00:00:00.000Z",
       "firstSeenAt": "2026-10-13T14:32:50.390Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "891621",
       "sourcePlatform": "tmdb",
@@ -462,7 +437,7 @@
       "summary": "Wild Horse Nine — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:891621",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -478,7 +453,7 @@
       "endsAt": "2026-11-07T00:00:00.000Z",
       "firstSeenAt": "2026-10-14T20:25:02.049Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1585239",
       "sourcePlatform": "tmdb",
@@ -488,7 +463,7 @@
       "summary": "Club Kid — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1585239",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -504,7 +479,7 @@
       "endsAt": "2026-11-12T00:00:00.000Z",
       "firstSeenAt": "2026-10-15T18:29:59.252Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1131943",
       "sourcePlatform": "tmdb",
@@ -514,7 +489,7 @@
       "summary": "Madden — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1131943",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -530,7 +505,7 @@
       "endsAt": "2026-11-12T00:00:00.000Z",
       "firstSeenAt": "2026-10-03T15:14:09.196Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1562642",
       "sourcePlatform": "tmdb",
@@ -540,7 +515,7 @@
       "summary": "Ghost Soldier — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1562642",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -555,7 +530,7 @@
       "endsAt": "2026-11-13T00:00:00.000Z",
       "firstSeenAt": "2026-10-13T16:31:20.878Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1763049",
       "sourcePlatform": "tmdb",
@@ -565,7 +540,7 @@
       "summary": "Under Fire — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1763049",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -580,7 +555,7 @@
       "endsAt": "2026-11-14T00:00:00.000Z",
       "firstSeenAt": "2026-09-19T16:24:15.430Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1567605",
       "sourcePlatform": "tmdb",
@@ -590,7 +565,7 @@
       "summary": "Ebenezer — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1567605",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -606,7 +581,7 @@
       "endsAt": "2026-11-14T00:00:00.000Z",
       "firstSeenAt": "2026-10-15T22:25:25.238Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1379486",
       "sourcePlatform": "tmdb",
@@ -616,7 +591,7 @@
       "summary": "Victorian Psycho — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1379486",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -632,7 +607,7 @@
       "endsAt": "2026-11-14T00:00:00.000Z",
       "firstSeenAt": "2026-10-13T20:28:16.884Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1437511",
       "sourcePlatform": "tmdb",
@@ -642,7 +617,7 @@
       "summary": "How to Rob a Bank — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1437511",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -657,7 +632,7 @@
       "endsAt": "2026-11-19T00:00:00.000Z",
       "firstSeenAt": "2026-10-15T08:33:57.700Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1551025",
       "sourcePlatform": "tmdb",
@@ -667,7 +642,7 @@
       "summary": "Guarding Stars — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1551025",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -683,16 +658,16 @@
       "firstSeenAt": "2026-10-15T06:40:01.689Z",
       "kind": "release",
       "lastSeenAt": "2026-10-16T02:32:51.293Z",
-      "missingSince": null,
+      "missingSince": "2026-10-16T04:28:51.160Z",
       "sourceId": "1523553",
       "sourcePlatform": "tmdb",
       "sourceUrl": "https://www.themoviedb.org/movie/1523553",
       "startsAt": "2026-11-19T00:00:00.000Z",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "summary": "Dark Horse — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1523553",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -708,7 +683,7 @@
       "endsAt": "2026-11-21T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1300968",
       "sourcePlatform": "tmdb",
@@ -718,7 +693,7 @@
       "summary": "The Hunger Games: Sunrise on the Reaping — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1300968",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -734,7 +709,7 @@
       "endsAt": "2026-11-21T00:00:00.000Z",
       "firstSeenAt": "2026-10-14T20:25:02.049Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1595124",
       "sourcePlatform": "tmdb",
@@ -744,7 +719,7 @@
       "summary": "Steps — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1595124",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -760,7 +735,7 @@
       "endsAt": "2026-11-21T00:00:00.000Z",
       "firstSeenAt": "2026-10-11T20:27:28.009Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1381273",
       "sourcePlatform": "tmdb",
@@ -770,7 +745,7 @@
       "summary": "Paper Tiger — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1381273",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -786,7 +761,7 @@
       "endsAt": "2026-11-21T00:00:00.000Z",
       "firstSeenAt": "2026-10-01T04:32:15.631Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1286656",
       "sourcePlatform": "tmdb",
@@ -796,7 +771,7 @@
       "summary": "I Play Rocky — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1286656",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -812,7 +787,7 @@
       "endsAt": "2026-11-26T00:00:00.000Z",
       "firstSeenAt": "2026-09-30T08:36:51.689Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1538497",
       "sourcePlatform": "tmdb",
@@ -822,7 +797,7 @@
       "summary": "Hexed — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1538497",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -837,7 +812,7 @@
       "endsAt": "2026-11-26T00:00:00.000Z",
       "firstSeenAt": "2026-10-14T22:23:29.151Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1457866",
       "sourcePlatform": "tmdb",
@@ -847,7 +822,7 @@
       "summary": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1457866",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -863,7 +838,7 @@
       "endsAt": "2026-11-28T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1400336",
       "sourcePlatform": "tmdb",
@@ -873,7 +848,7 @@
       "summary": "Focker-in-Law — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1400336",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -889,7 +864,7 @@
       "endsAt": "2026-12-05T00:00:00.000Z",
       "firstSeenAt": "2026-10-15T14:27:27.833Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1452168",
       "sourcePlatform": "tmdb",
@@ -899,7 +874,7 @@
       "summary": "Behemoth! — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1452168",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -915,7 +890,7 @@
       "endsAt": "2026-12-05T00:00:00.000Z",
       "firstSeenAt": "2026-10-13T18:35:09.765Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1078446",
       "sourcePlatform": "tmdb",
@@ -925,7 +900,7 @@
       "summary": "Violent Night 2 — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1078446",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -941,7 +916,7 @@
       "endsAt": "2026-12-05T00:00:00.000Z",
       "firstSeenAt": "2026-10-14T20:25:02.049Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "940009",
       "sourcePlatform": "tmdb",
@@ -951,7 +926,7 @@
       "summary": "Ray Gunn — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:940009",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -966,7 +941,7 @@
       "endsAt": "2026-12-09T00:00:00.000Z",
       "firstSeenAt": "2026-10-14T20:25:02.049Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1389765",
       "sourcePlatform": "tmdb",
@@ -976,7 +951,7 @@
       "summary": "Batman: Knightfall Part 2: Knightquest — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1389765",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -992,7 +967,7 @@
       "endsAt": "2026-12-12T00:00:00.000Z",
       "firstSeenAt": "2026-09-28T20:26:51.985Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1391239",
       "sourcePlatform": "tmdb",
@@ -1002,7 +977,7 @@
       "summary": "The Debut — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1391239",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1018,7 +993,7 @@
       "endsAt": "2026-12-12T00:00:00.000Z",
       "firstSeenAt": "2026-10-14T06:39:43.913Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1532610",
       "sourcePlatform": "tmdb",
@@ -1028,7 +1003,7 @@
       "summary": "Ink — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1532610",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1043,7 +1018,7 @@
       "endsAt": "2026-12-12T00:00:00.000Z",
       "firstSeenAt": "2026-10-13T08:41:19.755Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1408207",
       "sourcePlatform": "tmdb",
@@ -1053,7 +1028,7 @@
       "summary": "Zero A.D: The Birth of Christ — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1408207",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1068,7 +1043,7 @@
       "endsAt": "2026-12-12T00:00:00.000Z",
       "firstSeenAt": "2026-10-15T04:28:50.155Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1630464",
       "sourcePlatform": "tmdb",
@@ -1078,7 +1053,7 @@
       "summary": "Clarissa — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1630464",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1093,7 +1068,7 @@
       "endsAt": "2026-12-19T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1003596",
       "sourcePlatform": "tmdb",
@@ -1103,7 +1078,7 @@
       "summary": "Avengers: Doomsday — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1003596",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1118,7 +1093,7 @@
       "endsAt": "2026-12-19T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1170608",
       "sourcePlatform": "tmdb",
@@ -1128,7 +1103,7 @@
       "summary": "Dune: Part Three — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1170608",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1143,7 +1118,7 @@
       "endsAt": "2026-12-24T00:00:00.000Z",
       "firstSeenAt": "2026-09-19T16:24:15.430Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1300926",
       "sourcePlatform": "tmdb",
@@ -1153,7 +1128,7 @@
       "summary": "The Angry Birds Movie 3 — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1300926",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1169,7 +1144,7 @@
       "endsAt": "2026-12-26T00:00:00.000Z",
       "firstSeenAt": "2026-10-13T20:28:16.884Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1421903",
       "sourcePlatform": "tmdb",
@@ -1179,7 +1154,7 @@
       "summary": "Werwulf — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1421903",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1195,7 +1170,7 @@
       "endsAt": "2026-12-26T00:00:00.000Z",
       "firstSeenAt": "2026-10-14T20:25:02.049Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1372443",
       "sourcePlatform": "tmdb",
@@ -1205,7 +1180,7 @@
       "summary": "Mr. Irrelevant — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1372443",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1220,7 +1195,7 @@
       "endsAt": "2026-12-26T00:00:00.000Z",
       "firstSeenAt": "2026-09-14T19:14:29.734Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1260649",
       "sourcePlatform": "tmdb",
@@ -1230,7 +1205,7 @@
       "summary": "Jumanji: Open World — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1260649",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1246,7 +1221,7 @@
       "endsAt": "2026-12-26T00:00:00.000Z",
       "firstSeenAt": "2026-10-14T22:23:29.151Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1492198",
       "sourcePlatform": "tmdb",
@@ -1256,7 +1231,7 @@
       "summary": "Artificial — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1492198",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1271,7 +1246,7 @@
       "endsAt": "2026-12-28T00:00:00.000Z",
       "firstSeenAt": "2026-10-12T18:33:47.520Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1726776",
       "sourcePlatform": "tmdb",
@@ -1281,7 +1256,7 @@
       "summary": "3rd FLOOR — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1726776",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1297,7 +1272,7 @@
       "endsAt": "2027-01-16T00:00:00.000Z",
       "firstSeenAt": "2026-10-13T08:41:19.755Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1520592",
       "sourcePlatform": "tmdb",
@@ -1307,32 +1282,7 @@
       "summary": "River — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1520592",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
-    },
-    {
-      "allDay": true,
-      "descriptionLines": [
-        "Movie: Children of Blood and Bone",
-        "Runtime: 146 min",
-        "Director: Gina Prince-Bythewood",
-        "Genre: Fantasy, Adventure",
-        "",
-        "In the world of Orïsha, a young woman goes on a quest to reclaim the magic that was violently stolen from her people. She and her brother ally with the daughter and son of the king to fight back against his brutal rule."
-      ],
-      "endsAt": "2027-01-16T00:00:00.000Z",
-      "firstSeenAt": "2026-10-15T16:28:20.436Z",
-      "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
-      "missingSince": null,
-      "sourceId": "621304",
-      "sourcePlatform": "tmdb",
-      "sourceUrl": "https://www.childrenofbloodandbone.movie",
-      "startsAt": "2027-01-15T00:00:00.000Z",
-      "status": "CONFIRMED",
-      "summary": "Children of Blood and Bone — In Theatres",
-      "timezone": "America/New_York",
-      "uid": "tmdb:621304",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1348,7 +1298,7 @@
       "endsAt": "2027-01-16T00:00:00.000Z",
       "firstSeenAt": "2026-10-15T08:33:57.700Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1440769",
       "sourcePlatform": "tmdb",
@@ -1358,7 +1308,32 @@
       "summary": "The Beekeeper 2 — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1440769",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
+    },
+    {
+      "allDay": true,
+      "descriptionLines": [
+        "Movie: Children of Blood and Bone",
+        "Runtime: 146 min",
+        "Director: Gina Prince-Bythewood",
+        "Genre: Fantasy, Adventure",
+        "",
+        "In the world of Orïsha, a young woman goes on a quest to reclaim the magic that was violently stolen from her people. She and her brother ally with the daughter and son of the king to fight back against his brutal rule."
+      ],
+      "endsAt": "2027-01-16T00:00:00.000Z",
+      "firstSeenAt": "2026-10-15T16:28:20.436Z",
+      "kind": "release",
+      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "missingSince": "2026-10-16T04:28:51.160Z",
+      "sourceId": "621304",
+      "sourcePlatform": "tmdb",
+      "sourceUrl": "https://www.childrenofbloodandbone.movie",
+      "startsAt": "2027-01-15T00:00:00.000Z",
+      "status": "CANCELLED",
+      "summary": "Children of Blood and Bone — In Theatres",
+      "timezone": "America/New_York",
+      "uid": "tmdb:621304",
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1374,7 +1349,7 @@
       "endsAt": "2027-01-23T00:00:00.000Z",
       "firstSeenAt": "2026-10-15T02:33:19.007Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1115030",
       "sourcePlatform": "tmdb",
@@ -1384,7 +1359,7 @@
       "summary": "Animal Friends — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1115030",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1400,7 +1375,7 @@
       "endsAt": "2027-02-06T00:00:00.000Z",
       "firstSeenAt": "2026-10-03T15:14:09.196Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1384758",
       "sourcePlatform": "tmdb",
@@ -1410,7 +1385,7 @@
       "summary": "Ice Age: Boiling Point — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1384758",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1425,7 +1400,7 @@
       "endsAt": "2027-02-06T00:00:00.000Z",
       "firstSeenAt": "2026-10-15T14:27:27.833Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1425859",
       "sourcePlatform": "tmdb",
@@ -1435,7 +1410,7 @@
       "summary": "Remain — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1425859",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1450,7 +1425,7 @@
       "endsAt": "2027-02-13T00:00:00.000Z",
       "firstSeenAt": "2026-10-13T01:08:26.996Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1147572",
       "sourcePlatform": "tmdb",
@@ -1460,7 +1435,7 @@
       "summary": "Narnia: The Magician's Nephew — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1147572",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     },
     {
       "allDay": true,
@@ -1475,7 +1450,7 @@
       "endsAt": "2027-02-20T00:00:00.000Z",
       "firstSeenAt": "2026-10-15T16:28:20.436Z",
       "kind": "release",
-      "lastSeenAt": "2026-10-16T02:32:51.293Z",
+      "lastSeenAt": "2026-10-16T04:28:51.160Z",
       "missingSince": null,
       "sourceId": "1480503",
       "sourcePlatform": "tmdb",
@@ -1485,11 +1460,11 @@
       "summary": "CoComelon: The Movie — In Theatres",
       "timezone": "America/New_York",
       "uid": "tmdb:1480503",
-      "updatedAt": "2026-10-16T02:32:51.293Z"
+      "updatedAt": "2026-10-16T04:28:51.160Z"
     }
   ],
   "feedName": "movie-releases",
-  "generatedAt": "2026-10-16T02:32:51.293Z",
+  "generatedAt": "2026-10-16T04:28:51.160Z",
   "version": 1,
   "amcOnSaleBaseline": []
 }
