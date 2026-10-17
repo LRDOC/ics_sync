@@ -35,7 +35,7 @@ URL:https://www.themoviedb.org/movie/1561726
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1783196
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Green Grass — In Theatres
@@ -52,7 +52,7 @@ URL:https://www.themoviedb.org/movie/1783196
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400940
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Clayface — In Theatres
@@ -68,7 +68,7 @@ URL:https://www.clayfacemovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:791523
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Wildwood — In Theatres
@@ -82,7 +82,7 @@ URL:https://wildwoodmovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1195803
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Wicker — In Theatres
@@ -97,22 +97,22 @@ URL:https://www.blackbearpictures.com/film-and-tv/wicker
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1727734
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Ali G: Who Iz I? — In Theatres
-DESCRIPTION:Movie: Ali G: Who Iz I?\nRuntime: Unknown\nDirector: Sacha Baro
- n Cohen\nGenre: Comedy\nRating: R\n\nAfter twenty years spent "chillin'\, t
- okin' and bonin'"\, Ali G is shocked to discover that his long-term girlfri
- end\, Julie\, is 8 months pregnant. Faced with an extra mouth to feed\, he 
- gets off his batty and heads to America to reclaim his former glory… but so
- on encounters adversaries who will ultimately threaten his and his child's 
- very existence.
+DESCRIPTION:Movie: Ali G: Who Iz I?\nRuntime: 88 min\nDirector: Sacha Baron
+  Cohen\nGenre: Comedy\nRating: R\n\nAfter twenty years spent "chillin'\, to
+ kin' and bonin'"\, Ali G is shocked to discover that his long-term girlfrie
+ nd\, Julie\, is 8 months pregnant. Faced with an extra mouth to feed\, he g
+ ets off his batty and heads to America to reclaim his former glory… but soo
+ n encounters adversaries who will ultimately threaten his and his child's v
+ ery existence.
 URL:https://www.amazon.com/salp/aligwhoizi?hhf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1294189
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:The Mongoose — In Theatres
@@ -125,7 +125,7 @@ URL:https://www.themoviedb.org/movie/1294189
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1458300
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:The Mosquito Bowl — In Theatres
@@ -136,8 +136,24 @@ DESCRIPTION:Movie: The Mosquito Bowl\nRuntime: Unknown\nDirector: Peter Ber
 URL:https://www.netflix.com/title/81661161
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1458099
+DTSTAMP:20261017T222137Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:The Only Living Pickpocket in New York — In Theatres
+DESCRIPTION:Movie: The Only Living Pickpocket in New York\nRuntime: 88 min\
+ nDirector: Noah Segan\nGenre: Crime\, Drama\nRating: R\n\nHarry Lehman is a
+ n aging pickpocket who plies his trade with ever-diminishing returns in a d
+ rastically changed New York. Wallets stuffed with cash have been replaced b
+ y easily cancelled credit cards\, and Harry struggles to make ends meet as 
+ he cares for his disabled wife\, Rosie. When he unwittingly purloins and fe
+ nces a valuable USB stick\, Harry finds himself in a race against time to r
+ eturn the loot or face the rage of a vengeful crime family.
+URL:https://www.sonyclassics.com/film/theonlylivingpickpocketinnewyork/
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1117898
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:The Cat in the Hat — In Theatres
@@ -151,7 +167,7 @@ URL:https://www.catinthehatfilm.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:891621
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Wild Horse Nine — In Theatres
@@ -166,7 +182,7 @@ URL:https://www.searchlightpictures.com/wild-horse-nine
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1585239
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Club Kid — In Theatres
@@ -178,7 +194,7 @@ URL:https://a24films.com/films/club-kid
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1562642
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Ghost Soldier — In Theatres
@@ -195,7 +211,7 @@ URL:https://ghostsoldier.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1131943
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Madden — In Theatres
@@ -208,7 +224,7 @@ URL:https://www.themoviedb.org/movie/1131943
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1763049
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Under Fire — In Theatres
@@ -220,7 +236,7 @@ URL:https://www.themoviedb.org/movie/1763049
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1567605
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Ebenezer — In Theatres
@@ -233,7 +249,7 @@ URL:https://www.ebenezermovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1437511
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:How to Rob a Bank — In Theatres
@@ -247,8 +263,21 @@ DESCRIPTION:Movie: How to Rob a Bank\nRuntime: 122 min\nDirector: David Lei
 URL:https://www.amazon.com/salp/howtorobabank?hhf
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1379486
+DTSTAMP:20261017T222137Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Victorian Psycho — In Theatres
+DESCRIPTION:Movie: Victorian Psycho\nRuntime: 102 min\nDirector: Zachary Wi
+ gon\nGenre: Horror\, Thriller\nRating: R\n\nWhen eccentric young governess 
+ Winifred Notty arrives at a remote Gothic manor\, a string of unsettling ev
+ ents leads the household to suspect she isn't who she claims to be—but the 
+ truth may be far more dangerous than they imagine.
+URL:https://bleeckerstreetmedia.com/victorian-psycho
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1300968
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise on the Reaping — In Theatres
@@ -261,7 +290,7 @@ URL:https://hungergames.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1595124
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Steps — In Theatres
@@ -278,7 +307,7 @@ URL:https://www.netflix.com/title/81212809
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1286656
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:I Play Rocky — In Theatres
@@ -292,7 +321,7 @@ URL:https://www.amazon.com/salp/iplayrocky?hhf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1381273
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Paper Tiger — In Theatres
@@ -305,7 +334,7 @@ URL:https://www.neonrated.com/film/paper-tiger
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1538497
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Hexed — In Theatres
@@ -320,7 +349,7 @@ URL:https://movies.disney.com/hexed
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1457866
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH — In Theatres
@@ -335,7 +364,7 @@ URL:https://www.netflix.com/title/82054606
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400336
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Focker-in-Law — In Theatres
@@ -347,7 +376,7 @@ URL:https://www.universalpictures.com/movies/focker-in-law/
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1078446
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Violent Night 2 — In Theatres
@@ -362,7 +391,7 @@ URL:https://www.violentnightmovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:940009
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Ray Gunn — In Theatres
@@ -375,20 +404,7 @@ URL:https://www.netflix.com/title/81756797
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1452168
-DTSTAMP:20261017T202410Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Behemoth! — In Theatres
-DESCRIPTION:Movie: Behemoth!\nRuntime: 127 min\nDirector: Tony Gilroy\nGenr
- e: Music\, Drama\nRating: R\n\nGifted cellist Alex Serian returns home to L
- os Angeles after 20 years on the road. Music\, which has been the constant\
- , all-consuming river of his life\, begins to carry Alex on an adventure th
- at will change him forever.
-URL:https://www.searchlightpictures.com/behemoth
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb:1452168
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Behemoth! — In Theatres
@@ -401,7 +417,7 @@ URL:https://www.searchlightpictures.com/behemoth
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1389765
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Batman: Knightfall Part 2: Knightquest — In Theatres
@@ -416,7 +432,7 @@ URL:https://www.warnerbros.com/movies/batman-knightfall-part-2-knightquest
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1391239
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:The Debut — In Theatres
@@ -430,19 +446,7 @@ URL:https://a24films.com/films/the-debut
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1408207
-DTSTAMP:20261017T202410Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:Zero A.D: The Birth of Christ — In Theatres
-DESCRIPTION:Movie: Zero A.D: The Birth of Christ\nRuntime: Unknown\nDirecto
- r: Alejandro Monteverde\nGenre: Drama\, Thriller\n\nA star rises over Bethl
- ehem as Christ is born. But when Herod orders the slaughter of the innocent
- s\, Mary and Joseph must protect the child promised to save the world.
-URL:https://www.angel.com/movies/zero-ad
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb:1408207
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Zero A.D: The Birth of Christ — In Theatres
@@ -454,7 +458,7 @@ URL:https://www.angel.com/movies/zero-ad
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1532610
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Ink — In Theatres
@@ -466,7 +470,7 @@ URL:https://www.netflix.com/title/83035739
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1003596
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday — In Theatres
@@ -478,7 +482,7 @@ URL:https://www.marvel.com/movies/avengers-doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1170608
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three — In Theatres
@@ -495,7 +499,7 @@ URL:https://www.dunemovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1300926
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:The Angry Birds Movie 3 — In Theatres
@@ -506,7 +510,7 @@ URL:https://www.angrybirds.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1260649
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Jumanji: Open World — In Theatres
@@ -519,7 +523,7 @@ URL:https://jumanji.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1421903
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Werwulf — In Theatres
@@ -529,23 +533,22 @@ DESCRIPTION:Movie: Werwulf\nRuntime: 120 min\nDirector: Robert Eggers\nGenr
 URL:https://www.focusfeatures.com/werwulf
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:1492198
-DTSTAMP:20261017T202410Z
+UID:tmdb:1372443
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
-SUMMARY:Artificial — In Theatres
-DESCRIPTION:Movie: Artificial\nRuntime: 140 min\nDirector: Luca Guadagnino\
- nGenre: Comedy\, Drama\nRating: PG-13\n\nWhen computer scientist Ilya Sutsk
- ever and AI pioneer Geoffrey Hinton make a breakthrough they're certain wil
- l alter humanity forever\, the most prominent figures in Silicon Valley rac
- e to become a part of their vision. Years later\, after a chance meeting wi
- th Sam Altman\, Sutskever and a group of idealistic entrepreneurs create Op
- enAI with backing from Elon Musk and assistance from engineer Mira Murati.
-URL:https://www.neonrated.com/film/artificial
+SUMMARY:Mr. Irrelevant — In Theatres
+DESCRIPTION:Movie: Mr. Irrelevant\nRuntime: 125 min\nDirector: Jonathan Lev
+ ine\nGenre: Drama\nRating: PG-13\n\nThe last player selected in the 1983 NF
+ L draft by the New York Giants\, underdog John Tuggle\, defies expectations
+  on and off the field for head coach Bill Parcells\, his newfound love\, an
+ d his team\, proving that remarkable hope and perseverance can transcend ev
+ en the greatest challenges.
+URL:https://www.mrirrelevant.film
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1492198
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Artificial — In Theatres
@@ -560,7 +563,7 @@ URL:https://www.neonrated.com/film/artificial
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1726776
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:3rd FLOOR — In Theatres
@@ -574,7 +577,7 @@ URL:http://www.okorofilms.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1440769
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:The Beekeeper 2 — In Theatres
@@ -586,18 +589,7 @@ URL:https://www.amazon.com/salp/beekeeper?hhf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1520592
-DTSTAMP:20261017T202410Z
-DTSTART;VALUE=DATE:20270115
-DTEND;VALUE=DATE:20270116
-SUMMARY:River — In Theatres
-DESCRIPTION:Movie: River\nRuntime: 92 min\nDirector: Joshua Giuliano\nGenre
- : Horror\, Thriller\nRating: R\n\nAfter being stranded in a boat on a count
- ry river\, three siblings are stalked by a faceless killer.
-URL:http://www.universalpictures.com/movies/river
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb:1520592
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:River — In Theatres
@@ -608,7 +600,7 @@ URL:http://www.universalpictures.com/movies/river
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:621304
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Children of Blood and Bone — In Theatres
@@ -621,7 +613,7 @@ URL:https://www.childrenofbloodandbone.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1384758
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Ice Age: Boiling Point — In Theatres
@@ -635,7 +627,7 @@ URL:https://movies.disney.com/ice-age-boiling-point
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1425859
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Remain — In Theatres
@@ -648,7 +640,7 @@ URL:https://www.themoviedb.org/movie/1425859
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1147572
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:Narnia: The Magician's Nephew — In Theatres
@@ -660,8 +652,20 @@ DESCRIPTION:Movie: Narnia: The Magician's Nephew\nRuntime: Unknown\nDirecto
 URL:https://narniafilm.com
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1789220
+DTSTAMP:20261017T222137Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Trimmed — In Theatres
+DESCRIPTION:Movie: Trimmed\nRuntime: 16 min\nDirector: Matty Peacock\nGenre
+ : Drama\, Thriller\n\nAn American dancer arrives in Berlin to audition for 
+ a renowned dance company\, only to enter a strange world of rules and unspo
+ ken boundaries.
+URL:https://www.themoviedb.org/movie/1789220
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1480503
-DTSTAMP:20261017T202410Z
+DTSTAMP:20261017T222137Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:CoComelon: The Movie — In Theatres
