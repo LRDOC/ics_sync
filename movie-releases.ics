@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Movie Release Dates
 BEGIN:VEVENT
 UID:tmdb:1241478
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Jimmy — In Theatres
@@ -17,22 +17,8 @@ DESCRIPTION:Movie: Jimmy\nRuntime: 120 min\nDirector: Aaron Burns\nGenre: D
 URL:https://www.jimmythemovie.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:1697911
-DTSTAMP:20261106T003707Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Drummer Boy — In Theatres
-STATUS:CANCELLED
-DESCRIPTION:Movie: Drummer Boy\nRuntime: 129 min\nDirector: Ben Smallbone\,
-  Joel Smallbone\nGenre: War\, Romance\, Music\nRating: PG-13\n\nAs America’
- s fight for independence begins\, a young drummer boy\, an enslaved woman\,
-  and a divided family search for freedom. Through battle and loss\, music c
- arries hope in a deeply human story of faith and forgiveness.
-URL:https://www.angel.com/watch/drummer-boy
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb:1781485
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Little Genes — In Theatres
@@ -45,7 +31,7 @@ URL:https://www.themoviedb.org/movie/1781485
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1131943
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Madden — In Theatres
@@ -58,7 +44,7 @@ URL:https://www.themoviedb.org/movie/1131943
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1567605
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Ebenezer — In Theatres
@@ -72,7 +58,7 @@ URL:https://www.ebenezermovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1437511
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:How to Rob a Bank — In Theatres
@@ -87,7 +73,7 @@ URL:https://www.amazon.com/salp/howtorobabank?hhf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1379486
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Victorian Psycho — In Theatres
@@ -100,7 +86,7 @@ URL:https://bleeckerstreetmedia.com/victorian-psycho
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1300968
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise on the Reaping — In Theatres
@@ -113,7 +99,7 @@ URL:https://hungergames.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1286656
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:I Play Rocky — In Theatres
@@ -127,7 +113,7 @@ URL:https://www.amazon.com/salp/iplayrocky?hhf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1595124
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Steps — In Theatres
@@ -144,7 +130,7 @@ URL:https://www.netflix.com/title/81212809
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1381273
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Paper Tiger — In Theatres
@@ -157,7 +143,7 @@ URL:https://www.neonrated.com/film/paper-tiger
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1280115
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Way of the Warrior Kid — In Theatres
@@ -170,7 +156,7 @@ URL:https://tv.apple.com/movie/umc.cmc.21vzhs44oeejdkoxenkcdmre0
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1538497
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Hexed — In Theatres
@@ -185,7 +171,7 @@ URL:https://movies.disney.com/hexed
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1457866
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH — In Theatres
@@ -200,7 +186,7 @@ URL:https://www.netflix.com/title/82054606
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400336
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Focker-in-Law — In Theatres
@@ -212,7 +198,7 @@ URL:https://www.universalpictures.com/movies/focker-in-law/
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1137888
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:The Man with the Bag — In Theatres
@@ -225,21 +211,8 @@ DESCRIPTION:Movie: The Man with the Bag\nRuntime: Unknown\nDirector: Adam S
 URL:https://www.themoviedb.org/movie/1137888
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:1452168
-DTSTAMP:20261106T003707Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Behemoth! — In Theatres
-DESCRIPTION:Movie: Behemoth!\nRuntime: 127 min\nDirector: Tony Gilroy\nGenr
- e: Music\, Drama\nRating: R\n\nGifted cellist Alex Serian returns home to L
- os Angeles after 20 years on the road. Music\, which has been the constant\
- , all-consuming river of his life\, begins to carry Alex on an adventure th
- at will change him forever.
-URL:https://www.searchlightpictures.com/behemoth
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb:940009
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Ray Gunn — In Theatres
@@ -251,8 +224,33 @@ DESCRIPTION:Movie: Ray Gunn\nRuntime: 119 min\nDirector: Brad Bird\nGenre:
 URL:https://www.netflix.com/title/81756797
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1379537
+DTSTAMP:20261106T022244Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:The Gallerist — In Theatres
+DESCRIPTION:Movie: The Gallerist\nRuntime: 88 min\nDirector: Cathy Yan\nGen
+ re: Comedy\, Drama\n\nA desperate gallerist conspires to sell a dead body a
+ t Art Basel Miami.
+URL:https://www.themoviedb.org/movie/1379537
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1452168
+DTSTAMP:20261106T022244Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Behemoth! — In Theatres
+STATUS:CANCELLED
+DESCRIPTION:Movie: Behemoth!\nRuntime: 127 min\nDirector: Tony Gilroy\nGenr
+ e: Music\, Drama\nRating: R\n\nGifted cellist Alex Serian returns home to L
+ os Angeles after 20 years on the road. Music\, which has been the constant\
+ , all-consuming river of his life\, begins to carry Alex on an adventure th
+ at will change him forever.
+URL:https://www.searchlightpictures.com/behemoth
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1391239
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:The Debut — In Theatres
@@ -266,7 +264,7 @@ URL:https://a24films.com/films/the-debut
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1003596
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday — In Theatres
@@ -278,7 +276,7 @@ URL:https://www.marvel.com/movies/avengers-doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1170608
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three — In Theatres
@@ -295,7 +293,7 @@ URL:https://www.dunemovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1300926
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:The Angry Birds Movie 3 — In Theatres
@@ -307,7 +305,7 @@ URL:https://www.angrybirds.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1260649
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Jumanji: Open World — In Theatres
@@ -320,7 +318,7 @@ URL:https://jumanji.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1421903
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Werwulf — In Theatres
@@ -330,8 +328,23 @@ DESCRIPTION:Movie: Werwulf\nRuntime: 120 min\nDirector: Robert Eggers\nGenr
 URL:https://www.focusfeatures.com/werwulf
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1492198
+DTSTAMP:20261106T022244Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Artificial — In Theatres
+DESCRIPTION:Movie: Artificial\nRuntime: 140 min\nDirector: Luca Guadagnino\
+ nGenre: Comedy\, Drama\, History\nRating: PG-13\n\nIn November 2023\, amids
+ t the height of a global AI boom\, OpenAI co-founder Ilya Sutskever teamed 
+ with the company board to make one of the defining decisions that has drast
+ ically reshaped the company as we know it\, the firing of current CEO Sam A
+ ltman. This controversial decision would lead to immense backlash\, ultimat
+ ely resulting in Altman's return five days later.
+URL:https://www.neonrated.com/film/artificial
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1440769
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:The Beekeeper 2 — In Theatres
@@ -343,7 +356,7 @@ URL:https://www.amazon.com/salp/beekeeper?hhf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1384758
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Ice Age: Boiling Point — In Theatres
@@ -357,7 +370,7 @@ URL:https://movies.disney.com/ice-age-boiling-point
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1147572
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:Narnia: The Magician's Nephew — In Theatres
@@ -370,7 +383,7 @@ URL:https://narniafilm.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1497464
-DTSTAMP:20261106T003707Z
+DTSTAMP:20261106T022244Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:Gatto — In Theatres
