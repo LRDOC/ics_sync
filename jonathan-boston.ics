@@ -5,40 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Jonathan Boston Upcoming Events
 BEGIN:VEVENT
-UID:markit:lNlfA5LPaM
-DTSTAMP:20261108T005046Z
-DTSTART:20261107T010000Z
-DTEND:20261107T050000Z
-SUMMARY:Boston Founder House Party
-LOCATION:10 Museum Wy\, Cambridge\, MA 02141\, USA
-DESCRIPTION:Event Link: https://markitai.com/u/jonathan/e/lNlfA5LPaM\nMarki
- t Profile: https://markitai.com/u/jonathan\nStart: Nov 6\, 2026\, 8:00 PM\n
- End: Nov 7\, 2026\, 12:00 AM\nLocation: 10 Museum Wy\, Cambridge\, MA 02141
- \, USA\nEvent Type: Markit\nMarkit Event ID: lNlfA5LPaM\n\nSF founders thro
- w house parties on Friday nights. Boston founders network on Tuesdays at 6p
- m. Let's change that.\nAfter a few weeks out in SF\, I'm throwing the first
-  Boston founder house party. When I posted about this on\nLinkedIn\nand\nIn
- stagram\n\, it went semi-viral. It got 70K+ impressions and a flood of DMs 
- from people asking when it was happening. Everyone was begging for it\, so 
- we decided to actually do something about it.\nBella Pivo and I are hosting
-  it at her apartment in Cambridge. The exact address goes out to approved g
- uests.\nEvery guest is approved by hand. Priority first goes to founders wh
- o are actively building\, but if you're cool and supporting the founder eco
- system\, we'd love to have you as well. If there's someone you think should
-  be there\, message one of us!\nBig thanks to our partner\nFidelity Private
-  Shares\nfor supporting the party and bringing fun to Boston!.\n​Fidelity P
- rivate Shares is committed to supporting the startup & venture capital comm
- unity. Fidelity helps founders prepare for their next round of funding with
-  our\ncap table management and data room platform\n\, events that give you 
- access to seed stage capital\, equity scenario modeling\, and premier suppo
- rt to generate\, execute & store legal documents.  No matter where you are 
- in your journey - from inception to IPO - Fidelity has the expertise to sup
- port you.
-URL:https://markitai.com/u/jonathan/e/lNlfA5LPaM
-END:VEVENT
-BEGIN:VEVENT
 UID:markit:GQyY3bLid
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261108T133000Z
 DTEND:20261108T220000Z
 SUMMARY:HBS Energy and Climate Conference 2026
@@ -53,7 +21,7 @@ URL:https://www.eventbrite.com/e/hbs-energy-and-climate-conference-2026-pow
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:-14Adje2Y
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261109T223000Z
 DTEND:20261110T010000Z
 SUMMARY:Infra Demo Night | Boston
@@ -66,7 +34,7 @@ URL:https://luma.com/ydgrylwg
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:AWU5A1xmj
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261109T230000Z
 DTEND:20261110T020000Z
 SUMMARY:TNT Build Night #5\, with Harvard Grid
@@ -79,7 +47,7 @@ URL:https://luma.com/tyevmrv6
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:-BFRN9Xcm
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261110T200000Z
 DTEND:20261110T230000Z
 SUMMARY:Lovable: Hackathon x Startup Trek (Nov 10)
@@ -92,7 +60,7 @@ URL:https://luma.com/ov7zl4rd
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:EplboSPHWVK
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261110T220000Z
 DTEND:20261111T000000Z
 SUMMARY:Launch Party: 2027 President's Innovation Challenge
@@ -107,7 +75,7 @@ URL:https://innovationlabs.harvard.edu/events/launch-party-2027-presidents-
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:Y3I2Hqia3
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261110T220000Z
 DTEND:20261110T233000Z
 SUMMARY:Happy Human Hour!
@@ -120,7 +88,7 @@ URL:https://luma.com/pucg0lds
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:musXDuKZs
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261110T223000Z
 DTEND:20261111T003000Z
 SUMMARY:MGMT Life Sciences - November Meet Up
@@ -133,7 +101,7 @@ URL:https://luma.com/nyfjr43k
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:ah3eeyFE9v9
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261110T230047Z
 DTEND:20261111T010034Z
 SUMMARY:Founder Dinner Series: Goodwin
@@ -146,7 +114,7 @@ URL:https://massaicoalition.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:giZogylPV
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261111T210000Z
 DTEND:20261111T230000Z
 SUMMARY:WHOOP: Startup Trek (Nov 11)
@@ -159,7 +127,7 @@ URL:https://luma.com/fnm32hm4
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:WagjHS5A6
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261111T213000Z
 DTEND:20261112T010000Z
 SUMMARY:The Founder Lab Table Tennis Open: Finals Night
@@ -172,7 +140,7 @@ URL:https://luma.com/qtv8rbmd
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:4IfVmQAQE
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261111T220000Z
 DTEND:20261111T233000Z
 SUMMARY:A Human Conversation about the Future of Work
@@ -185,7 +153,7 @@ URL:https://luma.com/xg2wbcjm
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:a7qWt-oq8
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261111T233000Z
 DTEND:20261112T013000Z
 SUMMARY:7AI Off The Record @ICA
@@ -198,7 +166,7 @@ URL:https://7ai.com/ica
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:fAOlJ_S3O
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261112T140000Z
 DTEND:20261112T160000Z
 SUMMARY:Women's Health Breakfast
@@ -211,7 +179,7 @@ URL:https://luma.com/4f92wsi3
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:cnqkrPSJj
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261112T180000Z
 DTEND:20261112T223000Z
 SUMMARY:Boston AI Showcase (Mass AI Coalition x SVB)
@@ -224,7 +192,7 @@ URL:https://massaicoalition.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:6oh2FCGgufp
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261112T210000Z
 DTEND:20261112T220000Z
 SUMMARY:Fundraising 101
@@ -238,7 +206,7 @@ URL:https://innovationlabs.harvard.edu/events/fundraising-101-3
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:8Y1J0eTQV
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261112T220000Z
 DTEND:20261112T230000Z
 SUMMARY:State of Deep Tech VC
@@ -251,7 +219,7 @@ URL:https://luma.com/dijktifg
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:39CYKYBpz
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261112T223000Z
 DTEND:20261113T010000Z
 SUMMARY:AI-Native SDLC Executive Roundtable
@@ -264,7 +232,7 @@ URL:https://luma.com/e51rkmre
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:IT3I0iPEM
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261112T230000Z
 DTEND:20261113T013000Z
 SUMMARY:LangChain Boston Meetup: Building and Getting Agents Into Productio
@@ -278,7 +246,7 @@ URL:https://luma.com/x2d94ihu
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:VDT5y41LO
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261112T230000Z
 DTEND:20261113T020000Z
 SUMMARY:Boston Creators Mixer
@@ -291,7 +259,7 @@ URL:https://luma.com/x3akel3o
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:okSdE31zp
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261112T233000Z
 DTEND:20261113T020000Z
 SUMMARY:Boston Marketers Meetup: Happy Hour + Fireside with Kyle Poyar
@@ -304,7 +272,7 @@ URL:https://luma.com/0jzd34tk
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:wcuAdlvq6
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261112T233000Z
 DTEND:20261113T023000Z
 SUMMARY:CODE @ MIT Spotify pre-drinks
@@ -317,7 +285,7 @@ URL:https://luma.com/j7gr8yr3
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:InNCdzXXw
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261113T230000Z
 DTEND:20261114T030000Z
 SUMMARY:MIT Energy & Climate Night
@@ -330,7 +298,7 @@ URL:https://luma.com/kaeo9e5b
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:dKMlatYct
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Startup Fair by HUWiE x MAIC
@@ -343,7 +311,7 @@ URL:https://partiful.com/e/3SB2iktDr4PIn4MFIuSz
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:hD6bG62KW
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261116T140000Z
 DTEND:20261116T190000Z
 SUMMARY:The New Era of Cybersecurity: AI and National Security
@@ -356,7 +324,7 @@ URL:https://luma.com/gfhlclvl
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:AVhPxe9CU
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261117T140000Z
 DTEND:20261117T170000Z
 SUMMARY:Claude Code Workshop with Tenex - Boston
@@ -370,7 +338,7 @@ URL:https://luma.com/tenex-claude-code-workshop-boston-11.17
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:pHj3XLapt
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261118T223000Z
 DTEND:20261119T010000Z
 SUMMARY:Venture Lane Pitch Night
@@ -384,7 +352,7 @@ URL:https://markitai.com/e/kMtELQgOW
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:oZuD0AXnE
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261118T230047Z
 DTEND:20261119T010047Z
 SUMMARY:Founder Dinner Series: Cooley
@@ -397,7 +365,7 @@ URL:https://massaicoalition.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:lbQ20eC3C
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261121T180000Z
 DTEND:20261121T230000Z
 SUMMARY:TEDxBoston -- Planet Action
@@ -410,7 +378,7 @@ URL:https://luma.com/stfcpuoh
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:uddjuyRE7
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261202T230047Z
 DTEND:20261203T010047Z
 SUMMARY:Founder Dinner Series: Rho
@@ -423,7 +391,7 @@ URL:https://massaicoalition.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:clqTjWE1a
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261209T210000Z
 DTEND:20261209T230000Z
 SUMMARY:WHOOP: Startup Trek (Dec 9)
@@ -436,7 +404,7 @@ URL:https://luma.com/6mpyqgvh
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:aZbbfcPQC
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261216T230047Z
 DTEND:20261217T010047Z
 SUMMARY:Founder Dinner Series: Bank of America
@@ -449,7 +417,7 @@ URL:https://massaicoalition.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:rmCFBfPI6
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20261217T230056Z
 DTEND:20261218T020052Z
 SUMMARY:The Boston Holiday Party
@@ -462,7 +430,7 @@ URL:https://massaicoalition.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:ENFp0uiUxd
-DTSTAMP:20261108T045046Z
+DTSTAMP:20261108T050125Z
 DTSTART:20270120T140000Z
 DTEND:20270121T220000Z
 SUMMARY:Propel Summit 2027
