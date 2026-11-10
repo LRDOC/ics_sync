@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Movie Release Dates
 BEGIN:VEVENT
 UID:tmdb:1567605
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Ebenezer — In Theatres
@@ -19,7 +19,7 @@ URL:https://www.ebenezermovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1437511
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:How to Rob a Bank — In Theatres
@@ -34,7 +34,20 @@ URL:https://www.amazon.com/salp/howtorobabank?hhf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1379486
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Victorian Psycho — In Theatres
+DESCRIPTION:Movie: Victorian Psycho\nRuntime: 102 min\nDirector: Zachary Wi
+ gon\nGenre: Horror\, Thriller\nRating: R\n\nWhen eccentric young governess 
+ Winifred Notty arrives at a remote Gothic manor\, a string of unsettling ev
+ ents leads the household to suspect she isn't who she claims to be—but the 
+ truth may be far more dangerous than they imagine.
+URL:https://bleeckerstreetmedia.com/victorian-psycho
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1379486
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Victorian Psycho — In Theatres
@@ -47,7 +60,7 @@ URL:https://bleeckerstreetmedia.com/victorian-psycho
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1801870
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Second Chance Holiday — In Theatres
@@ -61,7 +74,7 @@ URL:https://www.themoviedb.org/movie/1801870
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1300968
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise on the Reaping — In Theatres
@@ -74,7 +87,7 @@ URL:https://hungergames.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1381273
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Paper Tiger — In Theatres
@@ -87,7 +100,7 @@ URL:https://www.neonrated.com/film/paper-tiger
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1538497
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Hexed — In Theatres
@@ -102,7 +115,7 @@ URL:https://movies.disney.com/hexed
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400336
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Focker-in-Law — In Theatres
@@ -114,7 +127,7 @@ URL:https://www.universalpictures.com/movies/focker-in-law/
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1457866
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH — In Theatres
@@ -129,10 +142,11 @@ URL:https://www.netflix.com/title/82054606
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1137888
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:The Man with the Bag — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: The Man with the Bag\nRuntime: Unknown\nDirector: Adam S
  hankman\nGenre: Fantasy\, Comedy\, Family\, Action\n\nAfter Santa’s magic b
  ag is stolen\, he turns to his naughty list to find Vance\, a thief\, to he
@@ -143,7 +157,7 @@ URL:https://www.themoviedb.org/movie/1137888
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1391239
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:The Debut — In Theatres
@@ -157,7 +171,7 @@ URL:https://a24films.com/films/the-debut
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1003596
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday — In Theatres
@@ -169,7 +183,7 @@ URL:https://www.marvel.com/movies/avengers-doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1170608
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three — In Theatres
@@ -186,7 +200,7 @@ URL:https://www.dunemovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1300926
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:The Angry Birds Movie 3 — In Theatres
@@ -198,7 +212,7 @@ URL:https://www.angrybirds.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1260649
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Jumanji: Open World — In Theatres
@@ -210,8 +224,19 @@ DESCRIPTION:Movie: Jumanji: Open World\nRuntime: Unknown\nDirector: Jake Ka
 URL:https://jumanji.movie
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1421903
+DTSTAMP:20261110T181903Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Werwulf — In Theatres
+DESCRIPTION:Movie: Werwulf\nRuntime: 120 min\nDirector: Robert Eggers\nGenr
+ e: Horror\nRating: R\n\nA harrowing tale of devotion\, damnation and the de
+ vil within.
+URL:https://www.focusfeatures.com/werwulf
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1440769
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:The Beekeeper 2 — In Theatres
@@ -223,7 +248,7 @@ URL:https://www.amazon.com/salp/beekeeper?hhf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1124006
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:Lords of War — In Theatres
@@ -236,7 +261,7 @@ URL:https://www.themoviedb.org/movie/1124006
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1384758
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Ice Age: Boiling Point — In Theatres
@@ -250,7 +275,7 @@ URL:https://movies.disney.com/ice-age-boiling-point
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1340208
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Karōshi — In Theatres
@@ -263,7 +288,7 @@ URL:https://www.karoshi.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1147572
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:Narnia: The Magician's Nephew — In Theatres
@@ -276,7 +301,7 @@ URL:https://narniafilm.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1497464
-DTSTAMP:20261110T161855Z
+DTSTAMP:20261110T181903Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:Gatto — In Theatres
@@ -286,7 +311,7 @@ DESCRIPTION:Movie: Gatto\nRuntime: Unknown\nDirector: Enrico Casarosa\nGenr
  ed Nero begins to question whether he’s lived the right lives. Indebted to 
  Rocco\, a ruthless local feline mob boss\, Nero finds himself in a quandary
   and is forced to forge a truly unexpected friendship that may finally lead
-  him to his purpose — unless Venice gets the better of him first.
+  him to his purpose—unless Venice gets the better of him first.
 URL:https://www.pixar.com/gatto
 END:VEVENT
 END:VCALENDAR
