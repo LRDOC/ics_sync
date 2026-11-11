@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Movie Release Dates
 BEGIN:VEVENT
 UID:tmdb:1567605
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Ebenezer — In Theatres
@@ -19,7 +19,7 @@ URL:https://www.ebenezermovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1379486
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Victorian Psycho — In Theatres
@@ -32,7 +32,7 @@ URL:https://bleeckerstreetmedia.com/victorian-psycho
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1801870
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Second Chance Holiday — In Theatres
@@ -46,7 +46,7 @@ URL:https://www.themoviedb.org/movie/1801870
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1300968
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise on the Reaping — In Theatres
@@ -59,7 +59,7 @@ URL:https://hungergames.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1381273
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Paper Tiger — In Theatres
@@ -71,8 +71,25 @@ DESCRIPTION:Movie: Paper Tiger\nRuntime: 115 min\nDirector: James Gray\nGen
 URL:https://www.neonrated.com/film/paper-tiger
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1595124
+DTSTAMP:20261111T042003Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Steps — In Theatres
+DESCRIPTION:Movie: Steps\nRuntime: 102 min\nDirector: Alyce Tzue\nGenre: An
+ imation\, Fantasy\, Comedy\, Family\, Adventure\nRating: PG\n\nThink you kn
+ ow Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith 
+ is blamed for hijacking the Royal Ball with a stolen magic wand\, she accid
+ entally turns her sister Margot into a frog and leaves the kingdom in the h
+ ands of a prince-obsessed mean girl. Now Lilith must team up with Cinderell
+ a — and a surprisingly dreamy troll — to save the kingdom\, repair the frac
+ tured fairytale\, and prove that even so-called villains deserve a shot at 
+ happily-ever-after.
+URL:https://www.netflix.com/title/81212809
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1538497
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Hexed — In Theatres
@@ -87,7 +104,7 @@ URL:https://movies.disney.com/hexed
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1400336
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Focker-in-Law — In Theatres
@@ -99,7 +116,7 @@ URL:https://www.universalpictures.com/movies/focker-in-law/
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1457866
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH — In Theatres
@@ -114,7 +131,7 @@ URL:https://www.netflix.com/title/82054606
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1137888
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:The Man with the Bag — In Theatres
@@ -128,7 +145,7 @@ URL:https://www.themoviedb.org/movie/1137888
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1078446
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Violent Night 2 — In Theatres
@@ -143,11 +160,25 @@ DESCRIPTION:Movie: Violent Night 2\nRuntime: 110 min\nDirector: Tommy Wirko
 URL:https://www.violentnightmovie.com
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1452168
+DTSTAMP:20261111T042003Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Behemoth! — In Theatres
+DESCRIPTION:Movie: Behemoth!\nRuntime: 127 min\nDirector: Tony Gilroy\nGenr
+ e: Music\, Drama\nRating: R\n\nGifted cellist Alex Serian returns home to L
+ os Angeles after 20 years on the road. Music\, which has been the constant\
+ , all-consuming river of his life\, begins to carry Alex on an adventure th
+ at will change him forever.
+URL:https://www.searchlightpictures.com/behemoth
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1391239
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:The Debut — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: The Debut\nRuntime: 105 min\nDirector: Jesse Eisenberg\n
  Genre: Music\, Comedy\, Drama\nRating: R\n\nWhen Mona Friedman is cast in a
   bit part at a small community theater\, she transforms from a shy\, unassu
@@ -158,7 +189,7 @@ URL:https://a24films.com/films/the-debut
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1003596
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday — In Theatres
@@ -170,7 +201,7 @@ URL:https://www.marvel.com/movies/avengers-doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1170608
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three — In Theatres
@@ -187,7 +218,7 @@ URL:https://www.dunemovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1300926
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:The Angry Birds Movie 3 — In Theatres
@@ -199,7 +230,7 @@ URL:https://www.angrybirds.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1260649
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Jumanji: Open World — In Theatres
@@ -212,7 +243,18 @@ URL:https://jumanji.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1421903
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Werwulf — In Theatres
+DESCRIPTION:Movie: Werwulf\nRuntime: 120 min\nDirector: Robert Eggers\nGenr
+ e: Horror\nRating: R\n\nA harrowing tale of devotion\, damnation and the de
+ vil within.
+URL:https://www.focusfeatures.com/werwulf
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb:1421903
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Werwulf — In Theatres
@@ -223,7 +265,7 @@ URL:https://www.focusfeatures.com/werwulf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1440769
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:The Beekeeper 2 — In Theatres
@@ -235,7 +277,7 @@ URL:https://www.amazon.com/salp/beekeeper?hhf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:701244
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:The Take — In Theatres
@@ -246,7 +288,7 @@ URL:https://www.netflix.com/title/81289270
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1124006
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:Lords of War — In Theatres
@@ -259,7 +301,7 @@ URL:https://www.themoviedb.org/movie/1124006
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1384758
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Ice Age: Boiling Point — In Theatres
@@ -273,7 +315,7 @@ URL:https://movies.disney.com/ice-age-boiling-point
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1340208
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Karōshi — In Theatres
@@ -286,7 +328,7 @@ URL:https://www.karoshi.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1147572
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:Narnia: The Magician's Nephew — In Theatres
@@ -299,7 +341,7 @@ URL:https://narniafilm.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1497464
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:Gatto — In Theatres
@@ -314,7 +356,7 @@ URL:https://www.pixar.com/gatto
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1401586
-DTSTAMP:20261111T022013Z
+DTSTAMP:20261111T042003Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:Sonic the Hedgehog 4 — In Theatres
