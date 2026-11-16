@@ -19,7 +19,7 @@ URL:https://luma.com/0iufmn6q
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:hD6bG62KW
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261116T140000Z
 DTEND:20261116T190000Z
 SUMMARY:The New Era of Cybersecurity: AI and National Security
@@ -31,8 +31,21 @@ DESCRIPTION:Event Link: https://luma.com/gfhlclvl\nMarkit Profile: https://
 URL:https://luma.com/gfhlclvl
 END:VEVENT
 BEGIN:VEVENT
+UID:markit:dxa4dKYft
+DTSTAMP:20261116T200114Z
+DTSTART:20261116T223000Z
+DTEND:20261117T003000Z
+SUMMARY:Startup Boston Mentor Groups for Early-Stage Founders
+LOCATION:Boston\, MA\, USA
+DESCRIPTION:Event Link: https://luma.com/vo5zfere\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Nov 16\, 2026\, 5:30 PM\nEnd: Nov 16\, 2026
+ \, 7:30 PM\nLocation: Boston\, MA\, USA\nEvent Type: External Without Data\
+ nMarkit Event ID: dxa4dKYft
+URL:https://luma.com/vo5zfere
+END:VEVENT
+BEGIN:VEVENT
 UID:markit:76RAYTqkr
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261116T230000Z
 DTEND:20261117T020000Z
 SUMMARY:TNT Build Night #5\, with BAL
@@ -45,7 +58,7 @@ URL:https://luma.com/tyevmrv6
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:AVhPxe9CU
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261117T140000Z
 DTEND:20261117T170000Z
 SUMMARY:Claude Code Workshop with Tenex - Boston
@@ -59,7 +72,7 @@ URL:https://luma.com/tenex-claude-code-workshop-boston-11.17
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:z5TYxwc2v
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261117T200000Z
 DTEND:20261117T220000Z
 SUMMARY:Lovable: Hackathon x Startup Trek (Nov 17)
@@ -71,8 +84,35 @@ DESCRIPTION:Event Link: https://luma.com/gfi154ck\nMarkit Profile: https://
 URL:https://luma.com/gfi154ck
 END:VEVENT
 BEGIN:VEVENT
+UID:markit:HGFuesSK-
+DTSTAMP:20261116T200114Z
+DTSTART:20261117T210000Z
+DTEND:20261118T000000Z
+SUMMARY:MassRobotics x Lattice Semiconductor: Physical AI Session & Network
+ ing
+LOCATION:Boston\, MA\, USA
+DESCRIPTION:Event Link: https://luma.com/ls2d47li\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Nov 17\, 2026\, 4:00 PM\nEnd: Nov 17\, 2026
+ \, 7:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: External Without Data\
+ nMarkit Event ID: HGFuesSK-
+URL:https://luma.com/ls2d47li
+END:VEVENT
+BEGIN:VEVENT
+UID:markit:VgeXctKdr
+DTSTAMP:20261116T200114Z
+DTSTART:20261117T223000Z
+DTEND:20261118T003000Z
+SUMMARY:Boston Founder/Funder Meetup: Round 6
+LOCATION:Boston\, MA\, USA
+DESCRIPTION:Event Link: https://luma.com/rxryiufy\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Nov 17\, 2026\, 5:30 PM\nEnd: Nov 17\, 2026
+ \, 7:30 PM\nLocation: Boston\, MA\, USA\nEvent Type: External Without Data\
+ nMarkit Event ID: VgeXctKdr
+URL:https://luma.com/rxryiufy
+END:VEVENT
+BEGIN:VEVENT
 UID:markit:ePl3ZXCeY
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261117T230000Z
 DTEND:20261118T010000Z
 SUMMARY:College Night: Underscore VC x Rho
@@ -86,8 +126,22 @@ DESCRIPTION:Event Link: https://luma.com/unders-h0zx\nMarkit Profile: https
 URL:https://luma.com/unders-h0zx
 END:VEVENT
 BEGIN:VEVENT
+UID:markit:JCirQmHlh
+DTSTAMP:20261116T200114Z
+DTSTART:20261118T140000Z
+DTEND:20261118T160000Z
+SUMMARY:Hard Tech Founder/Investor Breakfast (Cooley x Fidelity Private Sha
+ res)
+LOCATION:60 State St\, Boston\, MA 02109\, USA
+DESCRIPTION:Event Link: https://luma.com/5ny93gbe\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Nov 18\, 2026\, 9:00 AM\nEnd: Nov 18\, 2026
+ \, 11:00 AM\nLocation: 60 State St\, Boston\, MA 02109\, USA\nEvent Type: E
+ xternal Without Data\nMarkit Event ID: JCirQmHlh
+URL:https://luma.com/5ny93gbe
+END:VEVENT
+BEGIN:VEVENT
 UID:markit:q2R2ffKHi
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261118T140000Z
 DTEND:20261119T230000Z
 SUMMARY:300 Mass Ave. Launch Week Open House
@@ -100,8 +154,21 @@ DESCRIPTION:Event Link: https://entrepreneurship.northeastern.edu/300-mass-
 URL:https://entrepreneurship.northeastern.edu/300-mass-ave-open-house/
 END:VEVENT
 BEGIN:VEVENT
+UID:markit:RBtnH3Fite
+DTSTAMP:20261116T200114Z
+DTSTART:20261118T170000Z
+DTEND:20261118T190000Z
+SUMMARY:Boston VC Lunch by Rho
+LOCATION:327 Newbury St\, Boston\, MA 02115\, USA
+DESCRIPTION:Event Link: https://luma.com/rhoevents-h8tl\nMarkit Profile: ht
+ tps://markitai.com/u/jonathan\nStart: Nov 18\, 2026\, 12:00 PM\nEnd: Nov 18
+ \, 2026\, 2:00 PM\nLocation: 327 Newbury St\, Boston\, MA 02115\, USA\nEven
+ t Type: External Without Data\nMarkit Event ID: RBtnH3Fite
+URL:https://luma.com/rhoevents-h8tl
+END:VEVENT
+BEGIN:VEVENT
 UID:markit:4YcQdtlxT
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261118T190000Z
 DTEND:20261119T020000Z
 SUMMARY:Suffolk Technologies BOOST Demo Day
@@ -113,8 +180,21 @@ DESCRIPTION:Event Link: https://suffolktech.com/boost/\nMarkit Profile: htt
 URL:https://suffolktech.com/boost/
 END:VEVENT
 BEGIN:VEVENT
+UID:markit:L2NEUVQyP
+DTSTAMP:20261116T200114Z
+DTSTART:20261118T210000Z
+DTEND:20261118T230000Z
+SUMMARY:WHOOP: Startup Trek (Nov 18)
+LOCATION:One Kenmore Sq\, Boston\, MA 02215\, USA
+DESCRIPTION:Event Link: https://luma.com/c39hvngc\nMarkit Profile: https://
+ markitai.com/u/jonathan\nStart: Nov 18\, 2026\, 4:00 PM\nEnd: Nov 18\, 2026
+ \, 6:00 PM\nLocation: One Kenmore Sq\, Boston\, MA 02215\, USA\nEvent Type:
+  External Without Data\nMarkit Event ID: L2NEUVQyP
+URL:https://luma.com/c39hvngc
+END:VEVENT
+BEGIN:VEVENT
 UID:markit:QNBFniuYS
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261118T210000Z
 DTEND:20261118T230000Z
 SUMMARY:Enlaye: Startup Trek
@@ -126,8 +206,22 @@ DESCRIPTION:Event Link: https://luma.com/4d12mbqu\nMarkit Profile: https://
 URL:https://luma.com/4d12mbqu
 END:VEVENT
 BEGIN:VEVENT
+UID:markit:7AKDctuat
+DTSTAMP:20261116T200114Z
+DTSTART:20261118T220000Z
+DTEND:20261119T000000Z
+SUMMARY:Epipelagic Ventures: A Night of Gratitude for Boston's Startup Comm
+ unity
+LOCATION:1 Broadway\, Cambridge\, MA 02142\, USA
+DESCRIPTION:Event Link: https://luma.com/epipel-hr9e\nMarkit Profile: https
+ ://markitai.com/u/jonathan\nStart: Nov 18\, 2026\, 5:00 PM\nEnd: Nov 18\, 2
+ 026\, 7:00 PM\nLocation: 1 Broadway\, Cambridge\, MA 02142\, USA\nEvent Typ
+ e: External Without Data\nMarkit Event ID: 7AKDctuat
+URL:https://luma.com/epipel-hr9e
+END:VEVENT
+BEGIN:VEVENT
 UID:markit:WiwKRWaRP
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261118T223000Z
 DTEND:20261119T003000Z
 SUMMARY:Built in Boston: A Student Founder Pitch Showcase
@@ -140,7 +234,7 @@ URL:https://luma.com/u44giwsf
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:pHj3XLapt
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261118T223000Z
 DTEND:20261119T010000Z
 SUMMARY:Venture Lane Pitch Night
@@ -154,11 +248,12 @@ URL:https://markitai.com/e/kMtELQgOW
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:oZuD0AXnE
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261118T230047Z
 DTEND:20261119T010047Z
 SUMMARY:Founder Dinner Series: Cooley
 LOCATION:Boston\, MA\, USA
+STATUS:CANCELLED
 DESCRIPTION:Event Link: https://massaicoalition.com/events\nMarkit Profile:
   https://markitai.com/u/jonathan\nStart: Nov 18\, 2026\, 6:00 PM\nEnd: Nov 
  18\, 2026\, 8:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: External With
@@ -167,7 +262,7 @@ URL:https://massaicoalition.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:lbQ20eC3C
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261121T180000Z
 DTEND:20261121T230000Z
 SUMMARY:TEDxBoston -- Planet Action
@@ -180,7 +275,7 @@ URL:https://luma.com/stfcpuoh
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:py-0Dufk7
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261122T130000Z
 DTEND:20261123T003000Z
 SUMMARY:HBS Entrepreneurship Conference: From Ideas to Institutions
@@ -193,7 +288,7 @@ URL:https://hbs-entrepreneurship-club.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:GS-xI8P4m
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261202T223000Z
 DTEND:20261203T003000Z
 SUMMARY:Venture Lane’s Jingle & Mingle
@@ -206,7 +301,7 @@ URL:https://markitai.com/e/SR_2GOiFP
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:uddjuyRE7
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261202T230047Z
 DTEND:20261203T010047Z
 SUMMARY:Founder Dinner Series: Rho
@@ -219,7 +314,7 @@ URL:https://massaicoalition.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:39CYKYBpz
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261203T223000Z
 DTEND:20261204T010000Z
 SUMMARY:AI-Native SDLC Executive Roundtable
@@ -232,7 +327,7 @@ URL:https://luma.com/e51rkmre
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:clqTjWE1a
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261209T210000Z
 DTEND:20261209T230000Z
 SUMMARY:WHOOP: Startup Trek (Dec 9)
@@ -245,7 +340,7 @@ URL:https://luma.com/6mpyqgvh
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:CY-VSNXr1
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261209T230000Z
 DTEND:20261210T010000Z
 SUMMARY:Founder Dinner Series: Gunderson Dettmer
@@ -258,11 +353,12 @@ URL:https://massaicoalition.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:aZbbfcPQC
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261216T230047Z
 DTEND:20261217T010047Z
 SUMMARY:Founder Dinner Series: Bank of America
 LOCATION:Boston\, MA\, USA
+STATUS:CANCELLED
 DESCRIPTION:Event Link: https://massaicoalition.com/events\nMarkit Profile:
   https://markitai.com/u/jonathan\nStart: Dec 16\, 2026\, 6:00 PM\nEnd: Dec 
  16\, 2026\, 8:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: External With
@@ -271,11 +367,12 @@ URL:https://massaicoalition.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:rmCFBfPI6
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20261217T230056Z
 DTEND:20261218T020052Z
 SUMMARY:The Boston Holiday Party
 LOCATION:Boston\, MA\, USA
+STATUS:CANCELLED
 DESCRIPTION:Event Link: https://massaicoalition.com/events\nMarkit Profile:
   https://markitai.com/u/jonathan\nStart: Dec 17\, 2026\, 6:00 PM\nEnd: Dec 
  17\, 2026\, 9:00 PM\nLocation: Boston\, MA\, USA\nEvent Type: External With
@@ -284,7 +381,7 @@ URL:https://massaicoalition.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:markit:ENFp0uiUxd
-DTSTAMP:20261116T195042Z
+DTSTAMP:20261116T200114Z
 DTSTART:20270120T140000Z
 DTEND:20270121T220000Z
 SUMMARY:Propel Summit 2027
