@@ -31,7 +31,7 @@ URL:https://www.netflix.com/title/81749470
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1299329
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Josephine — In Theatres
@@ -44,7 +44,7 @@ URL:https://sumerianpictures.com/movies/josephine
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1595124
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Steps — In Theatres
@@ -61,7 +61,7 @@ URL:https://www.netflix.com/title/81212809
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1568060
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Perfect Liars — In Theatres
@@ -70,22 +70,8 @@ DESCRIPTION:Movie: Perfect Liars\nRuntime: Unknown\nDirector: Jesús Colmena
 URL:https://www.themoviedb.org/movie/1568060
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:1400336
-DTSTAMP:20261119T141919Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Focker-in-Law — In Theatres
-DESCRIPTION:Movie: Focker-in-Law\nRuntime: 105 min\nDirector: John Hamburg\
- nGenre: Comedy\, Romance\nRating: PG-13\n\nHenry\, son of Greg and Pam Fock
- er\, aims to marry Olivia\, a strong-willed former hostage negotiator who a
- ppears to be his complete mismatch. To Greg's shock\, stepdad Jack Byrnes t
- akes a liking to Olivia\, and her unprecedented rise into his Circle of Tru
- st sparks chaos in the family before Jack's 80th birthday party.
-URL:https://www.universalpictures.com/movies/focker-in-law/
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb:1538497
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Hexed — In Theatres
@@ -99,23 +85,22 @@ DESCRIPTION:Movie: Hexed\nRuntime: 103 min\nDirector: Jason Hand\, Fawn Vee
 URL:https://movies.disney.com/hexed
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:1457866
-DTSTAMP:20261119T141919Z
+UID:tmdb:1400336
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH — In Theatres
-DESCRIPTION:Movie: THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH\nRuntime: 141 
- min\nDirector: David Fincher\nGenre: Comedy\, Drama\, Thriller\nRating: R\n
- \nEight years after the events of Once Upon a Time in... Hollywood\, Cliff 
- Booth returns to a changing Los Angeles. Now working as a fixer in the shad
- ows of the Hollywood studio system\, Cliff finds himself entangled in a dan
- gerous web of secrets\, crimes and betrayals that will test everything he k
- nows about loyalty and survival.
-URL:https://www.cliffboothfilm.com
+SUMMARY:Focker-in-Law — In Theatres
+DESCRIPTION:Movie: Focker-in-Law\nRuntime: 105 min\nDirector: John Hamburg\
+ nGenre: Comedy\, Romance\nRating: PG-13\n\nHenry\, son of Greg and Pam Fock
+ er\, aims to marry Olivia\, a strong-willed former hostage negotiator who a
+ ppears to be his complete mismatch. To Greg's shock\, stepdad Jack Byrnes t
+ akes a liking to Olivia\, and her unprecedented rise into his Circle of Tru
+ st sparks chaos in the family before Jack's 80th birthday party.
+URL:https://www.universalpictures.com/movies/focker-in-law/
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1461490
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Hershey — In Theatres
@@ -131,8 +116,23 @@ DESCRIPTION:Movie: Hershey\nRuntime: 110 min\nDirector: Mark Waters\nGenre:
 URL:https://www.angel.com/movies/hershey
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1457866
+DTSTAMP:20261119T161952Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH — In Theatres
+DESCRIPTION:Movie: THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH\nRuntime: 141 
+ min\nDirector: David Fincher\nGenre: Comedy\, Drama\, Thriller\nRating: R\n
+ \nEight years after the events of Once Upon a Time in... Hollywood\, Cliff 
+ Booth returns to a changing Los Angeles. Now working as a fixer in the shad
+ ows of the Hollywood studio system\, Cliff finds himself entangled in a dan
+ gerous web of secrets\, crimes and betrayals that will test everything he k
+ nows about loyalty and survival.
+URL:https://www.cliffboothfilm.com
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1720486
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Lilo & Scratch — In Theatres
@@ -145,7 +145,7 @@ URL:https://www.themoviedb.org/movie/1720486
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1137888
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:The Man with the Bag — In Theatres
@@ -158,8 +158,21 @@ DESCRIPTION:Movie: The Man with the Bag\nRuntime: Unknown\nDirector: Adam S
 URL:https://www.themoviedb.org/movie/1137888
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1287520
+DTSTAMP:20261119T161952Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:November 1963 — In Theatres
+DESCRIPTION:Movie: November 1963\nRuntime: 120 min\nDirector: Roland Joffé\
+ nGenre: History\, Crime\, Thriller\, Drama\n\nFollows the 48 hours after th
+ e assassination of President John F. Kennedy\, the alleged involvement of S
+ am Giancana and the 'Chicago Outfit'\, and a supposed broken promise after 
+ the mob helped to get Kennedy elected.
+URL:https://www.themoviedb.org/movie/1287520
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1078446
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Violent Night 2 — In Theatres
@@ -175,7 +188,7 @@ URL:https://www.violentnightmovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:940009
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Ray Gunn — In Theatres
@@ -188,7 +201,7 @@ URL:https://www.netflix.com/title/81756797
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1452168
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Behemoth! — In Theatres
@@ -200,21 +213,8 @@ DESCRIPTION:Movie: Behemoth!\nRuntime: 127 min\nDirector: Tony Gilroy\nGenr
 URL:https://www.searchlightpictures.com/behemoth
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:1287520
-DTSTAMP:20261119T141919Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:November 1963 — In Theatres
-DESCRIPTION:Movie: November 1963\nRuntime: 120 min\nDirector: Roland Joffé\
- nGenre: History\, Crime\, Thriller\, Drama\n\nFollows the 48 hours after th
- e assassination of President John F. Kennedy\, the alleged involvement of S
- am Giancana and the 'Chicago Outfit'\, and a supposed broken promise after 
- the mob helped to get Kennedy elected.
-URL:https://www.themoviedb.org/movie/1287520
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb:1391239
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:The Debut — In Theatres
@@ -228,7 +228,7 @@ URL:https://a24films.com/films/the-debut
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1003596
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday — In Theatres
@@ -241,7 +241,7 @@ URL:https://www.marvel.com/movies/avengers-doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1170608
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three — In Theatres
@@ -258,7 +258,7 @@ URL:https://www.dunemovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1300926
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:The Angry Birds Movie 3 — In Theatres
@@ -270,7 +270,7 @@ URL:https://www.angrybirds.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1260649
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Jumanji: Open World — In Theatres
@@ -283,7 +283,7 @@ URL:https://jumanji.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1421903
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Werwulf — In Theatres
@@ -294,7 +294,7 @@ URL:https://www.focusfeatures.com/werwulf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1492198
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Artificial — In Theatres
@@ -309,7 +309,7 @@ URL:https://www.neonrated.com/film/artificial
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1440769
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:The Beekeeper 2 — In Theatres
@@ -321,7 +321,7 @@ URL:https://www.amazon.com/salp/beekeeper?hhf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:621304
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Children of Blood and Bone — In Theatres
@@ -334,7 +334,7 @@ URL:https://www.childrenofbloodandbone.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1384758
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Ice Age: Boiling Point — In Theatres
@@ -348,7 +348,7 @@ URL:https://movies.disney.com/ice-age-boiling-point
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1425859
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Remain — In Theatres
@@ -361,7 +361,7 @@ URL:https://www.warnerbros.com/movies/remain
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1147572
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:Narnia: The Magician's Nephew — In Theatres
@@ -374,7 +374,7 @@ URL:https://narniafilm.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1497464
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:Gatto — In Theatres
@@ -389,7 +389,7 @@ URL:https://www.pixar.com/gatto
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1401586
-DTSTAMP:20261119T141919Z
+DTSTAMP:20261119T161952Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:Sonic the Hedgehog 4 — In Theatres
