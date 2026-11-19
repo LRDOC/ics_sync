@@ -30,8 +30,21 @@ DESCRIPTION:Movie: Guarding Stars\nRuntime: 109 min\nDirector: Elizabeth Al
 URL:https://www.netflix.com/title/81749470
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1299329
+DTSTAMP:20261119T082239Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Josephine — In Theatres
+DESCRIPTION:Movie: Josephine\nRuntime: 119 min\nDirector: Beth de Araújo\nG
+ enre: Drama\, Crime\nRating: R\n\nAfter eight-year-old Josephine accidental
+ ly witnesses a brutal assault\, she begins acting out violently to protect 
+ herself. This emotional trauma leads to conflicts between her parents as th
+ ey search for justice and a way to feel safe again.
+URL:https://sumerianpictures.com/movies/josephine
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1595124
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Steps — In Theatres
@@ -47,24 +60,22 @@ DESCRIPTION:Movie: Steps\nRuntime: 102 min\nDirector: Alyce Tzue\nGenre: An
 URL:https://www.netflix.com/title/81212809
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:1299329
-DTSTAMP:20261119T062722Z
+UID:tmdb:1568060
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Josephine — In Theatres
-DESCRIPTION:Movie: Josephine\nRuntime: 119 min\nDirector: Beth de Araújo\nG
- enre: Drama\, Crime\nRating: R\n\nAfter eight-year-old Josephine accidental
- ly witnesses a brutal assault\, she begins acting out violently to protect 
- herself. This emotional trauma leads to conflicts between her parents as th
- ey search for justice and a way to feel safe again.
-URL:https://sumerianpictures.com/movies/josephine
+SUMMARY:Perfect Liars — In Theatres
+DESCRIPTION:Movie: Perfect Liars\nRuntime: Unknown\nDirector: Jesús Colmena
+ r\nGenre: Drama\, Romance\, Thriller
+URL:https://www.themoviedb.org/movie/1568060
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1280115
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Way of the Warrior Kid — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: Way of the Warrior Kid\nRuntime: 106 min\nDirector: McG\
  nGenre: Drama\, Family\n\nJake is an injured Navy SEAL who becomes a mentor
   for his shy\, struggling nephew Marc. Using the principles of his military
@@ -73,8 +84,22 @@ DESCRIPTION:Movie: Way of the Warrior Kid\nRuntime: 106 min\nDirector: McG\
 URL:https://tv.apple.com/movie/umc.cmc.21vzhs44oeejdkoxenkcdmre0
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb:1400336
+DTSTAMP:20261119T082239Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Focker-in-Law — In Theatres
+DESCRIPTION:Movie: Focker-in-Law\nRuntime: 105 min\nDirector: John Hamburg\
+ nGenre: Comedy\, Romance\nRating: PG-13\n\nHenry\, son of Greg and Pam Fock
+ er\, aims to marry Olivia\, a strong-willed former hostage negotiator who a
+ ppears to be his complete mismatch. To Greg's shock\, stepdad Jack Byrnes t
+ akes a liking to Olivia\, and her unprecedented rise into his Circle of Tru
+ st sparks chaos in the family before Jack's 80th birthday party.
+URL:https://www.universalpictures.com/movies/focker-in-law/
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb:1538497
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Hexed — In Theatres
@@ -88,22 +113,8 @@ DESCRIPTION:Movie: Hexed\nRuntime: 103 min\nDirector: Jason Hand\, Fawn Vee
 URL:https://movies.disney.com/hexed
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:1400336
-DTSTAMP:20261119T062722Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Focker-in-Law — In Theatres
-DESCRIPTION:Movie: Focker-in-Law\nRuntime: 105 min\nDirector: John Hamburg\
- nGenre: Comedy\, Romance\nRating: PG-13\n\nHenry\, son of Greg and Pam Fock
- er\, aims to marry Olivia\, a strong-willed former hostage negotiator who a
- ppears to be his complete mismatch. To Greg's shock\, stepdad Jack Byrnes t
- akes a liking to Olivia\, and her unprecedented rise into his Circle of Tru
- st sparks chaos in the family before Jack's 80th birthday party.
-URL:https://www.universalpictures.com/movies/focker-in-law/
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb:1457866
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH — In Theatres
@@ -118,7 +129,7 @@ URL:https://www.cliffboothfilm.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1720486
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Lilo & Scratch — In Theatres
@@ -131,7 +142,7 @@ URL:https://www.themoviedb.org/movie/1720486
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1137888
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:The Man with the Bag — In Theatres
@@ -145,7 +156,7 @@ URL:https://www.themoviedb.org/movie/1137888
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1078446
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Violent Night 2 — In Theatres
@@ -161,7 +172,7 @@ URL:https://www.violentnightmovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:940009
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Ray Gunn — In Theatres
@@ -174,7 +185,7 @@ URL:https://www.netflix.com/title/81756797
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1452168
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Behemoth! — In Theatres
@@ -187,7 +198,7 @@ URL:https://www.searchlightpictures.com/behemoth
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1287520
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:November 1963 — In Theatres
@@ -200,7 +211,7 @@ URL:https://www.themoviedb.org/movie/1287520
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1391239
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:The Debut — In Theatres
@@ -214,7 +225,7 @@ URL:https://a24films.com/films/the-debut
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1003596
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday — In Theatres
@@ -227,7 +238,7 @@ URL:https://www.marvel.com/movies/avengers-doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1170608
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three — In Theatres
@@ -244,7 +255,7 @@ URL:https://www.dunemovie.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1300926
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:The Angry Birds Movie 3 — In Theatres
@@ -256,7 +267,7 @@ URL:https://www.angrybirds.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1260649
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Jumanji: Open World — In Theatres
@@ -269,7 +280,7 @@ URL:https://jumanji.movie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1421903
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Werwulf — In Theatres
@@ -280,7 +291,7 @@ URL:https://www.focusfeatures.com/werwulf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1492198
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Artificial — In Theatres
@@ -295,7 +306,7 @@ URL:https://www.neonrated.com/film/artificial
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1440769
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:The Beekeeper 2 — In Theatres
@@ -307,7 +318,7 @@ URL:https://www.amazon.com/salp/beekeeper?hhf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:621304
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Children of Blood and Bone — In Theatres
@@ -319,20 +330,8 @@ DESCRIPTION:Movie: Children of Blood and Bone\nRuntime: 146 min\nDirector:
 URL:https://www.childrenofbloodandbone.movie
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb:701244
-DTSTAMP:20261119T062722Z
-DTSTART;VALUE=DATE:20270115
-DTEND;VALUE=DATE:20270116
-SUMMARY:The Take — In Theatres
-STATUS:CANCELLED
-DESCRIPTION:Movie: The Take\nRuntime: Unknown\nDirector: Fernando Meirelles
- \nGenre: Thriller\, Crime\nRating: R\n\nA bank guard\, a teller and a maste
- r thief play a deadly game of cons and double-crosses.
-URL:https://www.netflix.com/title/81289270
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb:1384758
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Ice Age: Boiling Point — In Theatres
@@ -346,7 +345,7 @@ URL:https://movies.disney.com/ice-age-boiling-point
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1425859
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Remain — In Theatres
@@ -359,7 +358,7 @@ URL:https://www.warnerbros.com/movies/remain
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1147572
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:Narnia: The Magician's Nephew — In Theatres
@@ -372,7 +371,7 @@ URL:https://narniafilm.com
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1497464
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:Gatto — In Theatres
@@ -387,10 +386,11 @@ URL:https://www.pixar.com/gatto
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:615121
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:The Thomas Crown Affair — In Theatres
+STATUS:CANCELLED
 DESCRIPTION:Movie: The Thomas Crown Affair\nRuntime: 130 min\nDirector: Mic
  hael B. Jordan\nGenre: Crime\, Romance\, Thriller\nRating: PG-13\n\nA debon
  air\, adventuresome man believes he has pulled off the perfect multi-millio
@@ -400,7 +400,7 @@ URL:https://www.amazon.com/salp/thomascrownaffair?hhf
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb:1401586
-DTSTAMP:20261119T062722Z
+DTSTAMP:20261119T082239Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:Sonic the Hedgehog 4 — In Theatres
